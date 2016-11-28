@@ -198,7 +198,7 @@ I'm on the journey, too. Follow along:
 ## About Google
 
 - [x] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] How Search Works:
+- [X] How Search Works:
     - [x] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [x] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [x] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
