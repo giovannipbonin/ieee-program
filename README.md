@@ -1,23 +1,20 @@
-# Google Interview University
+# IEEE Student Software Engineer Program - University of Miami
 
-Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
+# Note
+This guide is based on the Google Interview University program crafted by, @jwasham,
+and located at https://github.com/jwasham/google-interview-university and it's a work
+in progress that I have started in order to create a student software engineer program 
+for the IEEE student organization at my University. With the goal to complement and 
+suplemment materials from the traditional curriculum
 
-## What is it?
+Author: Giovanni Pascotto Bonin (author of this revised edition, check commit history to see changes)
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
-sometimes word-for-word in Google's coaching notes.
-
----
 
 ## Table of Contents
 
-- [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Get in a Googley Mood](#get-in-a-googley-mood)
@@ -119,21 +116,29 @@ sometimes word-for-word in Google's coaching notes.
 
 ## Why use it?
 
-I'm following this plan to prepare for my Google interview. I've been building the web, building
-services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
-been very successful in my career, but I want to work at Google. I want to progress into larger systems
-and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
-low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
+This program will help you understand computer systems, algorithm efficiency, data structure performance, 
+low-level languages, and understand how it all works. These subjects are extremely important, and the Google
+hiring process places a huge importance on it. There is no shortage of studying, the more you know about these subjects, the better.
 
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
 
-But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
-months. If you are familiar with a lot of this already it will take you a lot less time.
+Before I started college I started learning computer science on my own, although I'd wish I had started even earlier given I started when I was 17.
+However, during that gap year, when I found websites such as Coursera, MIT OpenCourseware, as well as a multitude of other content on the internet such
+as free textbooks and all that, I realized there is nothing short of motivation that can stop any of us in becoming one of the best at any field we want to excel in.
+
+When I started college, I had realized that I could actually learn better on my own than I could learn in class, so if that's the case to you, embrace it and pursue your passion
+in the way you know works best. The goal of this is to be a list of resources that can be followed and give you a good coverage on what's important.
+It turned out for me that by the end of my college career I wanted to work for a startup, as that way I can have a bigger impact in something that is
+in its early stages and really needs to be pushed forward, and these experiences with learning told me to go into the education space.
+
+This is a long plan, and some interviewers will even tell you that some of these stuff is more advanced than you need. In fact, I found this guide
+after accepting my full-time offer with my favorite startup in the world, and I am going through it now (for fun) since practice is never too much,
+and some of this stuff I haven't had time to cover before, but it is well worth it to be good at what we do.
+
+So yes, it might be true that some of these things don't often show up on an interview. But that's until it does, and that happens to be you, and you
+start thinking to yourself DAMN, I should really have spent that weekend learning about this, now I have to wait a year to reapply.
+
+Think that while studying for this, this is not the SAT or MCAT, the reason why software companies want us to know these subjects is because it is important
+for our jobs, and the more we know about it the more we can build, the faster we can create, and innovate.
 
 ## How to use it
 
