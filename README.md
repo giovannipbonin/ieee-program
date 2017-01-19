@@ -17,9 +17,6 @@ Author: Giovanni Pascotto Bonin (author of this revised edition, check commit hi
 
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
-- [Get in a Googley Mood](#get-in-a-googley-mood)
-- [Did I Get the Job?](#did-i-get-the-job)
-- [Follow Along with Me](#follow-along-with-me)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
 - [About Video Resources](#about-video-resources)
@@ -113,7 +110,6 @@ Author: Giovanni Pascotto Bonin (author of this revised edition, check commit hi
 - [Computer Science Courses](#computer-science-courses)
 
 ---
-
 ## Why use it?
 
 This program will help you understand computer systems, algorithm efficiency, data structure performance, 
@@ -128,7 +124,8 @@ as free textbooks and all that, I realized there is nothing short of motivation 
 When I started college, I had realized that I could actually learn better on my own than I could learn in class, so if that's the case to you, embrace it and pursue your passion
 in the way you know works best. The goal of this is to be a list of resources that can be followed and give you a good coverage on what's important.
 It turned out for me that by the end of my college career I wanted to work for a startup, as that way I can have a bigger impact in something that is
-in its early stages and really needs to be pushed forward, and these experiences with learning told me to go into the education space.
+in its early stages and really needs to be pushed forward, and these experiences with learning told me to go work for a startup fixing education with 
+technology
 
 This is a long plan, and some interviewers will even tell you that some of these stuff is more advanced than you need. In fact, I found this guide
 after accepting my full-time offer with my favorite startup in the world, and I am going through it now (for fun) since practice is never too much,
@@ -142,125 +139,87 @@ for our jobs, and the more we know about it the more we can build, the faster we
 
 ## How to use it
 
-Everything below is an outline, and you should tackle the items in order from top to bottom.
+I remodeled the guide to be a curriculum to be conducted on a weekly basis. Again, it's a work in progress that I am doing on my free time,
+and I plan on properly breaking down the outline so that it evenly fits across weeks. We will try to meet twice a week and have extra content for
+the ambitious who wants to do more at home, but the idea is that during the sessions we will cover one or two piece of content for each subject and
+have extra to be done at home
 
-I'm using Github's special markdown flavor, including tasks lists to check progress.
-
-- [x] Create a new branch so you can check items like this, just put an x in the brackets: [x]
+For those wanting to track their progress at home, just fork the repo and mark an [x] on the items you have done, commit and push it.
 
 
-    Fork a branch and follow the commands below
+Instructions: not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
 
-`git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/google-interview-university`
-
-`git fetch --all`
-
-    Mark all boxes with X after you completed your changes
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/master `
-
-`git push --force `
-
-[More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-## Get in a Googley Mood
-
-Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
-
-[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
-
-## Did I Get the Job?
-
-I haven't applied yet.
-
-Right now I'm doing programming problems all day long. That will continue for a few weeks, and then I'll
-apply through a referral I've been holding onto since February (yes, February).
-
-    Thanks for the referral, JP.
-
-## Follow Along with Me
-
-I'm on the journey, too. Follow along:
- 
-- **Blog**: [GoogleyAsHeck.com](https://googleyasheck.com/)
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## Don't feel you aren't smart enough
-- Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
+- People put too much emphasis on IQ as opposed to emotional intelligence. After a certain level of IQ what really matters is dedication, passion,
+and good discipline towards your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
+but with the right discipline and passion they became really good at it by sticking to it. So never be disencouraged!
+
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
-## About Google
 
-- [x] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [X] How Search Works:
-    - [x] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [x] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [x] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
-    - [x] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [x] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
-- [x] Series:
-    - [x] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-    - [x] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-    - [x] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
-    - [x] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
+## Resources that helped my career
+    - Code2040: a wonderful fellowship program for latinos and african-american students who want to work in Silicon Valley, it made a huge impact in my career on the professional
+      side and exposing me to the industry as well as spending a whole summer completing a program where I met extremely talented people working in
+      companies across the Silicon Valley who are also motivated to fix the world's greatest problems as seen in our communities:  www.code2040.org
+    - Google: Seriously, use it. If you have a question, instead of beating your head against the wall just Google it, unless you are doing an exercise
+    and you are not supposed to Google the answer. But no one is supposed to know what a Turing Machine is without first learning it. So if you feel disencouraged,
+    just remember that it's never too late to pick up on something, there are so many resources out there for free.
+    - Coursera: with that in mind, Coursera made a huge impact in my career. When I realized I could learn anything I wanted from the best professors in the world.
+      Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, but that's the reason why I will be joining them, because
+      it made a huge impact in my life. www.coursera.org
+    - Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
+
+
+
+# Week 1 - About Google
+
+- [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+- [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+- [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+- [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+- [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+- [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+- [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
+
+
+Extra:
+
+A list of resources that was created by Google:
+- [ ] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+
+Conference, you should definitely watch this
+- [ ] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
+
+- [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
+- [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+- [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
+- [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+- [ ] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+- [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
+- [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
+- [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
-- [x] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
-
-## About Video Resources
-
-Some videos are available only by enrolling in a Coursera, EdX, or Lynda.com class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access. Lynda.com courses are not free.
-
-    I'd appreciate your help to add free and always-available public sources, such as YouTube videos to accompany the online course videos.
-    I like using university lectures.
 
 
-## Interview Process & General Interview Prep
+## Week 2 - Interview Process & General Interview Prep
+    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+    - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
-- [ ] Videos:
-    - [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
-    - [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-    - [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
-    - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
-
-- [ ] Articles:
-    - [ ] [Becoming a Googler in Three Steps](http://www.google.com/about/careers/lifeatgoogle/hiringprocess/)
-    - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-        - all the things he mentions that you need to know are listed below
-    - [ ] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
-    - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-
-- [ ] Prep Courses:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
-        - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-
-- [ ] Additional (not suggested by Google but I added):
+    Extras:
     - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
     - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
     - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
     - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
     - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-    - [ ] Cracking The Coding Interview Set 1:
-        - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-        - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-    - [ ] How to Get a Job at the Big 4:
-        - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
 
-## Pick One Language for the Interview
+## Important advice: Pick One Language for the Interview
 
-I wrote this short article about it: [Important: Pick One Language for the Google Interview](https://googleyasheck.com/important-pick-one-language-for-the-google-interview/)
 
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
@@ -268,12 +227,9 @@ You can use a language you are comfortable in to do the coding part of the inter
 - Java
 - Python
 
-You could also use these, but read around first. There may be caveats:
-
-- JavaScript
-- Ruby
-
-You need to be very comfortable in the language, and be knowledgeable.
+You need to be very comfortable in the language, and be knowledgeable, so pick one, and do all the practice problems in that language. The more you practice
+the more natural it will look like you feel at developing with the language, and that's important even though knowing the syntax itself isn't. But there
+is a subconscious feeling we get by looking at the flow of someone working with something, and it's important to give interviewers that feeling
 
 Read more about choices:
 - http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
@@ -282,103 +238,59 @@ Read more about choices:
 
 [See language resources here](programming-language-resources.md)
 
-You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-## Before you Get Started
 
-This list grew over many months, and yes, it kind of got out of hand.
-
-Here are some mistakes I made so you'll have a better experience.
+## Keep in Mind:
 
 ### 1. You Won't Remember it All
 
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards so I could review.
+As the author of the original guide said:
+    "I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
+    through my notes and making flashcards so I could review.
 
-Read please so you won't make my mistakes:
+    Read please so you won't make my mistakes:
 
-[Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)
+    [Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)"
 
-### 2. Use Flashcards
 
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
-Each card has different formatting.
 
-I made a mobile-first website so I could review on my phone and tablet, wherever I am.
+### 2. Review, review, review
 
-Make your own for free:
+Again, though interviewers say they don't care about you memorizing details, they do want to see that you're really good at what you do, 
+so if you easily recall the details, you will look much better. 
 
-- [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
-- [My flash cards database](https://github.com/jwasham/computer-science-flash-cards/blob/master/cards-jwasham.db): Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. It's way too much for what's required by Google.
-
-**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
-same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
-your brain.
-
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. It uses a repetition system to help you remember. 
-It's user friendly, available on all platforms and has a cloud sync system. It costs $25 on iOS but is free on other platforms.
-
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya))
-
-### 3. Review, review, review
-
-I keep a set of cheat sheets on ASCII, OSI stack, Big-O notations, and more. I study them when I have some spare time.
-
-Take a break from programming problems for a half hour and go through your flashcards.
 
 ### 4. Focus
 
-There are a lot of distractions that can take up valuable time. Focus and concentration is hard.
+One of my struggles was trying to do too much at the same time. I wanted to get a job at my favorite companies, while also not going to a school where
+those companies would come recruiting, and I also wanted to take a bunch of online classes on things that wouldn't help me with the interview or school,
+but would benefit my personal learning goals and career (such as machine learning and even stuff like philosophy and history and business). It is indeed 
+possible to be good at all these things, but you can't do them all at once. ****Forget multi-tasking. ***** just schedule time in your calendar and focus on
+one thing at each time.  If you can dedicate 2 hours of focused time to this guide every day, you will go a long way.
 
-## What you won't see covered
 
-This big list all started as a personal to-do list made from Google interview coaching notes. These are prevalent
-technologies but were not mentioned in those notes:
+## The Plan
 
-- SQL
-- Javascript
-- HTML, CSS, and other front-end technologies
+For each subject covered, read and watch the content covering it, and then **implement** it. Please, don't skip the implementation part, this is the most
+important one. Do not look at AVL trees and think "Oh we covered that in my algorithms class", the interviewer will never care what your class covered, 
+he or she will ask you to implement it.
 
-## The Daily Plan
+Also, write tests to make sure the code works. Most interviewers also ask you to do that. (Or at least run through test cases, but run it on paper, not 
+simply plugging the input in, because in the whiteboard they want to see if you can think through the code you just wrote.
 
-Some subjects take one day, and some will take multiple days. Some are just learning with nothing to implement.
+So basically the process is: 
+- understand an algorithm or subject
+- implement it on paper (preferably whiteboard while talking through it as an interview)
+- test it by running through examples by hand and thinking through it
+- Implement on a computer and test with real inputs
 
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-- C - using structs and functions that take a struct * and something else as args.
-- C++ - without using built-in types
-- C++ - using built-in types, like STL's std::list for a linked list
-- Python - using built-in types (to keep practicing Python)
-- and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-- You may do Java or something else, this is just my thing.
+Note: you should use standard libraries of python when practicing. Unless, for example, the question is sorting an array, then you should ask the interviewer
+whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification. Don't make any assumptions that
+you are not 100% sure of, and don't be afraid to ask questions, it's a good thing.
 
-Why code in all of these?
-- Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
-- Work within the raw constraints (allocating/freeing memory without help of garbage collection (except Python))
-- Make use of built-in types so I have experience using the built-in tools for real-world use (not going to write my own linked list implementation in production)
 
-I may not have time to do all of these for every subject, but I'll try.
 
-You can see my code here:
- - [C] (https://github.com/jwasham/practice-c)
- - [C++] (https://github.com/jwasham/practice-cpp)
- - [Python] (https://github.com/jwasham/practice-python)
 
-You don't need to memorize the guts of every algorithm.
-
-Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
-
-## Prerequisite Knowledge
-
-- [ ] **Learn C**
-    - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
-        - This is a short book, but it will give you a great handle on the C language and if you practice it a little 
-            you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
-        - [answers to questions](https://github.com/lekkas/c-algorithms) 
-
-- [ ] **How computers process a program:**
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
