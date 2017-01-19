@@ -109,8 +109,16 @@ Author: Giovanni Pascotto Bonin (author of this revised edition, check commit hi
 - [Video Series](#video-series)
 - [Computer Science Courses](#computer-science-courses)
 
----
-## Why use it?
+
+
+
+# Week 1 
+
+## Session 1 - About Google - Motivation
+
+## Talk
+
+### Why use it?
 
 This program will help you understand computer systems, algorithm efficiency, data structure performance, 
 low-level languages, and understand how it all works. These subjects are extremely important, and the Google
@@ -137,7 +145,7 @@ start thinking to yourself DAMN, I should really have spent that weekend learnin
 Think that while studying for this, this is not the SAT or MCAT, the reason why software companies want us to know these subjects is because it is important
 for our jobs, and the more we know about it the more we can build, the faster we can create, and innovate.
 
-## How to use it
+### Logistics
 
 I remodeled the guide to be a curriculum to be conducted on a weekly basis. Again, it's a work in progress that I am doing on my free time,
 and I plan on properly breaking down the outline so that it evenly fits across weeks. We will try to meet twice a week and have extra content for
@@ -149,15 +157,23 @@ For those wanting to track their progress at home, just fork the repo and mark a
 
 Instructions: not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
 
-
-
-## Don't feel you aren't smart enough
+### Don't feel you aren't smart enough
 - People put too much emphasis on IQ as opposed to emotional intelligence. After a certain level of IQ what really matters is dedication, passion,
 and good discipline towards your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
 but with the right discipline and passion they became really good at it by sticking to it. So never be disencouraged!
 
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- Check the home assigned readings for "The Myth of the Genius Programmer" 
 
+
+
+Play in lecture:
+- [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+- [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+- [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+- [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
+- [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+- [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
+- [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 ## Resources that helped my career
 - Code2040: a wonderful fellowship program for latinos and african-american students who want to work in Silicon Valley,
@@ -176,18 +192,6 @@ but with the right discipline and passion they became really good at it by stick
 
 
 
-# Week 1 
-
-
-## Session 1 - About Google - Motivation
-- [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
-- [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-- [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
-- [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
-- [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
-- [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
-- [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
-
 
 Reading at home:
 
@@ -201,7 +205,10 @@ Reading at home:
 - [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
 - [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
 - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] Start reading 20 minutes a day: [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
+- [ ] The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+
+[ ] Start reading 20 minutes a day: 
+[Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 
 
 ## Session 2 - Interview Process & General Interview Prep
@@ -229,6 +236,7 @@ Reading at home:
 
 ### Talk points -  Important advice: Pick One Language for the Interview
 
+1:
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
 - C++
@@ -241,9 +249,8 @@ is a subconscious feeling we get by looking at the flow of someone working with 
 
 
 
-## Talk points: Keep in Mind:
 
-1. You won't remember it all
+2. You won't remember it all
 As the author of the original guide said:
     "I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
     through my notes and making flashcards so I could review.
