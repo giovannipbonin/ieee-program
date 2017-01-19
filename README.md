@@ -160,19 +160,19 @@ but with the right discipline and passion they became really good at it by stick
 
 
 ## Resources that helped my career
-    - Code2040: a wonderful fellowship program for latinos and african-american students who want to work in Silicon Valley,
-      it made a huge impact in my career on the professional side and exposing me to the industry as well as spending a whole 
-      summer completing a program where I met extremely talented people working in companies across the Silicon Valley 
-      who are also motivated to fix the world's greatest problems as seen in our communities:  www.code2040.org
-    - Google: Seriously, use it. If you have a question, instead of beating your head against the wall just Google it, 
-      unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
-      know what a Turing Machine is without first learning it. So if you feel disencouraged, just remember that it's never 
-      too late to pick up on something, there are so many resources out there for free.
-    - Coursera: With the above in mind, Coursera made a huge impact in my career. 
-      When I realized I could learn anything I wanted from the best professors in the world.
-      Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, 
-      but that's the reason why I will be joining them, because it made a huge impact in my life. www.coursera.org
-    - Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
+- Code2040: a wonderful fellowship program for latinos and african-american students who want to work in Silicon Valley,
+  it made a huge impact in my career on the professional side and exposing me to the industry as well as spending a whole 
+  summer completing a program where I met extremely talented people working in companies across the Silicon Valley 
+  who are also motivated to fix the world's greatest problems as seen in our communities:  www.code2040.org
+- Google: Seriously, use it. If you have a question, instead of beating your head against the wall just Google it, 
+  unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
+  know what a Turing Machine is without first learning it. So if you feel disencouraged, just remember that it's never 
+  too late to pick up on something, there are so many resources out there for free.
+- Coursera: With the above in mind, Coursera made a huge impact in my career. 
+  When I realized I could learn anything I wanted from the best professors in the world.
+  Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, 
+  but that's the reason why I will be joining them, because it made a huge impact in my life. www.coursera.org
+- Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
 
 
 
