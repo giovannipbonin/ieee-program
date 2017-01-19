@@ -176,8 +176,10 @@ but with the right discipline and passion they became really good at it by stick
 
 
 
-# Week 1 - About Google
+# Week 1 
 
+
+## Session 1 - About Google - Motivation
 - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
 - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 - [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
@@ -187,14 +189,10 @@ but with the right discipline and passion they became really good at it by stick
 - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 
-Extra:
+Reading at home:
 
-A list of resources that was created by Google:
-- [ ] For students - [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-
-Conference, you should definitely watch this
-- [ ] [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
-
+- [ ] A list of resources that was created by Google: [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [ ] Conference, you should definitely watch this [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
 - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
 - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
@@ -203,26 +201,33 @@ Conference, you should definitely watch this
 - [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
 - [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
 - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
+- [ ] Start reading 20 minutes a day: [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 
 
-## Week 2 - Interview Process & General Interview Prep
-    - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-    - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-    - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-    - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+## Session 2 - Interview Process & General Interview Prep
 
-    Extras:
-    - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-    - [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
-    - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-    - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
-    - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
-    - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+- Discuss last session's coverage, and home readings. Very encouraged for students to share their insights with each other and motivations (20 minutes of discussion)
 
-## Important advice: Pick One Language for the Interview
+- [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+- [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+- [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+- [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+- [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
+Reading at home:
+- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
+- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
+- [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
+- [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
+- [_] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
+- [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
+- [ ] https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
+[See language resources here](programming-language-resources.md)
+
+
+### Talk points -  Important advice: Pick One Language for the Interview
 
 You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
@@ -234,19 +239,11 @@ You need to be very comfortable in the language, and be knowledgeable, so pick o
 the more natural it will look like you feel at developing with the language, and that's important even though knowing the syntax itself isn't. But there
 is a subconscious feeling we get by looking at the flow of someone working with something, and it's important to give interviewers that feeling
 
-Read more about choices:
-- http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
-- http://blog.codingforinterviews.com/best-programming-language-jobs/
-- https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
-
-[See language resources here](programming-language-resources.md)
 
 
+## Talk points: Keep in Mind:
 
-## Keep in Mind:
-
-### 1. You Won't Remember it All
-
+1. You won't remember it all
 As the author of the original guide said:
     "I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
     through my notes and making flashcards so I could review.
@@ -257,13 +254,13 @@ As the author of the original guide said:
 
 
 
-### 2. Review, review, review
+ 2. Review, review, review
 
 Again, though interviewers say they don't care about you memorizing details, they do want to see that you're really good at what you do, 
 so if you easily recall the details, you will look much better. 
 
 
-### 4. Focus
+ 4. Focus
 
 One of my struggles was trying to do too much at the same time. I wanted to get a job at my favorite companies, while also not going to a school where
 those companies would come recruiting, and I also wanted to take a bunch of online classes on things that wouldn't help me with the interview or school,
@@ -272,7 +269,7 @@ possible to be good at all these things, but you can't do them all at once. ****
 one thing at each time.  If you can dedicate 2 hours of focused time to this guide every day, you will go a long way.
 
 
-## The Plan
+3. Studying strategy:
 
 For each subject covered, read and watch the content covering it, and then **implement** it. Please, don't skip the implementation part, this is the most
 important one. Do not look at AVL trees and think "Oh we covered that in my algorithms class", the interviewer will never care what your class covered, 
@@ -294,6 +291,7 @@ you are not 100% sure of, and don't be afraid to ask questions, it's a good thin
 
 
 
+# Week 2
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
