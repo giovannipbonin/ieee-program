@@ -1,13 +1,14 @@
-# IEEE Student Software Engineer Program - University of Miami
+# How to Get a Job in Silicon Valley - A Student-toStudent Class 
 
-# Note
-This guide is based on the Google Interview University program crafted by, @jwasham,
+#### Note
+This guide started from the Google Interview University program crafted by, @jwasham,
 and located at https://github.com/jwasham/google-interview-university and it's a work
 in progress that I have started in order to create a student software engineer program 
 for the IEEE student organization at my University. With the goal to complement and 
-suplemment materials from the traditional curriculum
+suplemment materials from the traditional curriculum for ambitious students looking 
+to get a job in Silicon Valley
 
-Author: Giovanni Pascotto Bonin (author of this revised edition, check commit history to see changes)
+Class Author: Giovanni Pascotto Bonin
 
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
@@ -114,19 +115,19 @@ Author: Giovanni Pascotto Bonin (author of this revised edition, check commit hi
 
 # Week 1 
 
-## Session 1 - About Google - Motivation
+## Session 1 - About Silicon Valley, Google, and all that cool good stuff - Motivation
 
 ## Talk
 
-### Why use it?
+### The Purpose of This Guide - Everything I'd wish I was taught earlier on
 
 This program will help you understand computer systems, algorithm efficiency, data structure performance, 
-low-level languages, and understand how it all works. These subjects are extremely important, and the Google
-hiring process places a huge importance on it. There is no shortage of studying, the more you know about these subjects, the better.
+low-level languages, and understand how it all works. These subjects are extremely important, and the Google (as well as silicon valley companies in
+general) hiring process places a huge importance on it. There is no shortage of studying, the more you know about these subjects, the better.
 
-
-Before I started college I started learning computer science on my own, although I'd wish I had started even earlier given I started when I was 17.
-However, during that gap year, when I found websites such as Coursera, MIT OpenCourseware, as well as a multitude of other content on the internet such
+Before I started college I started learning computer science on my own, although I'd wish I had started even earlier given I was already 17. But due to
+some obstacles in my career choices I didn't dive in until that point, but when I did I committed as if I was born to do this. Before college, I had a gap year.
+During that period, when I found websites such as Coursera, MIT OpenCourseware, as well as a multitude of other content on the internet such
 as free textbooks and all that, I realized there is nothing short of motivation that can stop any of us in becoming one of the best at any field we want to excel in.
 
 When I started college, I had realized that I could actually learn better on my own than I could learn in class, so if that's the case to you, embrace it and pursue your passion
@@ -136,18 +137,20 @@ in its early stages and really needs to be pushed forward, and these experiences
 technology
 
 This is a long plan, and some interviewers will even tell you that some of these stuff is more advanced than you need. In fact, I found this guide
-after accepting my full-time offer with my favorite startup in the world, and I am going through it now (for fun) since practice is never too much,
+after accepting my full-time offer with my favorite startup in the world (Coursera), and I am going through it now (for fun) since practice is never too much,
 and some of this stuff I haven't had time to cover before, but it is well worth it to be good at what we do.
 
 So yes, it might be true that some of these things don't often show up on an interview. But that's until it does, and that happens to be you, and you
-start thinking to yourself DAMN, I should really have spent that weekend learning about this, now I have to wait a year to reapply.
+start thinking to yourself DAMN this is my favorite company, I should really have spent that weekend learning about this, now I have to wait a year to reapply.
 
 Think that while studying for this, this is not the SAT or MCAT, the reason why software companies want us to know these subjects is because it is important
-for our jobs, and the more we know about it the more we can build, the faster we can create, and innovate.
+for our jobs, and the more we know about it the more we can build, the faster we can create, and innovate. Although you might not be designing algorithms
+on a daily basis as a software engineer (although some engineers do exactly that), becoming good at this will develop the right way of thinking that you need
+to solve problems of all sorts in systematic and efficient ways.
 
 ### Logistics
 
-I remodeled the guide to be a curriculum to be conducted on a weekly basis. Again, it's a work in progress that I am doing on my free time,
+I remodeled the guide to be a curriculum to be conducted on a weekly basis, as well as adding a lot of stuff to it. Again, it's a work in progress that I am doing on my free time,
 and I plan on properly breaking down the outline so that it evenly fits across weeks. We will try to meet twice a week and have extra content for
 the ambitious who wants to do more at home, but the idea is that during the sessions we will cover one or two piece of content for each subject and
 have extra to be done at home
@@ -184,11 +187,12 @@ Play in lecture:
   unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
   know what a Turing Machine is without first learning it. So if you feel disencouraged, just remember that it's never 
   too late to pick up on something, there are so many resources out there for free.
+- Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
 - Coursera: With the above in mind, Coursera made a huge impact in my career. 
-  When I realized I could learn anything I wanted from the best professors in the world.
+  When I realized I could learn anything I wanted from the best professors in the world, and for free. And that if I wanted to impress recruiters
+  I could also get a certificate from Stanford. It really pays off to show you are investing in your skills.
   Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, 
   but that's the reason why I will be joining them, because it made a huge impact in my life. www.coursera.org
-- Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
 
 
 
