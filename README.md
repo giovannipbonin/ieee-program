@@ -16,8 +16,8 @@ Class Author: Giovanni Pascotto Bonin
 
 ## Table of Contents
 
-- [Week 1](#Week-1)
-- [Week 2](#Week-2)
+- [Week 1](#week-1)
+- [Week 2](#week-2)
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
