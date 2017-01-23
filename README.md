@@ -1,12 +1,13 @@
 # How to Get a Job in Silicon Valley - A Student-toStudent Class 
 
 #### Note
-This guide started from the Google Interview University program crafted by, @jwasham,
+I started this guide started from the Google Interview University program crafted by, @jwasham,
 and located at https://github.com/jwasham/google-interview-university and it's a work
 in progress that I have started in order to create a student software engineer program 
-for the IEEE student organization at my University. With the goal to complement and 
-suplemment materials from the traditional curriculum for ambitious students looking 
-to get a job in Silicon Valley
+for the IEEE student organization at my University. With the goal to give life to the resources
+compiled in the original repository and transform it into the format of a class that complements and 
+suplemments materials from the traditional university curriculum so that ambitious students looking 
+to get a job in Silicon Valley 
 
 Class Author: Giovanni Pascotto Bonin
 
@@ -17,11 +18,11 @@ Class Author: Giovanni Pascotto Bonin
 ## Table of Contents
 
 - [Week 1](#week-1)
-- [Week 2](#week-2)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+----- [Why use it?](#why-use-it)
+----- [Logistics](#logistics)
+----- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
 - [About Google](#about-google)
+- [Week 2](#week-2)
 - [About Video Resources](#about-video-resources)
 - [Interview Process & General Interview Prep](#interview-process--general-interview-prep)
 - [Pick One Language for the Interview](#pick-one-language-for-the-interview)
@@ -117,7 +118,7 @@ Class Author: Giovanni Pascotto Bonin
 
 # Week 1 
 
-## Session 1 - About Silicon Valley, Google, and all that cool good stuff - Motivation
+## Session 1 - About Silicon Valley, Google, Facebook, and Startups - Motivation
 
 ## Talk
 
@@ -170,6 +171,13 @@ but with the right discipline and passion they became really good at it by stick
 - Check the home assigned readings for "The Myth of the Genius Programmer" 
 
 
+### Silicon Valley
+
+#### History and the Future
+
+#### The Personality, Values, and Culture of Silicon Valley
+
+#### It's not about Silicon Valley as a Location, it's about the values it has inspired
 
 Play in lecture:
 - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
@@ -218,6 +226,22 @@ Reading at home:
 
 
 ## Session 2 - Interview Process & General Interview Prep
+
+Talk points: 
+
+### Interview Confidence
+
+ - Be confident, but not arrogant
+
+### Talk while you think, and code, explain everything that might be ambiguous
+
+
+### If running out of time and needs shortcuts, explain how you would not do the shortcut in a real scenario
+
+### The interviewer is there because they want to hire someone, he's your friend not your enemy
+    - If he gives you a hint, take it, don't be cocky
+
+
 
 - Discuss last session's coverage, and home readings. Very encouraged for students to share their insights with each other and motivations (20 minutes of discussion)
 
@@ -306,14 +330,25 @@ you are not 100% sure of, and don't be afraid to ask questions, it's a good thin
 
 # Week 2
 
-## Algorithmic complexity / Big-O / Asymptotic analysis
-- nothing to implement
+### Session 3 -  Algorithmic complexity / Big-O / Asymptotic analysis
+
+
+### Talk points:
+
+    - You should be so comfortable (afte preparing and going through this) 
+    with algorithm complexity and Big-O notation that it is a natural process for you.
+    - You should be able to look at algorithms and spit out what the algorithm complexity is,
+    and as the name might suggest otherwise, it is not complex at all. In fact it is a method for 
+    quickly managing complexity while getting a good evaluation on how the algorithm will run for large-scale
+    applications.
+    - Imagine if you could do math, and simply get rid of all constants and lower order terms, and just say
+    how the given function grows as the input grows, this is basically it.
+
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-    - [slides](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
@@ -321,16 +356,76 @@ you are not 100% sure of, and don't be afraid to ask questions, it's a good thin
 - [ ] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
+
+
+Home reading:
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
+## Session 4 - Data Structures
 
-    If some of the lectures are too mathy, you can jump down to the bottom and
-    watch the discrete mathematics videos to get the background knowledge.
+### Talk points - Data structures
+    Here I will give a lecture on how data structures and algorithms relate to Big-O, why choosing the appropriate data structures and algorithms
+    can have significant impact on asymptoptic complexity (Big-O). Furthermore I will make a clear distinction between algorithms and data structures, 
+    and show that at the same time they work together, and that efficient algorithms make use of efficient data structures to boost performance. 
 
-## Data Structures
+    I will focus on the big picture, giving an overview of popular and extremely useful data structures and algorithms, and in the future sessions we
+    will dive in into understanding the list of algorithms and data structures that students are expected to know.
+    
+
+### What is a data structure - With Examples
+    A data structure is exactly what it sounds like: a structure in a computer used to store and organize data in a form that will be useful.
+    - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry
+    about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a
+    data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn
+    that we use notations such as [] to represent data structure of certain behaviors and () of another, but when the notation is introduced then you learn about it.
+
+    - We have data structures in the real world, a bookshelf is a data structure, except that the data is books. A line in front of your favorite Disney ride is a queue,
+    where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from
+    simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
+
+    ### Arrays
+    - So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and
+    it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so,
+    since we have to shift all the elements to the end by one.
+
+    Video
+        - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+
+
+    ### List
+    - If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element
+    of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and
+    have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
+
+    Video: 
+        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
+        - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
+        - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+        - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+
+    ### Queue
+    
+    We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And
+    they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
+
+    But there are also variations, such as priority queues, where it takes in consideration a series of factors. For example, in medical organ donation,
+    it might be considered the risk of death and urgency for the patient to receive a transplant (very complex system with some simplications here, and in
+    fact could be optimized with software). 
+
+    The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search,
+    and priority queues for A* search.
+    
+    Breadth-first search basically starts with an element and consider all the elements connected to it, before going to the next level. Whereas A*
+    search looks into factors such as the cost of moving to the node and the estimated distance reduction to the goal.
+    Video:
+    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
+    - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
+    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+
 
 - ### Arrays
     - Implement an automatically resizing vector.
