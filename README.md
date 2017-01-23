@@ -1,4 +1,4 @@
-# How to Get a Job in Silicon Valley - A Student-toStudent Class 
+# How to Get a Job in Silicon Valley - A Student-to-Student Class 
 
 #### Note
 I started this guide started from the Google Interview University program crafted by, @jwasham,
@@ -424,9 +424,10 @@ Home reading:
     - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
     - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
-    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)-
 
 
+------------------------------------
 - ### Arrays
     - Implement an automatically resizing vector.
     - [ ] Description:
