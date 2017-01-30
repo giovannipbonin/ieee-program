@@ -364,41 +364,29 @@ Home reading:
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
-## Session 4 - Data Structures
+## Session 4 - An Overview of Data Structures and Algorithms
 
 ### Talk points - Data structures
-    Here I will give a lecture on how data structures and algorithms relate to Big-O, why choosing the appropriate data structures and algorithms
-    can have significant impact on asymptoptic complexity (Big-O). Furthermore I will make a clear distinction between algorithms and data structures, 
-    and show that at the same time they work together, and that efficient algorithms make use of efficient data structures to boost performance. 
+   - Here I will give a lecture on how data structures and algorithms relate to Big-O, why choosing the appropriate data structures and algorithms
+   - can have significant impact on asymptoptic complexity (Big-O). Furthermore I will make a clear distinction between algorithms and data structures, 
+   - and show that at the same time they work together, and that efficient algorithms make use of efficient data structures to boost performance. 
 
-    I will focus on the big picture, giving an overview of popular and extremely useful data structures and algorithms, and in the future sessions we
-    will dive in into understanding the list of algorithms and data structures that students are expected to know.
+  - I will focus on the big picture, giving an overview of popular and extremely useful data structures and algorithms, and in the future sessions we  will dive in into understanding the list of algorithms and data structures that students are expected to know.
     
 
 ### What is a data structure - With Examples
-    A data structure is exactly what it sounds like: a structure in a computer used to store and organize data in a form that will be useful.
-    - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry
-    about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a
-    data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn
-    that we use notations such as [] to represent data structure of certain behaviors and () of another, but when the notation is introduced then you learn about it.
-
-    - We have data structures in the real world, a bookshelf is a data structure, except that the data is books. A line in front of your favorite Disney ride is a queue,
-    where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from
-    simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
+   - A data structure is exactly what it sounds like: a structure in a computer used to store and organize data in a form that will be useful.
+    - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn that we use notations such as [] to represent data structure of certain behaviors and () of another, but when the notation is introduced then you learn about it.
+    - We have data structures in the real world, a bookshelf is a data structure, except that the data is books. A line in front of your favorite Disney ride is a queue, where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
 
     ### Arrays
-    - So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and
-    it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so,
-    since we have to shift all the elements to the end by one.
-
+    - So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so, since we have to shift all the elements to the end by one.
     Video
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
 
 
     ### List
-    - If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element
-    of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and
-    have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
+    - If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
 
     Video: 
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
@@ -407,16 +395,9 @@ Home reading:
         - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 
     ### Queue
-    
-    We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And
-    they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
-
-    But there are also variations, such as priority queues, where it takes in consideration a series of factors. For example, in medical organ donation,
-    it might be considered the risk of death and urgency for the patient to receive a transplant (very complex system with some simplications here, and in
-    fact could be optimized with software). 
-
-    The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search,
-    and priority queues for A* search.
+    - We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
+    - But there are also variations, such as priority queues, where it takes in consideration a series of factors. For example, in medical organ donation, it might be considered the risk of death and urgency for the patient to receive a transplant (very complex system with some simplications here, and in fact could be optimized with software). 
+    - The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search, and priority queues for A* search.
     
     Breadth-first search basically starts with an element and consider all the elements connected to it, before going to the next level. Whereas A*
     search looks into factors such as the cost of moving to the node and the estimated distance reduction to the goal.
@@ -424,9 +405,56 @@ Home reading:
     - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
     - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
-    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)-
+    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+    
+    ### Hash Tables
+      - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
+      - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
+       -> That's the power of "hashing", where we take the key which is the value that maps to another, and processes it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
+       
+       Videos:
+        - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
+        - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
+        - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem
+       
+### Trees
+    - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do, and it is more like an upside down tree.  For example:
+    3
+   / \
+  5  1
+ / \
+0   2
+    - Trees come in all sorts and forms, depending on the application we are desigining them for there are advantages in choosing one type from another, and we will look at each of those indidually as well as examine the trade-offs in future sessions. But it is easy to understand the great advantage of trees at all by talking about binary search trees (BSTs). Their one rule is that:
+    - For every node, its left child contains a value smaller than or equal to itself, and its right child is larger. E.g:
+    4
+   / \
+  2   5
+ / \
+1   3
+
+We can see that finding an element here only takes O(log(n)) time for a generally balanced tree. We will also looking at the problem of unbalenced trees later (where most the height of one of the children is much larger than the other, and worst case run time is O(n), to solve this we have balancing algorithms)
 
 
+Videos:
+    - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
+    - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
+    - [ ] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
+    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
+    - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
+    
+Overview video: 
+    - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
+    
+    
+### Graphs
+   - Graphs, just like trees, are another way to represent data. They are very important when we want to model items that have a relationship with one another, like trees. Every tree is a graph, but not every graph is a tree because some graphs can contain cycles (loops) and trees cannot. 
+ 
+ Videos: 
+ - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
+ - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://www.youtube.com/watch?v=g5vF8jscteo&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=12)
+ 
+ 
+ ## Week 3
 ------------------------------------
 - ### Arrays
     - Implement an automatically resizing vector.
@@ -443,7 +471,7 @@ Home reading:
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
-            - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
+            - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128 
         - [ ] size() - number of items
         - [ ] capacity() - number of items it can hold
         - [ ] is_empty()
@@ -564,7 +592,7 @@ Home reading:
 
 - ### Bitwise operations
     - [ ] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
-    - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
+`    - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
@@ -858,7 +886,8 @@ If you need more detail on this subject, see "Sorting" section in [Additional De
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
 
 - Notes from Yegge:
-    - There are three basic ways to represent a graph in memory:
+0
+..................................................................- There are three basic ways to represent a graph in memory:
         - objects and pointers
         - matrix
         - adjacency list
@@ -890,7 +919,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [ ] [Strongly Connected Components Kosaraju's Algorithm Graph Algorithm (video)](https://www.youtube.com/watch?v=RpgcYiky7uw)
 
 - Full Coursera Course:
-    - [ ] [Algorithms on Graphs (video)](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
+    - [ ] [Algorithms on Graphs (video)](thttps://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
 
 - Yegge: If you get a chance, try to study up on fancier algorithms:
     - [ ] Dijkstra's algorithm - see above - 6.006
