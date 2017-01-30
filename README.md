@@ -449,6 +449,12 @@ Overview video:
  
  
  ## Week 3
+ 
+ Todo: overview on algorithms and how they exploit the previously studied data structures to yield efficient applications.
+ 
+ 
+ 
+ 
 ------------------------------------
 - ### Arrays
     - Implement an automatically resizing vector.
