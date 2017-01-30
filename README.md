@@ -239,7 +239,7 @@ Talk points:
 ### If running out of time and needs shortcuts, explain how you would not do the shortcut in a real scenario
 
 ### The interviewer is there because they want to hire someone, he's your friend not your enemy
-    - If he gives you a hint, take it, don't be cocky
+- If he gives you a hint, take it, don't be cocky
 
 
 
