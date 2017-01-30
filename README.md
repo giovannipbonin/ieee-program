@@ -335,20 +335,14 @@ you are not 100% sure of, and don't be afraid to ask questions, it's a good thin
 
 ### Talk points:
 
-    - You should be so comfortable (afte preparing and going through this) 
-    with algorithm complexity and Big-O notation that it is a natural process for you.
-    - You should be able to look at algorithms and spit out what the algorithm complexity is,
-    and as the name might suggest otherwise, it is not complex at all. In fact it is a method for 
-    quickly managing complexity while getting a good evaluation on how the algorithm will run for large-scale
-    applications.
-    - Imagine if you could do math, and simply get rid of all constants and lower order terms, and just say
-    how the given function grows as the input grows, this is basically it.
+- You should be so comfortable (afte preparing and going through this) with algorithm complexity and Big-O notation that it is a natural process for you.
+- You should be able to look at algorithms and spit out what the algorithm complexity is, and as the name might suggest otherwise, it is not complex at all. In fact it is a method for quickly managing complexity while getting a good evaluation on how the algorithm will run for large-scale applications.
+- Imagine if you could do math, and simply get rid of all constants and lower order terms, and just say how the given function grows as the input grows, this is basically it.
 
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena:
-    - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
+- [ ] Skiena: [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
@@ -360,8 +354,8 @@ you are not 100% sure of, and don't be afraid to ask questions, it's a good thin
 
 Home reading:
 - [ ] TopCoder (includes recurrence relations and master theorem):
-    - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
-    - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
+- [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
+- [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
 ## Session 4 - An Overview of Data Structures and Algorithms
@@ -379,23 +373,23 @@ Home reading:
     - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn that we use notations such as [] to represent data structure of certain behaviors and () of another, but when the notation is introduced then you learn about it.
     - We have data structures in the real world, a bookshelf is a data structure, except that the data is books. A line in front of your favorite Disney ride is a queue, where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
 
-    ### Arrays
-    - So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so, since we have to shift all the elements to the end by one.
-    Video
-        - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
+### Arrays
+- So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so, since we have to shift all the elements to the end by one.
+Video
+- [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
 
 
-    ### List
-    - If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
+### List
+- If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
 
-    Video: 
+Video: 
         - [ ] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
         - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
         - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
         - [ ] [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 
-    ### Queue
-    - We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
+### Queue
+- We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
     - But there are also variations, such as priority queues, where it takes in consideration a series of factors. For example, in medical organ donation, it might be considered the risk of death and urgency for the patient to receive a transplant (very complex system with some simplications here, and in fact could be optimized with software). 
     - The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search, and priority queues for A* search.
     
@@ -407,8 +401,8 @@ Home reading:
     - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
     
-    ### Hash Tables
-      - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
+### Hash Tables
+ - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
       - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
        -> That's the power of "hashing", where we take the key which is the value that maps to another, and processes it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
        
@@ -418,7 +412,7 @@ Home reading:
         - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem
        
 ### Trees
-    - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do, and it is more like an upside down tree.  For example:
+ - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do, and it is more like an upside down tree.  For example:
     3
    / \
   5  1
