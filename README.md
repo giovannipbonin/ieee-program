@@ -7,7 +7,8 @@ Class Author: Giovanni Pascotto Bonin
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
 
 
-
+### Slack Channel (For UM Students)
+Use our slack channel https://ieee-um.slack.com/ to stay in touch with updates and communicate with your peers, schedule studying groups, chat, and get involved
 
 ## Table of Contents
 
