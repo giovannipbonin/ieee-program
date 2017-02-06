@@ -12,7 +12,7 @@ Class Author: Giovanni Pascotto Bonin
 ## Table of Contents
 
 - [Week 1](#week-1)
------ [Talk](#talk)
+- [Talk](#talk)
 ----- [Logistics](#logistics)
 ----- []
 
@@ -26,7 +26,7 @@ Class Author: Giovanni Pascotto Bonin
 ## Talk
 
 
-** Major interview tip **
+#### Major interview tip 
 
 Before anything else: 
 - Few people would reference professional athletes when talking about software engineering tips, but by having an attitude towards your career similar to as an athlete has to his there was a lot I've learned. One of my favorite athletes, Muhammad Ali, was asked how many sit-ups he would do and his reply was: "I don't count my sit-ups, I only count when it starts hurting, because that's when it really counts."
