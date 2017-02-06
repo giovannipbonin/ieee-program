@@ -6,12 +6,7 @@ Class Author: Giovanni Pascotto Bonin
 #### Acknowledgements:
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
 
-#### What Silicon Valley looks like: 
-![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
 
-
-#### It also look a lot like this:
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 
 ## Table of Contents
@@ -29,6 +24,33 @@ Class Author: Giovanni Pascotto Bonin
 ## Session 1 - About Silicon Valley, Google, Facebook, and Startups - Motivation
 
 ## Talk
+
+
+** Major interview tip **
+
+Before anything else: 
+- Few people would reference professional athletes when talking about software engineering tips, but by having an attitude towards your career similar to as an athlete has to his there was a lot I've learned. One of my favorite athletes, Muhammad Ali, was asked how many sit-ups he would do and his reply was: "I don't count my sit-ups, I only count when it starts hurting, because that's when it really counts."
+
+There is nothing like working your hardest in the road to achieving your dreams. This lecture series is just a compilation of advice I learned along the way from different amazing people I have met, and some I observed on my own, so I am sharing them as I see, but the only way for you to be able to solve new problems is to develop that foundation to tackle these issues and discoveries yourself, so practicing to solve these problems on your own is the only way to create those neural pathways in your brain. 
+
+I actually learned a lot about learning in this Coursera class I took in my last semester in college: 
+
+- https://www.coursera.org/learn/learning-how-to-learn
+
+So to practice, get one of the recommended books with a list of exercises and hammer through it! Do all these problems, do one per day, or do two, or three, depends how much time you have. There are no excuses to not do at least one of them a day until you feel comfortable enough to go to an interview feeling that you will make it. 
+
+Success leads to confidence (conversely from what people believe), so the more you successfully solve problems the more confident you will be. Start small, build your skills, and you will make it.
+
+- [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
+- [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+ 
+#### What Silicon Valley looks like
+![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
+
+
+#### It also look a lot like this
+![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 ### The Purpose of This Guide - Everything I'd wish I was taught earlier on
 
@@ -872,12 +894,6 @@ Supplemental:
         - [Solutions](http://blog.panictank.net/category/algorithmndesignmanualsolutions/page/2/)
     - [Errata](http://www3.cs.stonybrook.edu/~skiena/algorist/book/errata)
 
-**Read and Do Programming Problems (in this order):**
-- [ ] [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
-    - recommended in Google candidate coaching
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
-    - recommended on the [Google Careers site](https://www.google.com/about/careers/how-we-hire/interview/)
-    - If you see people reference "The Google Resume", it was a book replaced by "Cracking the Coding Interview".
 
 **If you have time**
 - [ ] [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
@@ -951,12 +967,16 @@ Maybe:
 
 ## General Tips
 
+
 ### Resume Tips
 
 - [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
 - See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed
 
-### Interview Tips
+## Interview Tips
+
+   
+
 
 #### Interview Questions
 
