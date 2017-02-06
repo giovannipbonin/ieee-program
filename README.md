@@ -13,9 +13,9 @@ Class Author: Giovanni Pascotto Bonin
 
 - [Week 1](#week-1)
 - [Talk](#talk)
-- [Major Interview Tip](#major-interview-tip)
-- [Logistics](#logistics)
-- []
+     - [Major Interview Tip](#major-interview-tip)
+     - [Logistics](#logistics)
+     - []
 
 
 
@@ -94,12 +94,12 @@ For those wanting to track their progress at home, just fork the repo and mark a
 
 Instructions: not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
 
-### Don't feel you aren't smart enough
+### It's All About Discipline
 - People put too much emphasis on IQ as opposed to emotional intelligence. After a certain level of IQ what really matters is dedication, passion,
 and good discipline towards your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
 but with the right discipline and passion they became really good at it by sticking to it. So never be disencouraged!
 
-- Check the home assigned readings for "The Myth of the Genius Programmer" 
+- Check the home assigned readings and videos for "The Myth of the Genius Programmer" 
 
 
 ### Silicon Valley
