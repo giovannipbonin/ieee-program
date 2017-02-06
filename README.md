@@ -1,4 +1,4 @@
-# How to Get a Job in Silicon Valley - A Student-to-Student Class 
+# The Internet-Taught Software Engineer - A Student-to-Student Class 
 
 ### Note
 Class Author: Giovanni Pascotto Bonin
