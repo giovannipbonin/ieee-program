@@ -11,7 +11,7 @@ to get a job in Silicon Valley
 
 Class Author: Giovanni Pascotto Bonin
 
-[Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
+![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 
