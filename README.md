@@ -759,7 +759,7 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
         - [ ] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 
 ### Processes and Threads
-    - [ ] Computer Science 162 - Operating Systems (25 videos):
+   - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
@@ -800,7 +800,7 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
 ## Week 7 - Session 1
 
 ### NP, NP-Complete and Approximation Algorithms
-    - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
+   - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
         and be able to recognize them when an interviewer asks you them in disguise.
     - Know what NP-complete means.
     - [ ] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
@@ -862,8 +862,8 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
 
 ## Final Review
 
-    This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
-    It's nice if you want a refresher often.
+  This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
+  It's nice if you want a refresher often.
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
@@ -1094,7 +1094,7 @@ Have a story, not just data, about something you accomplished.
 ## Additional Learning
 
 ### System Design, Scalability, Data Handling
-    - Considerations from Yegge:
+   - Considerations from Yegge:
         - scalability
             - Distill large data sets to single values
             - Transform one data set to another
