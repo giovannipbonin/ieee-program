@@ -13,8 +13,9 @@ Class Author: Giovanni Pascotto Bonin
 
 - [Week 1](#week-1)
 - [Talk](#talk)
------ [Logistics](#logistics)
------ []
+- [Major Interview Tip](#major-interview-tip)
+- [Logistics](#logistics)
+- []
 
 
 
