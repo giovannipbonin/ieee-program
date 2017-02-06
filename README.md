@@ -802,7 +802,7 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
 
 
 
-## Final Review
+## Session 2 - Putting it all together and Review
 
   This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
   It's nice if you want a refresher often.
