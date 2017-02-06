@@ -2,6 +2,7 @@
 
 ### Note
 Class Author: Giovanni Pascotto Bonin
+- I am more than willing, and would be happy to mentor anyone - who is highly motivated - in any stage and give advice based on my experiences. I am also just in the start of my career, but I've had to overcome all kinds of stuff and there are plenty of advice I can give for people looking for jobs in the Bay Area. Feel free to email me: pbonin.giovanni@gmail.com
 
 #### Acknowledgements:
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
