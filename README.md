@@ -1,17 +1,16 @@
 # How to Get a Job in Silicon Valley - A Student-to-Student Class 
 
-#### Note
-I started this guide started from the Google Interview University program crafted by, @jwasham,
-and located at https://github.com/jwasham/google-interview-university and it's a work
-in progress that I have started in order to create a student software engineer program 
-for the IEEE student organization at my University. With the goal to give life to the resources
-compiled in the original repository and transform it into the format of a class that complements and 
-suplemments materials from the traditional university curriculum so that ambitious students looking 
-to get a job in Silicon Valley 
-
+### Note
 Class Author: Giovanni Pascotto Bonin
 
+#### Acknowledgements:
+- There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
+
+#### What Silicon Valley looks like: 
 ![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
+
+
+#### It also look a lot like this:
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 
@@ -1616,6 +1615,4 @@ Sit back and enjoy. "netflix and skill" :P
 - [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 
-# Acknowledgements:
-- There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
 
