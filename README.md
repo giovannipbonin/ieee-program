@@ -414,8 +414,8 @@ Talk points: Here we will see the importance of algorithms in designing efficien
     - [ ] [3. Duplicate Keys](https://www.youtube.com/watch?v=WBFzOYJ5ybM&index=3&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
     - [ ] [4. System Sorts](https://www.youtube.com/watch?v=rejpZ2htBjE&index=4&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)    
 
-
-### Recursion
+### Session 2 - Recursion 
+note: transition by showing how sorting can use recursion, also binary search
  - [ ] Stanford lectures on recursion & backtracking:
     https://www.coursera.org/learn/principles-of-computing-2/lecture/CVJBS/the-importance-of-recursion
     https://www.coursera.org/learn/principles-of-computing-2/lecture/ccrwD/recursion
@@ -426,9 +426,9 @@ Talk points: Here we will see the importance of algorithms in designing efficien
 
 
 
-# Week 3 
+# Week 4 
 
-## Session 2 - Algorithms Overview
+## Session 1 & 2 (do both sessions on this because it's long) - Algorithms Overview
  
  Todo: overview on algorithms and how they exploit the previously studied data structures to yield efficient applications.
 Review everything covered so far (edit, add more resources here). Glue data structures concept to algorithms
@@ -441,14 +441,19 @@ https://www.youtube.com/watch?v=D5SrAga1pno
 
 
 
-# Week 4
+# Week 5
 
 ## Session 1 - Algorithms and Data Structures Applications 
 
-Here we will start diving in depth on algorithms and data structures previously touched, and explore more domains of applications where they are useful and review and do exercises - focus on intuitive aspect of subject, and do some review
+Here we will start diving in depth on algorithms and data structures previously touched, and explore more domains of applications where they are useful and review and do exercises - focus on intuitive aspect of subject, and do review
 
+## Session 2 - Continue expanding the previous week 
 
-### Session 2 - Dynamic Programming
+ 
+ 
+# Week 6
+
+ ### Session 1 - Dynamic Programming
   Dynamic programming is quite simple. It takes advantages of two things seen previously: data structures and recursion.
     - [ ] Videos:
         - [ ] List of individual DP problems (each is short): [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
@@ -460,12 +465,19 @@ Here we will start diving in depth on algorithms and data structures previously 
         - [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
         - [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
  
+ ## Session 2 - Graphs
+ 
+Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
+
+- use resources from here https://www.coursera.org/learn/algorithms-on-graphs (edit necessary)
+https://www.coursera.org/learn/algorithms-graphs-data-structures
  
  
-# Week 5 - Session 1 (edit content)
+ # Week 7
  
  
- ## Session 1 - Trees, Balanced Trees and Tries
+ 
+ ## Session 1 & 2 - Trees, Balanced Trees and Tries
 
 - ### Trees - Notes & Background
     - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
@@ -655,20 +667,11 @@ Here we will start diving in depth on algorithms and data structures previously 
         - 2-3 trees are 3-ary
     - [ ] [K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
  
- 
- # Week 5 
- 
-## Session 2 - Graphs
-
-Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
-
-- use resources from here https://www.coursera.org/learn/algorithms-on-graphs (edit necessary)
-https://www.coursera.org/learn/algorithms-graphs-data-structures
 
 
 
 
- # Week 6
+ # Week 8
  
  ## Session 1 - Bitwise operations and Discrete Mathematics and NP Completeness and Computability
  
@@ -760,7 +763,7 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
     when designing a software/hardware system that can scale. Expect to spend quite a bit of time on this.
 
 
-# Week 7
+# Week 9
 
 ## Session 1 - Testing and System Design 
 
