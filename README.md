@@ -382,11 +382,12 @@ Overview video:
  
 
 ## Week 3
+
 ### Session 1 - Basic Algorithms examples (edit add more than sorting algorithms; do basic stuff like binary search, sorting, recursion)
 
 Talk points: Here we will see the importance of algorithms in designing efficient applications, and how we can benefit from using the advantages of efficient data structures and algorithms together to create very powerful systems.
 
- ### Sorting
+### Sorting
   One of the most basic algorithms is sorting. Everyone is familiar with sorting, in real life we might have a bookshelf sorted by alphabetical order, which is useful for retrieving and finding the correct book at a later time.
   
   The key question following this then, how to efficiently sort a given data structure? There are many algorithms and here we will go over them:
