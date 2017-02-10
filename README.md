@@ -425,10 +425,13 @@ Overview video:
 
 ## Week 3
 
-### Session 1 - Basic Algorithms examples (edit add more than sorting algorithms; do basic stuff like binary search, sorting, recursion)
+### Session 1 - Basic Algorithms examples
 
 Talk points: Here we will see the importance of algorithms in designing efficient applications, and how we can benefit from using the advantages of efficient data structures and algorithms together to create very powerful systems.
 
+
+### Binary search
+ - do iterative here, then show how recursive makes it more intuitive in next session
 
 
 ### Sorting
@@ -460,6 +463,9 @@ Talk points: Here we will see the importance of algorithms in designing efficien
 
 ### Session 2 - Recursion 
 note: transition by showing how sorting can use recursion, also binary search
+fibonacci, etc.
+
+- run down the stack to show why recursion makes sense
  - [ ] Stanford lectures on recursion & backtracking:
     https://www.coursera.org/learn/principles-of-computing-2/lecture/CVJBS/the-importance-of-recursion
     https://www.coursera.org/learn/principles-of-computing-2/lecture/ccrwD/recursion
@@ -472,7 +478,7 @@ note: transition by showing how sorting can use recursion, also binary search
 
 # Week 4 
 
-## Session 1 & 2 (do both sessions on this because it's long) - Algorithms Overview
+## Session 1 & 2 (do both sessions on this because it's long) Algorithms in the Real World 
 
 - ### Network Flows
     - [ ] [Ford-Fulkerson in 5 minutes (video)](https://www.youtube.com/watch?v=v1VgJmkEJW0)
@@ -692,22 +698,11 @@ note: transition by showing how sorting can use recursion, also binary search
     - [How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 
  
- Todo: overview on algorithms and how they exploit the previously studied data structures to yield efficient applications.
-Review everything covered so far (edit, add more resources here). Glue data structures concept to algorithms
-find resources here:
-
-- show trees and graphs
-https://www.coursera.org/specializations/data-structures-algorithms
-https://www.coursera.org/specializations/algorithms
-https://www.youtube.com/watch?v=D5SrAga1pno
-
 
 
 # Week 5
-
-## Session 1 - Algorithms and Data Structures Applications 
-
-Here we will start diving in depth on algorithms and data structures previously touched, and explore more domains of applications where they are useful and review and do exercises - focus on intuitive aspect of subject, and do review
+---->>> For the next two weeks, exploit the structure here https://www.coursera.org/specializations/algorithms and get content from there as well as what's below, get ideas from the specialization structure in order to provide a through and exploration of algorithms
+## Session 1 - Algorithms and Data Structures
 
 ## Session 2 - Continue expanding the previous week 
 
