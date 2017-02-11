@@ -135,12 +135,13 @@ Play in lecture:
   unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
   know what a Turing Machine is without first learning it. So if you feel disencouraged, just remember that it's never 
   too late to pick up on something, there are so many resources out there for free.
-- Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
-- Coursera: With the above in mind, Coursera made a huge impact in my career. 
+- Coursera (www.coursera.org): With the above in mind, Coursera made a huge impact in my career. 
   When I realized I could learn anything I wanted from the best professors in the world, and for free. And that if I wanted to impress recruiters
   I could also get a certificate from Stanford. It really pays off to show you are investing in your skills.
   Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, 
   but that's the reason why I will be joining them, because it made a huge impact in my life. www.coursera.org
+- Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
+
 
 
 
@@ -702,12 +703,22 @@ fibonacci, etc.
 
 
 # Week 5
----->>> For the next two weeks, exploit the structure here https://www.coursera.org/specializations/algorithms and get content from there as well as what's below, get ideas from the specialization structure in order to provide a through and exploration of algorithms
-## Session 1 - Algorithms and Data Structures
+---->>> For the next 3-4 weeks, exploit the structure here https://www.coursera.org/specializations/algorithms and get content from there as well as what's below, get ideas from the specialization structure in order to provide a through and exploration of algorithms
+## Session 1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 
-## Session 2 - Continue expanding the previous week 
+## Session 2 - Graph Search, Shortest Paths, and Data Structures
 
+
+# Week 6
+
+## Session 3 - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+
+## Session 4 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+
+ [----------- the goal of the next 3 or 4 weeks (week 6-7 or 6-8) is to travel through examples of the most important algorithms presenting the intuition of how each one works... what's between this bracket is set as temporary because right above I am desiging the structure of how it should look like so I will take content from here later ...
  
+ Get remaining stuff from here https://www.coursera.org/learn/algorithms-part1
+ and https://www.coursera.org/specializations/data-structures-algorithms
  
 # Week 6
 
@@ -953,6 +964,7 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
  
 
 
+------------------------------------]
 
 
  # Week 8
