@@ -704,21 +704,84 @@ fibonacci, etc.
 
 # Week 5
 ---->>> For the next 3-4 weeks, exploit the structure here https://www.coursera.org/specializations/algorithms and get content from there as well as what's below, get ideas from the specialization structure in order to provide a through and exploration of algorithms
-## Session 1 - Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+## Session 1 - Divide and Conquer & Sorting
+
+### Divide and Conquer:
+     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
+     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
+     
+### Sorting
+     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
+     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
+     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
+     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
 
 ## Session 2 - Graph Search, Shortest Paths, and Data Structures
 
-
-# Week 6
-
-## Session 3 - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
-
-## Session 4 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-
- [----------- the goal of the next 3 or 4 weeks (week 6-7 or 6-8) is to travel through examples of the most important algorithms presenting the intuition of how each one works... what's between this bracket is set as temporary because right above I am desiging the structure of how it should look like so I will take content from here later ...
+### Graphs
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JZRXz/breadth-first-search-bfs-the-basics
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/ZAaJA/bfs-and-shortest-paths
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/BTVWn/bfs-and-undirected-connectivity
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/pKr0Y/depth-first-search-dfs-the-basics
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
  
- Get remaining stuff from here https://www.coursera.org/learn/algorithms-part1
- and https://www.coursera.org/specializations/data-structures-algorithms
+ ### Dijkstra Graph Search Algorihtm
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
+
+
+# Week 7
+
+## Session 1 - Heaps and Balanced Trees
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/WHOPA/data-structures-overview
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/KKqlm/heaps-implementation-details-advanced-optional
+     
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/juAOg/balanced-search-trees-operations-and-applications
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/1FBl2/binary-search-tree-basics-part-i
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/cXMbA/binary-search-tree-basics-part-ii
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/8acpe/red-black-trees
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JV7KI/rotations-advanced-optional
+     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/jPL2x/insertion-in-a-red-black-tree-advanced
+     
+## Session 3 - Dynamic Programming
+
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/WENc1/introduction-weighted-independent-sets-in-path-graphs
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/t9XAF/wis-in-path-graphs-optimal-substructure
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/w040v/wis-in-path-graphs-a-linear-time-algorithm
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/TZgJM/wis-in-path-graphs-a-reconstruction-algorithm
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/VEc7L/principles-of-dynamic-programming
+
+# Week 8
+
+## Session 1 - Knapsack problem and More Dynamic Programming
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/LIgLJ/the-knapsack-problem
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/0n68L/a-dynamic-programming-algorithm
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/LADQc/example-review-optional
+     
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/QJkyp/optimal-substructure
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/tNmae/a-dynamic-programming-algorithm 
+     
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/GKCeN/problem-definition
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/rUDLu/optimal-substructure
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/0qjbs/proof-of-optimal-substructure
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/3wrTN/a-dynamic-programming-algorithm-i
+     - https://www.coursera.org/learn/algorithms-greedy/lecture/5ERYG/a-dynamic-programming-algorithm-ii
+     
+## Session 2 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/8HT5O/polynomial-time-solvable-problems
+     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/o1CGE/reductions-and-completeness
+     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/vZ9Bc/definition-and-interpretation-of-np-completeness-i
+     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/3JqiX/definition-and-interpretation-of-np-completeness-ii
+     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/VZY2Z/the-p-vs-np-question
+     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/jugfP/algorithmic-approaches-to-np-complete-problems
+      
+[--- use resources from below to merge with the above week 5-8 --]
  
 # Week 6
 
