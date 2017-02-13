@@ -469,12 +469,12 @@ fibonacci, etc.
 
 - run down the stack to show why recursion makes sense
  - [ ] Stanford lectures on recursion & backtracking:
-    https://www.coursera.org/learn/principles-of-computing-2/lecture/CVJBS/the-importance-of-recursion
-    https://www.coursera.org/learn/principles-of-computing-2/lecture/ccrwD/recursion
-    https://www.coursera.org/learn/principles-of-computing-2/lecture/zsXCG/binary-search
-    https://www.coursera.org/learn/principles-of-computing-2/lecture/pubjS/visualizing-recursion
-    https://www.coursera.org/learn/principles-of-computing-2/lecture/ylfQH/recurrences
-    https://www.coursera.org/learn/principles-of-computing-2/lecture/CZqfQ/reading-files
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/CVJBS/the-importance-of-recursion
+-  https://www.coursera.org/learn/principles-of-computing-2/lecture/ccrwD/recursion
+-  https://www.coursera.org/learn/principles-of-computing-2/lecture/zsXCG/binary-search
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/pubjS/visualizing-recursion
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/ylfQH/recurrences
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/CZqfQ/reading-files
 
 
 
