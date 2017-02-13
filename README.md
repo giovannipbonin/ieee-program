@@ -707,108 +707,36 @@ fibonacci, etc.
 ## Session 1 - Divide and Conquer & Sorting
 
 ### Divide and Conquer:
-     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
-     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
      
 ### Sorting
-     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
-     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
-     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
-     - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
 
 ## Session 2 - Graph Search, Shortest Paths, and Data Structures
 
 ### Graphs
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JZRXz/breadth-first-search-bfs-the-basics
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/ZAaJA/bfs-and-shortest-paths
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/BTVWn/bfs-and-undirected-connectivity
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/pKr0Y/depth-first-search-dfs-the-basics
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
- 
- ### Dijkstra Graph Search Algorihtm
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JZRXz/breadth-first-search-bfs-the-basics
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/ZAaJA/bfs-and-shortest-paths
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/BTVWn/bfs-and-undirected-connectivity
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/pKr0Y/depth-first-search-dfs-the-basics
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
+
+### Dijkstra Graph Search Algorihtm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
+
+More: 
 
 
-# Week 7
-
-## Session 1 - Heaps and Balanced Trees
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/WHOPA/data-structures-overview
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/KKqlm/heaps-implementation-details-advanced-optional
-     
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/juAOg/balanced-search-trees-operations-and-applications
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/1FBl2/binary-search-tree-basics-part-i
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/cXMbA/binary-search-tree-basics-part-ii
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/8acpe/red-black-trees
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JV7KI/rotations-advanced-optional
-     - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/jPL2x/insertion-in-a-red-black-tree-advanced
-     
-## Session 3 - Dynamic Programming
-
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/WENc1/introduction-weighted-independent-sets-in-path-graphs
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/t9XAF/wis-in-path-graphs-optimal-substructure
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/w040v/wis-in-path-graphs-a-linear-time-algorithm
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/TZgJM/wis-in-path-graphs-a-reconstruction-algorithm
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/VEc7L/principles-of-dynamic-programming
-
-# Week 8
-
-## Session 1 - Knapsack problem and More Dynamic Programming
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/LIgLJ/the-knapsack-problem
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/0n68L/a-dynamic-programming-algorithm
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/LADQc/example-review-optional
-     
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/QJkyp/optimal-substructure
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/tNmae/a-dynamic-programming-algorithm 
-     
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/GKCeN/problem-definition
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/rUDLu/optimal-substructure
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/0qjbs/proof-of-optimal-substructure
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/3wrTN/a-dynamic-programming-algorithm-i
-     - https://www.coursera.org/learn/algorithms-greedy/lecture/5ERYG/a-dynamic-programming-algorithm-ii
-     
-## Session 2 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/8HT5O/polynomial-time-solvable-problems
-     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/o1CGE/reductions-and-completeness
-     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/vZ9Bc/definition-and-interpretation-of-np-completeness-i
-     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/3JqiX/definition-and-interpretation-of-np-completeness-ii
-     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/VZY2Z/the-p-vs-np-question
-     - https://www.coursera.org/learn/algorithms-npcomplete/lecture/jugfP/algorithmic-approaches-to-np-complete-problems
-      
-[--- use resources from below to merge with the above week 5-8 --]
- 
-# Week 6
-
- ### Session 1 - Dynamic Programming
-  Dynamic programming is quite simple. It takes advantages of two things seen previously: data structures and recursion.
-    - [ ] Videos:
-        - [ ] List of individual DP problems (each is short): [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-        - [ ] [The RNA secondary structure problem (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/80RrW/the-rna-secondary-structure-problem)
-        - [ ] [A dynamic programming algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/PSonq/a-dynamic-programming-algorithm)
-        - [ ] [Illustrating the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/oUEK2/illustrating-the-dp-algorithm)
-        - [ ] [Running time of the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/nfK2r/running-time-of-the-dp-algorithm)
-        - [ ] [DP vs. recursive implementation (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
-        - [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
-        - [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
-        
-        
-- [ ] **More Dynamic Programming** (videos)
-    - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
-    - [ ] [6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
-    - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
-    - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-    - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
-    - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
- 
- ## Session 2 - Graphs
- 
 Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
 
 
@@ -830,12 +758,23 @@ Graphs are a huge subject in computer science, there are many applications in wh
 - use resources from here https://www.coursera.org/learn/algorithms-on-graphs (edit necessary)
 https://www.coursera.org/learn/algorithms-graphs-data-structures
  
- 
- # Week 7
- 
- 
- 
- ## Session 1 & 2 - Trees, Balanced Trees and Tries
+
+
+# Week 6
+
+## Session 1 - Heaps and Balanced Trees
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/WHOPA/data-structures-overview
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/KKqlm/heaps-implementation-details-advanced-optional
+     
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/juAOg/balanced-search-trees-operations-and-applications
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/1FBl2/binary-search-tree-basics-part-i
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/cXMbA/binary-search-tree-basics-part-ii
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/8acpe/red-black-trees
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JV7KI/rotations-advanced-optional
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/jPL2x/insertion-in-a-red-black-tree-advanced
+
+More: 
 
 - ### Trees - Notes & Background
     - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
@@ -1026,11 +965,65 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
     - [ ] [K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
  
 
+     
+## Session 3 - Dynamic Programming
 
-------------------------------------]
+- https://www.coursera.org/learn/algorithms-greedy/lecture/WENc1/introduction-weighted-independent-sets-in-path-graphs
+- https://www.coursera.org/learn/algorithms-greedy/lecture/t9XAF/wis-in-path-graphs-optimal-substructure
+- https://www.coursera.org/learn/algorithms-greedy/lecture/w040v/wis-in-path-graphs-a-linear-time-algorithm
+- https://www.coursera.org/learn/algorithms-greedy/lecture/TZgJM/wis-in-path-graphs-a-reconstruction-algorithm
+- https://www.coursera.org/learn/algorithms-greedy/lecture/VEc7L/principles-of-dynamic-programming
 
+More: 
+  Dynamic programming is quite simple. It takes advantages of two things seen previously: data structures and recursion.
+    - [ ] Videos:
+        - [ ] List of individual DP problems (each is short): [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+        - [ ] [The RNA secondary structure problem (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/80RrW/the-rna-secondary-structure-problem)
+        - [ ] [A dynamic programming algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/PSonq/a-dynamic-programming-algorithm)
+        - [ ] [Illustrating the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/oUEK2/illustrating-the-dp-algorithm)
+        - [ ] [Running time of the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/nfK2r/running-time-of-the-dp-algorithm)
+        - [ ] [DP vs. recursive implementation (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
+        - [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
+        - [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
+        
+        
+- [ ] **More Dynamic Programming** (videos)
+    - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
+    - [ ] [6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
+    - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
+    - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+    - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
+    - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
 
- # Week 8
+# Week 7
+
+## Session 1 - Knapsack problem and More Dynamic Programming
+- https://www.coursera.org/learn/algorithms-greedy/lecture/LIgLJ/the-knapsack-problem
+- https://www.coursera.org/learn/algorithms-greedy/lecture/0n68L/a-dynamic-programming-algorithm
+- https://www.coursera.org/learn/algorithms-greedy/lecture/LADQc/example-review-optional
+     
+- https://www.coursera.org/learn/algorithms-greedy/lecture/QJkyp/optimal-substructure
+- https://www.coursera.org/learn/algorithms-greedy/lecture/tNmae/a-dynamic-programming-algorithm 
+     
+- https://www.coursera.org/learn/algorithms-greedy/lecture/GKCeN/problem-definition
+- https://www.coursera.org/learn/algorithms-greedy/lecture/rUDLu/optimal-substructure
+- https://www.coursera.org/learn/algorithms-greedy/lecture/0qjbs/proof-of-optimal-substructure
+- https://www.coursera.org/learn/algorithms-greedy/lecture/3wrTN/a-dynamic-programming-algorithm-i
+- https://www.coursera.org/learn/algorithms-greedy/lecture/5ERYG/a-dynamic-programming-algorithm-ii
+     
+## Session 2 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/8HT5O/polynomial-time-solvable-problems
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/o1CGE/reductions-and-completeness
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/vZ9Bc/definition-and-interpretation-of-np-completeness-i
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/3JqiX/definition-and-interpretation-of-np-completeness-ii
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/VZY2Z/the-p-vs-np-question
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/jugfP/algorithmic-approaches-to-np-complete-problems
+      
+
+ 
+
+# Week 8
  
  ## Session 1 - Bitwise operations and Discrete Mathematics and NP Completeness and Computability
 
