@@ -6,6 +6,8 @@ Class Author: Giovanni Pascotto Bonin
 
 - I decided to create this class to teach while I am the president of the IEEE at my University to supplement the school's curriculum and also open doors for students to engage in discussions and interactions on the subject, as well as create a foundational framework for our organization on campus for future semesters. 
 
+- If someone else decides to run something similar to this on their campus, I am also running guest speakers (in addition to each of these sessions), and that's a really good way to engage professional experience in your organization, as well as have experienced engineers potentially help you with the program. 
+
 #### Acknowledgements:
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
 
@@ -479,7 +481,7 @@ fibonacci, etc.
 
 
 # Week 4 
-
+TODO: organize this section, write to connect the subjects to algorithms
 ## Session 1 & 2 (do both sessions on this because it's long) Algorithms in the Real World 
 
 - ### Network Flows
@@ -703,8 +705,13 @@ fibonacci, etc.
 
 
 # Week 5
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 
 ## Session 1 - Divide and Conquer & Sorting
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 
 ### Divide and Conquer:
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
@@ -717,6 +724,9 @@ fibonacci, etc.
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
 
 ## Session 2 - Graph Search, Shortest Paths, and Data Structures
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 
 ### Graphs
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
@@ -762,7 +772,13 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
 
 # Week 6
 
+
+
 ## Session 1 - Heaps and Balanced Trees
+
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/WHOPA/data-structures-overview
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/iIzo8/heaps-operations-and-applications
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/KKqlm/heaps-implementation-details-advanced-optional
@@ -968,6 +984,10 @@ More:
      
 ## Session 2 - Dynamic Programming
 
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+
+
 - https://www.coursera.org/learn/algorithms-greedy/lecture/WENc1/introduction-weighted-independent-sets-in-path-graphs
 - https://www.coursera.org/learn/algorithms-greedy/lecture/t9XAF/wis-in-path-graphs-optimal-substructure
 - https://www.coursera.org/learn/algorithms-greedy/lecture/w040v/wis-in-path-graphs-a-linear-time-algorithm
@@ -999,6 +1019,9 @@ More:
 # Week 7
 
 ## Session 1 - Knapsack problem and More Dynamic Programming
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+
 - https://www.coursera.org/learn/algorithms-greedy/lecture/LIgLJ/the-knapsack-problem
 - https://www.coursera.org/learn/algorithms-greedy/lecture/0n68L/a-dynamic-programming-algorithm
 - https://www.coursera.org/learn/algorithms-greedy/lecture/LADQc/example-review-optional
@@ -1013,6 +1036,10 @@ More:
 - https://www.coursera.org/learn/algorithms-greedy/lecture/5ERYG/a-dynamic-programming-algorithm-ii
      
 ## Session 2 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+
 - https://www.coursera.org/learn/algorithms-npcomplete/lecture/8HT5O/polynomial-time-solvable-problems
 - https://www.coursera.org/learn/algorithms-npcomplete/lecture/o1CGE/reductions-and-completeness
 - https://www.coursera.org/learn/algorithms-npcomplete/lecture/vZ9Bc/definition-and-interpretation-of-np-completeness-i
@@ -1026,6 +1053,9 @@ More:
 # Week 8
  
 ## Session 1 - Bitwise operations and Discrete Mathematics and NP Completeness and Computability
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 
 ### Combinatorics (n choose k) & Probability
 - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
@@ -1067,6 +1097,9 @@ More:
 
   
 ## Session 2 - Caches, Processes and Threads, and other topics (edit)
+ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+ 
  
   ### Bitwise operations
  
@@ -1149,6 +1182,9 @@ More:
 # Week 9
 
 ## Session 1 - Testing and System Design 
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 
 
 
