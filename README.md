@@ -90,21 +90,21 @@ to solve problems of all sorts in systematic and efficient ways.
 
 ### Logistics
 
-I remodeled the guide to be a curriculum to be conducted on a weekly basis, as well as adding a lot of stuff to it. Again, it's a work in progress that I am doing on my free time,
+I remodeled the guide as a curriculum to be conducted on a weekly basis, as well as adding a lot to it. Again, it's a work in progress that I am doing in my free time,
 and I plan on properly breaking down the outline so that it evenly fits across weeks. We will try to meet twice a week and have extra content for
-the ambitious who wants to do more at home, but the idea is that during the sessions we will cover one or two piece of content for each subject and
-have extra to be done at home
+the ambitious who want to do more at home, but the idea is that during the sessions we will cover one or two pieces of content for each subject and
+have extra to be done at home.
 
 For those wanting to track their progress at home, just fork the repo and mark an [x] on the items you have done, commit and push it.
 
-
 Instructions: not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
+Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
 
 
 ### It's All About Discipline
 - People put too much emphasis on IQ as opposed to emotional intelligence. After a certain level of IQ what really matters is dedication, passion,
-and good discipline towards your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
-but with the right discipline and passion they became really good at it by sticking to it. So never be disencouraged!
+and good discipline toward your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
+but with the right discipline and passion they became really good at it by sticking to it. So never be discouraged!
 
 - Check the home assigned readings and videos for "The Myth of the Genius Programmer" 
 
@@ -129,24 +129,20 @@ Play in lecture:
 - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 ## Resources that helped my career
-- Code2040: a wonderful fellowship program for latinos and african-american students who want to work in Silicon Valley,
-  it made a huge impact in my career on the professional side and exposing me to the industry as well as spending a whole 
-  summer completing a program where I met extremely talented people working in companies across the Silicon Valley 
-  who are also motivated to fix the world's greatest problems as seen in our communities:  www.code2040.org
-- Google: Seriously, use it. If you have a question, instead of beating your head against the wall just Google it, 
+- Code2040: a wonderful fellowship program for Latinos and African-American students who want to work in Silicon Valley.
+  It made a huge impact in my career by exposing me to the industry, and I spent a whole 
+  summer meeting extremely talented people working in companies across Silicon Valley 
+  who are also motivated to fix the world's greatest problems:  www.code2040.org
+- Google: Seriously, use it. If you have a question, instead of beating your head against the wall, just Google it, 
   unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
-  know what a Turing Machine is without first learning it. So if you feel disencouraged, just remember that it's never 
-  too late to pick up on something, there are so many resources out there for free.
+  know what a Turing Machine is without first learning it. So if you feel discouraged, just remember that it's never 
+  too late to pick up on something. There are so many resources out there for free.
 - Coursera (www.coursera.org): With the above in mind, Coursera made a huge impact in my career. 
   When I realized I could learn anything I wanted from the best professors in the world, and for free. And that if I wanted to impress recruiters
   I could also get a certificate from Stanford. It really pays off to show you are investing in your skills.
   Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, 
   but that's the reason why I will be joining them, because it made a huge impact in my life. www.coursera.org
-- Pramp: I used this a couple times, it's a cool mock interview platform where you can schedule mock interviews with strangers
-
-
-
-
+- Pramp: I used this a couple times, it's a cool platform where you can schedule mock interviews with strangers
 
 Reading at home:
 
@@ -177,12 +173,10 @@ Talk points:
 ### Talk while you think, and code, explain everything that might be ambiguous
 
 
-### If running out of time and needs shortcuts, explain how you would not do the shortcut in a real scenario
+### If running out of time and need shortcuts, explain how you would not do the shortcut in a real scenario
 
-### The interviewer is there because they want to hire someone, he's your friend not your enemy
-- If he gives you a hint, take it, don't be cocky
-
-
+### The interviewer is there because they want to hire someone, they are your friend not your enemy
+- If they give you a hint, take it, don't be cocky
 
 - Discuss last session's coverage, and home readings. Very encouraged for students to share their insights with each other and motivations (20 minutes of discussion)
 
@@ -240,9 +234,7 @@ so if you easily recall the details, you will look much better.
 
  4. Focus
 
-One of my struggles was trying to do too much at the same time. I wanted to get a job at my favorite companies, while also not going to a school where
-those companies would come recruiting, and I also wanted to take a bunch of online classes on things that wouldn't help me with the interview or school,
-but would benefit my personal learning goals and career (such as machine learning and even stuff like philosophy and history and business). It is indeed 
+One of my struggles was trying to do too much at the same time. I not only wanted to get a job at my favorite companies, despite not going to a school where those companies would recruit, I also wanted to take a bunch of online classes on things that wouldn't help me with the interview or school, but would benefit my personal learning goals and career (such as machine learning and even stuff like philosophy and history and business). It is indeed 
 possible to be good at all these things, but you can't do them all at once. ****Forget multi-tasking. ***** just schedule time in your calendar and focus on
 one thing at each time.  If you can dedicate 2 hours of focused time to this guide every day, you will go a long way.
 
@@ -253,8 +245,8 @@ For each subject covered, read and watch the content covering it, and then **imp
 important one. Do not look at AVL trees and think "Oh we covered that in my algorithms class", the interviewer will never care what your class covered, 
 he or she will ask you to implement it.
 
-Also, write tests to make sure the code works. Most interviewers also ask you to do that. (Or at least run through test cases, but run it on paper, not 
-simply plugging the input in, because in the whiteboard they want to see if you can think through the code you just wrote.
+Also, write tests to make sure the code works. Most interviewers also ask you to do that. (Or at least run through test cases, but run them on paper, not 
+simply by plugging the input in, because on the whiteboard they want to see if you can think through the code you just wrote.
 
 So basically the process is: 
 - understand an algorithm or subject
@@ -263,8 +255,7 @@ So basically the process is:
 - Implement on a computer and test with real inputs
 
 Note: you should use standard libraries of python when practicing. Unless, for example, the question is sorting an array, then you should ask the interviewer
-whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification. Don't make any assumptions that
-you are not 100% sure of, and don't be afraid to ask questions, it's a good thing.
+whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
 
 
 ### Starting with basics
