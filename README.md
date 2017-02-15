@@ -70,7 +70,7 @@ some obstacles in my career choices I didn't dive in until that point, but when 
 During that period, when I found websites such as Coursera, MIT OpenCourseware, and a multitude of other content on the internet such
 as free textbooks and all that, I realized there is nothing short of motivation that can stop any of us from becoming one of the best at any field we want to excel in.
 
-When I started college, I had realized that I could actually learn better on my own than I could learn in class, so if that's the case for you, embrace it and pursue your passion
+When I started college, I realized that I could actually learn better on my own than I could learn in class, so if that's the case for you, embrace it and pursue your passion
 in the way you know works best. The goal of this is to be a list of resources that can be followed and give you a good coverage on what's important, specifically filling in the gaps left by a typical computer science or software engineering curriculum.
 It turned out for me that by the end of my college career I wanted to work for a startup, as that way I can have a bigger impact in something that is
 in its early stages and really needs to be pushed forward. These experiences with learning told me to go work for a startup fixing education with 
@@ -80,7 +80,7 @@ This is a long plan, and some interviewers will even tell you that some of this 
 after accepting my full-time offer with my favorite startup in the world (Coursera), and I am going through it now (for fun) since practice is never too much,
 and some of this stuff I haven't had time to cover before, but it is well worth it to be good at what we do.
 
-So yes, it might be true that some of these things don't often show up in an interview. But that's until it does, and that happens to be you, and you
+So yes, it might be true that some of these things don't often show up in an interview. But that's until it does, and you
 start thinking to yourself DAMN this is my favorite company, I should really have spent that weekend learning about this, now I have to wait a year to reapply.
 
 This is not the SAT or MCAT. The reason why software companies want us to know these subjects is because it is important
@@ -341,7 +341,7 @@ Home reading:
 
 ### What is a data structure - With Examples
    - A data structure is exactly what it sounds like: a structure in a computer used to store and organize data in a form that will be useful.
-    - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn that we use notations such as [] to represent data structure of certain behaviors and () of another, but when the notation is introduced then you learn about it.
+    - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn that we use notations such as [] to represent data structure of certain behaviors and () for another, but when the notation is introduced then you learn about it.
     - We have data structures in the real world, a bookshelf is a data structure, except that the data are books. A line in front of your favorite Disney ride is a queue, where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
 
 ### Arrays
