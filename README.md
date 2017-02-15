@@ -1,4 +1,4 @@
-# The Internet-Taught Software Engineer - A Student-to-Student Class and experiment
+# The Internet-Taught Software Engineer - A Student-to-Student Class and Experiment
 
 ### Note
 Class Author: Giovanni Pascotto Bonin
@@ -36,17 +36,17 @@ Use our slack channel https://ieee-um.slack.com/ to stay in touch with updates a
 #### Major interview tip 
 
 Before anything else: 
-- Few people would reference professional athletes when talking about software engineering tips, but by having an attitude towards your career similar to as an athlete has to his there was a lot I've learned. One of my favorite athletes, Muhammad Ali, was asked how many sit-ups he would do and his reply was: "I don't count my sit-ups, I only count when it starts hurting, because that's when it really counts."
+- Few people would reference professional athletes when talking about software engineering tips, but by having an attitude toward your career similar to that of an athlete toward his, there is a lot I've learned. One of my favorite athletes, Muhammad Ali, was asked how many sit-ups he would do and his reply was: "I don't count my sit-ups, I only count when it starts hurting, because that's when it really counts."
 
-There is nothing like working your hardest in the road to achieving your dreams. This lecture series is just a compilation of advice I learned along the way from different amazing people I have met, and some I observed on my own, so I am sharing them as I see, but the only way for you to be able to solve new problems is to develop that foundation to tackle these issues and discoveries yourself, so practicing to solve these problems on your own is the only way to create those neural pathways in your brain. 
+There is nothing like working your hardest in the road to achieving your dreams. This lecture series is just a compilation of advice both from various amazing people I have met, and some I observed on my own. I am passing this advice along, but keep in mind the only way for you to be able to solve new problems is to develop the foundation through discovery yourself. Practicing to solve these problems on your own is the only way to create those neural pathways. 
 
 I actually learned a lot about learning in this Coursera class I took in my last semester in college: 
 
 - https://www.coursera.org/learn/learning-how-to-learn
 
-So to practice, get one of the recommended books with a list of exercises and hammer through it! Do all these problems, do one per day, or do two, or three, depends how much time you have. There are no excuses to not do at least one of them a day until you feel comfortable enough to go to an interview feeling that you will make it. 
+To practice, get one of the recommended books with a list of exercises and hammer through it! Do all these problems, do one per day, or do two, or three, depending on how much time you have. There's no excuse to not do at least one of them a day until you feel comfortable enough to go to an interview feeling that you will make it. 
 
-Success leads to confidence (conversely from what people believe), so the more you successfully solve problems the more confident you will be. Start small, build your skills, and you will make it.
+Success leads to confidence (conversely from what people believe), so the more you successfully solve problems the more confident you will be. Start small, build your skills, and you will make it. It's hard to properly emphasize just how helpful these books are.
 
 - [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
@@ -62,28 +62,28 @@ Success leads to confidence (conversely from what people believe), so the more y
 ### The Purpose of This Guide - Everything I'd wish I was taught earlier on
 
 This program will help you understand computer systems, algorithm efficiency, data structure performance, 
-low-level languages, and understand how it all works. These subjects are extremely important, and the Google (as well as silicon valley companies in
-general) hiring process places a huge importance on it. There is no shortage of studying, the more you know about these subjects, the better.
+low-level languages, and how it all works together. These subjects are extremely important, and the hiring process for Google (and Silicon Valley companies in
+general) places a huge importance on them. There is no shortage of studying, the more you know about these subjects, the better.
 
 Before I started college I started learning computer science on my own, although I'd wish I had started even earlier given I was already 17. But due to
 some obstacles in my career choices I didn't dive in until that point, but when I did I committed as if I was born to do this. Before college, I had a gap year.
-During that period, when I found websites such as Coursera, MIT OpenCourseware, as well as a multitude of other content on the internet such
-as free textbooks and all that, I realized there is nothing short of motivation that can stop any of us in becoming one of the best at any field we want to excel in.
+During that period, when I found websites such as Coursera, MIT OpenCourseware, and a multitude of other content on the internet such
+as free textbooks and all that, I realized there is nothing short of motivation that can stop any of us from becoming one of the best at any field we want to excel in.
 
-When I started college, I had realized that I could actually learn better on my own than I could learn in class, so if that's the case to you, embrace it and pursue your passion
-in the way you know works best. The goal of this is to be a list of resources that can be followed and give you a good coverage on what's important.
+When I started college, I had realized that I could actually learn better on my own than I could learn in class, so if that's the case for you, embrace it and pursue your passion
+in the way you know works best. The goal of this is to be a list of resources that can be followed and give you a good coverage on what's important, specifically filling in the gaps left by a typical computer science or software engineering curriculum.
 It turned out for me that by the end of my college career I wanted to work for a startup, as that way I can have a bigger impact in something that is
-in its early stages and really needs to be pushed forward, and these experiences with learning told me to go work for a startup fixing education with 
-technology
+in its early stages and really needs to be pushed forward. These experiences with learning told me to go work for a startup fixing education with 
+technology.
 
-This is a long plan, and some interviewers will even tell you that some of these stuff is more advanced than you need. In fact, I found this guide
+This is a long plan, and some interviewers will even tell you that some of this stuff is more advanced than you need. In fact, I found this guide
 after accepting my full-time offer with my favorite startup in the world (Coursera), and I am going through it now (for fun) since practice is never too much,
 and some of this stuff I haven't had time to cover before, but it is well worth it to be good at what we do.
 
-So yes, it might be true that some of these things don't often show up on an interview. But that's until it does, and that happens to be you, and you
+So yes, it might be true that some of these things don't often show up in an interview. But that's until it does, and that happens to be you, and you
 start thinking to yourself DAMN this is my favorite company, I should really have spent that weekend learning about this, now I have to wait a year to reapply.
 
-Think that while studying for this, this is not the SAT or MCAT, the reason why software companies want us to know these subjects is because it is important
+This is not the SAT or MCAT. The reason why software companies want us to know these subjects is because it is important
 for our jobs, and the more we know about it the more we can build, the faster we can create, and innovate. Although you might not be designing algorithms
 on a daily basis as a software engineer (although some engineers do exactly that), becoming good at this will develop the right way of thinking that you need
 to solve problems of all sorts in systematic and efficient ways.
@@ -333,16 +333,16 @@ Home reading:
 
 ### Talk points - Data structures
    - Here I will give a lecture on how data structures and algorithms relate to Big-O, why choosing the appropriate data structures and algorithms
-   - can have significant impact on asymptoptic complexity (Big-O). Furthermore I will make a clear distinction between algorithms and data structures, 
+   - can have a significant impact on asymptoptic complexity (Big-O). Furthermore I will make a clear distinction between algorithms and data structures, 
    - and show that at the same time they work together, and that efficient algorithms make use of efficient data structures to boost performance. 
 
-  - I will focus on the big picture, giving an overview of popular and extremely useful data structures and algorithms, and in the future sessions we  will dive in into understanding the list of algorithms and data structures that students are expected to know.
+  - I will focus on the big picture, giving an overview of popular and extremely useful data structures and algorithms, and in the future sessions we  will dive into understanding the list of algorithms and data structures that students are expected to know.
     
 
 ### What is a data structure - With Examples
    - A data structure is exactly what it sounds like: a structure in a computer used to store and organize data in a form that will be useful.
     - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn that we use notations such as [] to represent data structure of certain behaviors and () of another, but when the notation is introduced then you learn about it.
-    - We have data structures in the real world, a bookshelf is a data structure, except that the data is books. A line in front of your favorite Disney ride is a queue, where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
+    - We have data structures in the real world, a bookshelf is a data structure, except that the data are books. A line in front of your favorite Disney ride is a queue, where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
 
 ### Arrays
 - So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so, since we have to shift all the elements to the end by one.
@@ -361,10 +361,10 @@ Video:
 
 ### Queue
 - We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
-    - But there are also variations, such as priority queues, where it takes in consideration a series of factors. For example, in medical organ donation, it might be considered the risk of death and urgency for the patient to receive a transplant (very complex system with some simplications here, and in fact could be optimized with software). 
+    - But there are also variations, such as priority queues, which take into consideration a series of factors. For example, in medical organ donation, we might consider the risk of death and urgency for the patient to receive a transplant (very complex system with some simplifications here, and in fact could be optimized with software). 
     - The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search, and priority queues for A* search.
     
-    Breadth-first search basically starts with an element and consider all the elements connected to it, before going to the next level. Whereas A*
+    Breadth-first search basically starts with an element and considers all the elements connected to it, before going to the next level. Whereas A*
     search looks into factors such as the cost of moving to the node and the estimated distance reduction to the goal.
     Video:
     - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
@@ -375,7 +375,7 @@ Video:
 ### Hash Tables
  - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
       - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
-       -> That's the power of "hashing", where we take the key which is the value that maps to another, and processes it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
+       -> That's the power of "hashing", where we take the key which is the value that maps to another, and process it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
        
        Videos:
         - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
@@ -383,7 +383,7 @@ Video:
         - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem
        
 ### Trees
- - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do, and it is more like an upside down tree.  For example:
+ - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do. Most think of it as an upside down tree.  For example:
     3
    / \
   5  1
@@ -411,7 +411,7 @@ Overview video:
     
     
 ### Graphs
-   - Graphs, just like trees, are another way to represent data. They are very important when we want to model items that have a relationship with one another, like trees. Every tree is a graph, but not every graph is a tree because some graphs can contain cycles (loops) and trees cannot. 
+   - Graphs, just like trees, are another way to represent data. A tree is actually just a specific form of a graph. Graphs are very important when we want to model items that have a relationship with one another, like trees. Every tree is a graph, but not every graph is a tree because some graphs can contain cycles (loops) and trees cannot. 
  
  Videos: 
  - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
@@ -430,9 +430,9 @@ Talk points: Here we will see the importance of algorithms in designing efficien
 
 
 ### Sorting
-  One of the most basic algorithms is sorting. Everyone is familiar with sorting, in real life we might have a bookshelf sorted by alphabetical order, which is useful for retrieving and finding the correct book at a later time.
+  One of the most basic algorithms is sorting. Everyone is familiar with sorting. In real life we might have a bookshelf sorted by alphabetical order, which is useful for retrieving and finding the correct book at a later time.
   
-  The key question following this then, how to efficiently sort a given data structure? There are many algorithms and here we will go over them:
+  The key question following this then is, how to efficiently sort a given data structure? There are many algorithms and here we will go over them:
   
   Videos:  
   
@@ -1339,9 +1339,9 @@ There is a great intro for methodical, communicative problem solving in an inter
 interview books, too, but I found this outstanding:
 - [ ] [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/)
 
-No whiteboard at home? That's fine, buy one. Or don't if that's really an issue, but just practice on paper and practice whiteboarding skills at school or something. You should really practice on whiteboard though, as to mimick the real interview setting. But the main thing you want to practice is to practice under stress, there's nothing like coding in front of a guy who is going to decide whether you get a job or not, and then you're as nervous as you've never been before. 
+No whiteboard at home? That's fine, buy one. Or don't if that's really an issue, but just practice on paper and practice whiteboarding skills at school or something. You should really practice on whiteboard though, to mimick the real interview setting. But the main thing you want to practice is to practice under stress, there's nothing like coding in front of a guy who is going to decide whether you get a job or not, and then you're as nervous as you've never been before. 
 
-The solution? Practice that. How? Every interview you get the opportunity in doing, do it. Even if it's a company you don't care much about, you will still be practicing coding while someone else is looking at you and your subconscious mind constantly fighting you by making you afraid of being embarassed. Trust me, I had the biggest issues with this, the only way to get over it was to interview dozens and dozens of times, just like speaking in public or anything of the sort. The more you do it, the more you realize the worst case scenario is not nearly as mch of a big deal as your pessimistic-self anticipates, and in that process you will become less and less nervous each time you attempt something similar.
+The solution? Practice that. How? Every interview you get the opportunity in doing, do it. Even if it's a company you don't care much about, you will still be practicing coding while someone else is looking at you and your subconscious mind constantly fighting you by making you afraid of being embarassed. Trust me, I had the biggest issues with this, the only way to get over it was to interview dozens and dozens of times, just like speaking in public or anything of the sort. The more you do it, the more you realize the worst case scenario is not nearly as big of a deal as your pessimistic-self anticipates, and in that process you will become less and less nervous each time you attempt something similar.
 
 Supplemental:
 
