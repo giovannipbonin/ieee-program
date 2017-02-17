@@ -16,15 +16,33 @@ Class Author: Giovanni Pascotto Bonin
 Use our slack channel https://ieee-um.slack.com/ to stay in touch with updates and communicate with your peers, schedule studying groups, chat, and get involved
 
 ## Table of Contents
-
+- [Week 0](#week-0)
 - [Week 1](#week-1)
-- [Talk](#talk)
-     - [Major Interview Tip](#major-interview-tip)
-     - [Logistics](#logistics)
-     - []
+- [Week 2\](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
+- [Week 5](#week-5)
+- [Week 6](#week-6)
+- [Week 7](#week-7)
+- [Week 8](#week-8)
+- [Week 9](#week-9)
+- [Week 10](#week-10)
 
 
 
+
+# Week 0
+
+## Session 1 
+
+First meeting and announcement:
+
+Here the plan is to announce the program to the general body meeting, get input from the students on final things they might be interested in learning on top of the program, as well as finding out times that will work for most people.
+
+
+## Session 2
+
+Guest Speaker (CEO of Kairos Analytics):
 
 # Week 1 
 
