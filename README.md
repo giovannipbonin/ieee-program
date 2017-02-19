@@ -18,15 +18,43 @@ Use our slack channel https://ieee-um.slack.com/ to stay in touch with updates a
 ## Table of Contents
 - [Week 0](#week-0)
 - [Week 1](#week-1)
+     1. About Silicon Valley, Google, Facebook, and Startups - Motivation
+     2. Interview Process & General Interview Prep
+         * Emacs and vi(m)
+         * Unix and Command Line Tools 
 - [Week 2](#week-2)
+     1. Algorithmic complexity / Big-O / Asymptotic analysis
+     2. An Overview of Data Structures and Algorithms
 - [Week 3](#week-3)
+     2. Basic Algorithms: Binary Search and Sorting
+     3. Recursion 
 - [Week 4](#week-4)
+     1. Network Flows
+     3. Linear Programming
+     4. Machine Learning
+     5. Information theory
+     6. Cryptography
+     7. Networking
+     8. Computer Security
+     9. Parallel Programming
+     10. And much, much more.
 - [Week 5](#week-5)
+     1. Divide and Conquer & Sorting
+     2. Graph Search, Shortest Paths, and Data Structures
 - [Week 6](#week-6)
+     1. Heaps and Balanced Trees
+     2. Dynamic Programming
 - [Week 7](#week-7)
+     1. Knapsack problem and More Dynamic Programming
+     2. Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
 - [Week 8](#week-8)
+     1. Bitwise operations, Discrete Mathematics, and NP Completeness and Computability
+     2. Caches, Processes and Threads, and other topics
 - [Week 9](#week-9)
+     1. Testing and System Design
+     2. Putting it all together and Review
 - [Week 10](#week-10)
+     1. Practice
 
 
 
@@ -1061,7 +1089,7 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
 
 # Week 8
  
-## Session 1 - Bitwise operations and Discrete Mathematics and NP Completeness and Computability
+## Session 1 - Bitwise operations, Discrete Mathematics, and NP Completeness and Computability
 
 Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
       2) write my talk
