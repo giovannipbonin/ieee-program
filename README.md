@@ -1003,7 +1003,7 @@ More:
     - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
 
 
-# Week 5
+# Week 6
 Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
       2) write my talk
 
