@@ -70,7 +70,7 @@ Here the plan is to announce the program to the general body meeting, get input 
 
 ## Session 2
 
-Guest Speaker (CEO of Kairos Analytics):
+Guest Speaker (CEO of Kairos Analytics): Feb 23rd 6:30 pm at MEA 202
 
 # Week 1 
 
