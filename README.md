@@ -468,6 +468,10 @@ Overview video:
 
 ### Session 1 - Basic Algorithms examples
 
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+
 Talk points: Here we will see the importance of algorithms in designing efficient applications, and how we can benefit from using the advantages of efficient data structures and algorithms together to create very powerful systems.
 
 
@@ -503,6 +507,11 @@ Talk points: Here we will see the importance of algorithms in designing efficien
     - [ ] [4. System Sorts](https://www.youtube.com/watch?v=rejpZ2htBjE&index=4&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)    
 
 ### Session 2 - Recursion 
+
+
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
 note: transition by showing how sorting can use recursion, also binary search
 fibonacci, etc.
 
@@ -515,6 +524,16 @@ fibonacci, etc.
 - https://www.coursera.org/learn/principles-of-computing-2/lecture/ylfQH/recurrences
 - https://www.coursera.org/learn/principles-of-computing-2/lecture/CZqfQ/reading-files
 
+
+### Divide and Conquer:
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
+     
+### Sorting
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
 
 
 # Week 4 
@@ -739,75 +758,7 @@ TODO: organize this section, write to connect the subjects to algorithms
     - [How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 
  
-
-
 # Week 5
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-
-## Session 1 - Divide and Conquer & Sorting
-
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-
-### Divide and Conquer:
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
-     
-### Sorting
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
-
-## Session 2 - Graph Search, Shortest Paths, and Data Structures
-
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-
-### Graphs
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JZRXz/breadth-first-search-bfs-the-basics
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/ZAaJA/bfs-and-shortest-paths
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/BTVWn/bfs-and-undirected-connectivity
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/pKr0Y/depth-first-search-dfs-the-basics
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
-
-### Dijkstra Graph Search Algorihtm
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
-
-More: 
-
-
-Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
-
-
-- [ ] **Union-Find**
-    - [ ] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
-    - [ ] [Naive Implementation](https://www.coursera.org/learn/data-structures/lecture/EM5D0/naive-implementations)
-    - [ ] [Trees](https://www.coursera.org/learn/data-structures/lecture/Mxu0w/trees)
-    - [ ] [Union By Rank](https://www.coursera.org/learn/data-structures/lecture/qb4c2/union-by-rank)
-    - [ ] [Path Compression](https://www.coursera.org/learn/data-structures/lecture/Q9CVI/path-compression)
-    - [ ] [Analysis Options](https://www.coursera.org/learn/data-structures/lecture/GQQLN/analysis-optional)
-
-
-- [ ] **Advanced Graph Processing** (videos)
-    - [ ] [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=mUBmcbbJNf4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=27)
-    - [ ] [Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=kQ-UQAzcnzA&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=28)
-
-
-
-- use resources from here https://www.coursera.org/learn/algorithms-on-graphs (edit necessary)
-https://www.coursera.org/learn/algorithms-graphs-data-structures
- 
-
-
-# Week 6
 
 ## Session 1 - Heaps and Balanced Trees
 
@@ -1050,6 +1001,60 @@ More:
     - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
     - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
     - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
+
+
+# Week 5
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+
+
+## Session 1 & 2 - Graph Search, Shortest Paths, and Data Structures
+
+Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+      2) write my talk
+
+### Graphs
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JZRXz/breadth-first-search-bfs-the-basics
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/ZAaJA/bfs-and-shortest-paths
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/BTVWn/bfs-and-undirected-connectivity
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/pKr0Y/depth-first-search-dfs-the-basics
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
+
+### Dijkstra Graph Search Algorihtm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
+- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
+
+More: 
+
+
+Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
+
+
+- [ ] **Union-Find**
+    - [ ] [Overview](https://www.coursera.org/learn/data-structures/lecture/JssSY/overview)
+    - [ ] [Naive Implementation](https://www.coursera.org/learn/data-structures/lecture/EM5D0/naive-implementations)
+    - [ ] [Trees](https://www.coursera.org/learn/data-structures/lecture/Mxu0w/trees)
+    - [ ] [Union By Rank](https://www.coursera.org/learn/data-structures/lecture/qb4c2/union-by-rank)
+    - [ ] [Path Compression](https://www.coursera.org/learn/data-structures/lecture/Q9CVI/path-compression)
+    - [ ] [Analysis Options](https://www.coursera.org/learn/data-structures/lecture/GQQLN/analysis-optional)
+
+
+- [ ] **Advanced Graph Processing** (videos)
+    - [ ] [Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=mUBmcbbJNf4&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=27)
+    - [ ] [Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees](https://www.youtube.com/watch?v=kQ-UQAzcnzA&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=28)
+
+
+
+- use resources from here https://www.coursera.org/learn/algorithms-on-graphs (edit necessary)
+https://www.coursera.org/learn/algorithms-graphs-data-structures
+ 
+
+
 
 # Week 7
 
