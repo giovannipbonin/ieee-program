@@ -12,8 +12,8 @@ Class Author: Giovanni Pascotto Bonin
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide. 
 
 
-### Slack Channel (For UM Students)
-Use our slack channel https://ieee-um.slack.com/ to stay in touch with updates and communicate with your peers, schedule studying groups, chat, and get involved
+### Communication
+I was initially going to use a Slack channel for this, but then I realized that most people don't have their Slack account open all the time, and realistically most won't download the app and have notifications on. So we will be using the IEEE Facebook group chat, to take advantage of the sad fact that people are on Facebook all the time and thus will receive the notifications. Send me an email or let me know in class that you want to be added to the group. We will also send announcements on orgsync, so if you don't have fb it's ok.
 
 ## Table of Contents
 - [Week 0](#week-0)
