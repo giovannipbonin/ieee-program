@@ -42,8 +42,7 @@ I was initially going to use a Slack channel for this, but then I realized that 
      1. Heaps and Balanced Trees
      2. Dynamic Programming
 - [Week 6](#week-6)
-     1. Divide and Conquer & Sorting
-     2. Graph Search, Shortest Paths, and Data Structures
+     1 & 2: Graphs and Search
 - [Week 7](#week-7)
      1. Knapsack problem and More Dynamic Programming
      2. Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
