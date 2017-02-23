@@ -29,15 +29,8 @@ I was initially going to use a Slack channel for this, but then I realized that 
      2. Basic Algorithms: Binary Search and Sorting
      3. Recursion 
 - [Week 4](#week-4)
-     1. Network Flows
-     3. Linear Programming
-     4. Machine Learning
-     5. Information theory
-     6. Cryptography
-     7. Networking
-     8. Computer Security
-     9. Parallel Programming
-     10. And much, much more.
+     1. Machine Learning - Supervised Learning
+     2. Machine Learning - Unsupervised Learning
 - [Week 5](#week-5)
      1. Heaps and Balanced Trees
      2. Dynamic Programming
