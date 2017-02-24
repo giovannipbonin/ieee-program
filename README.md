@@ -547,10 +547,15 @@ Classification:
  - https://www.coursera.org/learn/machine-learning/lecture/4h5X4/prioritizing-what-to-work-on
 
 ### Session 2 - Machine Learning - Unsupervised Learning
+Intro:
  - https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
  - https://www.coursera.org/learn/machine-learning/lecture/czmip/unsupervised-learning-introduction
+
+K-Means:
  - https://www.coursera.org/learn/machine-learning/lecture/93VPG/k-means-algorithm
  - https://www.coursera.org/learn/machine-learning/lecture/G6QWt/optimization-objective
+ 
+Applications:
  - https://www.coursera.org/learn/machine-learning/lecture/0EJ6A/motivation-i-data-compression
  - https://www.coursera.org/learn/machine-learning/lecture/t6pYD/motivation-ii-visualization
  - https://www.coursera.org/learn/machine-learning/lecture/Rhg6r/problem-formulation
@@ -560,14 +565,14 @@ Classification:
 
 More:
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-- [ ] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
-- [ ] [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
-- [ ] [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://www.youtube.com/watch?v=X769cyzBNVw)
-- [ ] [Google's Cloud Machine learning tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
-- [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-- [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
-- [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
-- [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+- [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
+- [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
+- Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://www.youtube.com/watch?v=X769cyzBNVw)
+- [Google's Cloud Machine learning tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
+- [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
+- [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+- [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
 
  
 
