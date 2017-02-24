@@ -541,10 +541,11 @@ Regression:
  - https://www.coursera.org/learn/machine-learning/lecture/N09c6/cost-function-intuition-i
  
 Classification:
- - https://www.coursera.org/learn/machine-learning/lecture/wlPeP/classification
+- https://www.coursera.org/learn/machine-learning/lecture/wlPeP/classification
  - https://www.coursera.org/learn/machine-learning/lecture/RJXfB/hypothesis-representation
  - https://www.coursera.org/learn/machine-learning/lecture/OAOhO/non-linear-hypotheses
  - https://www.coursera.org/learn/machine-learning/lecture/4h5X4/prioritizing-what-to-work-on
+
 ### Session 2 - Machine Learning - Unsupervised Learning
  - https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
  - https://www.coursera.org/learn/machine-learning/lecture/czmip/unsupervised-learning-introduction
