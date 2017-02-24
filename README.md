@@ -529,43 +529,46 @@ fibonacci, etc.
 
 
 # Week 4 
-TODO: organize this section, write to connect the subjects to algorithms
-## Session 1 & 2 (do both sessions on this because it's long) Algorithms in the Real World 
-
-
 
 
 ### Session 1 - Machine Learning - Supervised Learning
-todo
+Intro:
+- https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
+ - https://www.coursera.org/learn/machine-learning/lecture/1VkCb/supervised-learning
+Regression:
+ - https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation
+ - https://www.coursera.org/learn/machine-learning/lecture/rkTp3/cost-function
+ - https://www.coursera.org/learn/machine-learning/lecture/N09c6/cost-function-intuition-i
+ 
+Classification:
+ - https://www.coursera.org/learn/machine-learning/lecture/wlPeP/classification
+ - https://www.coursera.org/learn/machine-learning/lecture/RJXfB/hypothesis-representation
+ - https://www.coursera.org/learn/machine-learning/lecture/OAOhO/non-linear-hypotheses
+ - https://www.coursera.org/learn/machine-learning/lecture/4h5X4/prioritizing-what-to-work-on
 ### Session 2 - Machine Learning - Unsupervised Learning
-todo
+ - https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
+ - https://www.coursera.org/learn/machine-learning/lecture/czmip/unsupervised-learning-introduction
+ - https://www.coursera.org/learn/machine-learning/lecture/93VPG/k-means-algorithm
+ - https://www.coursera.org/learn/machine-learning/lecture/G6QWt/optimization-objective
+ - https://www.coursera.org/learn/machine-learning/lecture/0EJ6A/motivation-i-data-compression
+ - https://www.coursera.org/learn/machine-learning/lecture/t6pYD/motivation-ii-visualization
+ - https://www.coursera.org/learn/machine-learning/lecture/Rhg6r/problem-formulation
+ - https://www.coursera.org/learn/machine-learning/lecture/uG59z/content-based-recommendations
+ - https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering
+ 
 
-    - [ ] Why ML?
-        - [ ] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
-        - [ ] [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
-        - [ ] [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://www.youtube.com/watch?v=X769cyzBNVw)
-    - [ ] [Google's Cloud Machine learning tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
-    - [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-    - [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
-    - [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
-    - [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
-    - Courses:
-        - [Great starter course: Machine Learning](https://www.coursera.org/learn/machine-learning)
-              - [videos only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-              - see videos 12-18 for a review of linear algebra (14 and 15 are duplicates)
-        - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-        - [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
-        - [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
-        - [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
-        - [Metis Online Course ($99 for 2 months)](http://www.thisismetis.com/explore-data-science)
-    - Resources:
-        - Books:
-            - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
-            - [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
-            - [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/)
-        - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-        - Data School: http://www.dataschool.io/
-       
+More:
+- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+- [ ] [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
+- [ ] [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
+- [ ] [Deep Learning and Understandability versus Software Engineering and Verification by Peter Norvig](https://www.youtube.com/watch?v=X769cyzBNVw)
+- [ ] [Google's Cloud Machine learning tools (video)](https://www.youtube.com/watch?v=Ja2hxBAwG_0)
+- [ ] [Google Developers' Machine Learning Recipes (Scikit Learn & Tensorflow) (video)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [ ] [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
+- [ ] [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+- [ ] [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+
+ 
 
 
  
@@ -1390,6 +1393,11 @@ Have a story, not just data, about something you accomplished.
 - - [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/)
+- [Data Science from Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+- [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/)
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+      
 
 
 
