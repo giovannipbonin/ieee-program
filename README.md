@@ -414,6 +414,8 @@ Video:
  - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
       - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
        -> That's the power of "hashing", where we take the key which is the value that maps to another, and process it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
+       - Know how hash tables are implemented, but more importantly know how to use them to build new systems.
+       
        
        Videos:
         - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
@@ -458,75 +460,75 @@ Overview video:
 
 ## Week 3
 
-### Session 1 - Basic Algorithms examples
 
 
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
+### Session 1 - Recursion 
+
+
+Concept:
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/CVJBS/the-importance-of-recursion
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/ccrwD/recursion
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/pubjS/visualizing-recursion
+- https://www.coursera.org/learn/principles-of-computing-2/lecture/ylfQH/recurrences
+
+
+
+Example Application:
+
+Binary search
+https://www.coursera.org/learn/object-oriented-java/lecture/Zmla4/core-binary-search
+
+Counting inversions
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
+   
+Quicksort
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
+
+More:
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
+
+
+### Session 2 - Basic Algorithms examples
 
 Talk points: Here we will see the importance of algorithms in designing efficient applications, and how we can benefit from using the advantages of efficient data structures and algorithms together to create very powerful systems.
 
+### Applications of Sorting
 
-### Binary search
- - do iterative here, then show how recursive makes it more intuitive in next session
-
-
-### Sorting
   One of the most basic algorithms is sorting. Everyone is familiar with sorting. In real life we might have a bookshelf sorted by alphabetical order, which is useful for retrieving and finding the correct book at a later time.
   
-  The key question following this then is, how to efficiently sort a given data structure? There are many algorithms and here we will go over them:
+There are many problems where sorting first will help to solve the problem more efficiently.
+
+- Use these slides
+  http://www3.cs.stonybrook.edu/~algorith/video-lectures/1997/lecture8.pdf
   
-  Videos:  
-  
-- [ ] [Bubble Sort (video)](https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB)
+
+
+
+### Applications of Hash tables 
+
+
+- Use these slides
+http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture6.pdf
+
+   
+
+Home Videos: 
+- https://www.coursera.org/learn/algorithms-on-strings
+- https://www.youtube.com/watch?v=CLHDr1tqaFQ
+- [ ] [CS 61B Lecture 29: Sorting I (video)](https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29)
+- [ ] [CS 61B Lecture 30: Sorting II (video)](https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30)
+- [ ] [CS 61B Lecture 32: Sorting III (video)](https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C)
+- [ ] [CS 61B Lecture 33: Sorting V (video)](https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C)
+- [ ] [1. Quicksort](https://www.youtube.com/watch?v=5M5A7qPWk84&index=1&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
+- [ ] [2. Selection](https://www.youtube.com/watch?v=CgVYfSyct_M&index=2&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
+- [ ] [3. Duplicate Keys](https://www.youtube.com/watch?v=WBFzOYJ5ybM&index=3&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
+- [ ] [4. System Sorts](https://www.youtube.com/watch?v=rejpZ2htBjE&index=4&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1) 
 - [ ] [Analyzing Bubble Sort (video)](https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB)
 - [ ] [Insertion Sort (video)](https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB)
 - [ ] [Selection Sort (video)](https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB)
-- [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB)
-- [ ] [Quicksort (video)](https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB)
-
-
-  
-  
-  Home Videos: 
-    - [ ] [CS 61B Lecture 29: Sorting I (video)](https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29)
-    - [ ] [CS 61B Lecture 30: Sorting II (video)](https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30)
-    - [ ] [CS 61B Lecture 32: Sorting III (video)](https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C)
-    - [ ] [CS 61B Lecture 33: Sorting V (video)](https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C)
-    - [ ] [1. Quicksort](https://www.youtube.com/watch?v=5M5A7qPWk84&index=1&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
-    - [ ] [2. Selection](https://www.youtube.com/watch?v=CgVYfSyct_M&index=2&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
-    - [ ] [3. Duplicate Keys](https://www.youtube.com/watch?v=WBFzOYJ5ybM&index=3&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)
-    - [ ] [4. System Sorts](https://www.youtube.com/watch?v=rejpZ2htBjE&index=4&list=PLe-ggMe31CTeE3x2-nF1-toca1QpuXwE1)    
-
-### Session 2 - Recursion 
-
-
-
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-note: transition by showing how sorting can use recursion, also binary search
-fibonacci, etc.
-
-- run down the stack to show why recursion makes sense
- - [ ] Stanford lectures on recursion & backtracking:
-- https://www.coursera.org/learn/principles-of-computing-2/lecture/CVJBS/the-importance-of-recursion
--  https://www.coursera.org/learn/principles-of-computing-2/lecture/ccrwD/recursion
--  https://www.coursera.org/learn/principles-of-computing-2/lecture/zsXCG/binary-search
-- https://www.coursera.org/learn/principles-of-computing-2/lecture/pubjS/visualizing-recursion
-- https://www.coursera.org/learn/principles-of-computing-2/lecture/ylfQH/recurrences
-- https://www.coursera.org/learn/principles-of-computing-2/lecture/CZqfQ/reading-files
-
-
-### Divide and Conquer:
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
-     
-### Sorting
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
-
 
 # Week 4 
 
@@ -580,13 +582,9 @@ More:
  
 # Week 5
 
-## Session 1 - Heaps and Balanced Trees
 
+## Session 1 - Trees and Tries
 
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-
-- https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/WHOPA/data-structures-overview
 
 
 - ### Trees - Notes & Background
@@ -603,18 +601,29 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
     - [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
     - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
     
-    - [ ] Implement:
-        - [ ] insert    // insert value into tree
-        - [ ] get_node_count // get count of values stored
-        - [ ] print_values // prints the values in the tree, from min to max
-        - [ ] delete_tree
-        - [ ] is_in_tree // returns true if given value exists in the tree
-        - [ ] get_height // returns the height in nodes (single node's height is 1)
-        - [ ] get_min   // returns the minimum value stored in the tree
-        - [ ] get_max   // returns the maximum value stored in the tree
-        - [ ] is_binary_search_tree
-        - [ ] delete_value
-        - [ ] get_successor // returns next-highest value in tree after given value, -1 if none
+
+- ### Tries
+    - Note there are different kinds of tries. Some have prefixes, some don't, and some use string instead of bits
+        to track the path.
+    - I read through code, but will not implement.
+    - [ ] [Sedgewick - Tries (3 videos)](https://www.youtube.com/playlist?list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
+        - [ ] [1. R Way Tries](https://www.youtube.com/watch?v=buq2bn8x3Vo&index=3&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
+        - [ ] [2. Ternary Search Tries](https://www.youtube.com/watch?v=LelV-kkYMIg&index=2&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
+        - [ ] [3. Character Based Operations](https://www.youtube.com/watch?v=00YaFPcC65g&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ&index=1)
+    - [ ] [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries)
+    - [ ] Short course videos:
+        - [ ] [Introduction To Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries)
+        - [ ] [Performance Of Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries)
+        - [ ] [Implementing A Trie (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie)
+    - [ ] [The Trie: A Neglected Data Structure](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
+    - [ ] [TopCoder - Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
+    - [ ] [Stanford Lecture (real world use case) (video)](https://www.youtube.com/watch?v=TJ8SkcUSdbU)
+
+
+## Session 2 - Heaps and Balanced Trees
+https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/WHOPA/
+
+
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
@@ -643,23 +652,8 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
         - [ ] heapify - create a heap from an array of elements, needed for heap_sort
         - [ ] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
-
-- ### Tries
-    - Note there are different kinds of tries. Some have prefixes, some don't, and some use string instead of bits
-        to track the path.
-    - I read through code, but will not implement.
-    - [ ] [Sedgewick - Tries (3 videos)](https://www.youtube.com/playlist?list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
-        - [ ] [1. R Way Tries](https://www.youtube.com/watch?v=buq2bn8x3Vo&index=3&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
-        - [ ] [2. Ternary Search Tries](https://www.youtube.com/watch?v=LelV-kkYMIg&index=2&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
-        - [ ] [3. Character Based Operations](https://www.youtube.com/watch?v=00YaFPcC65g&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ&index=1)
-    - [ ] [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries)
-    - [ ] Short course videos:
-        - [ ] [Introduction To Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries)
-        - [ ] [Performance Of Tries (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries)
-        - [ ] [Implementing A Trie (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie)
-    - [ ] [The Trie: A Neglected Data Structure](https://www.toptal.com/java/the-trie-a-neglected-data-structure)
-    - [ ] [TopCoder - Using Tries](https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/)
-    - [ ] [Stanford Lecture (real world use case) (video)](https://www.youtube.com/watch?v=TJ8SkcUSdbU)
+            
+            
 
 - ### Balanced search trees
     - Know least one type of balanced binary tree (and know how it's implemented):
@@ -686,7 +680,34 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
         - [ ] [AVL Trees (video)](https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees)
         - [ ] [AVL Tree Implementation (video)](https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation)
         - [ ] [Split And Merge](https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge)
+        
+        
+ - [ ] **2-3 search trees**
+        - In practice:
+            2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
+        - You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
+        - [ ] [23-Tree Intuition and Definition (video)](https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2)
+        - [ ] [Binary View of 23-Tree](https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+        - [ ] [2-3 Trees (student recitation) (video)](https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 
+ - [ ] **Red/black trees**
+        - In practice:
+            Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
+            Not only does this make them valuable in time-sensitive applications such as real-time applications,
+            but it makes them valuable building blocks in other data structures which provide worst-case guarantees;
+            for example, many data structures used in computational geometry can be based on red–black trees, and
+            the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
+            the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
+            hashcodes, a Red-Black tree is used.
+        - [ ] [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
+        - [ ] [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
+        - [ ] [Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+        - [ ] [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
+        - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/8acpe/red-black-trees
+        - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JV7KI/rotations-advanced-optional
+        - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/jPL2x/insertion-in-a-red-black-tree-advanced
+
+Home:
     - [ ] **Splay trees**
         - In practice:
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
@@ -698,14 +719,7 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
             - Gets very mathy, but watch the last 10 minutes for sure.
             - [Video](https://www.youtube.com/watch?v=QnPl_Y6EqMo)
 
-    - [ ] **2-3 search trees**
-        - In practice:
-            2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
-        - You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
-        - [ ] [23-Tree Intuition and Definition (video)](https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2)
-        - [ ] [Binary View of 23-Tree](https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-        - [ ] [2-3 Trees (student recitation) (video)](https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-
+ 
     - [ ] **2-3-4 Trees (aka 2-4 trees)**
         - In practice:
             For every 2-4 tree, there are corresponding red–black trees with data elements in the same order. The insertion and deletion
@@ -731,22 +745,6 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
                 - covers cache-oblivious B-Trees, very interesting data structures
                 - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
-    - [ ] **Red/black trees**
-        - In practice:
-            Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
-            Not only does this make them valuable in time-sensitive applications such as real-time applications,
-            but it makes them valuable building blocks in other data structures which provide worst-case guarantees;
-            for example, many data structures used in computational geometry can be based on red–black trees, and
-            the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
-            the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
-            hashcodes, a Red-Black tree is used.
-        - [ ] [Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
-        - [ ] [Aduni - Algorithms - Lecture 5 (video)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
-        - [ ] [Black Tree](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-        - [ ] [An Introduction To Binary Search And Red Black Tree](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
-        - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/8acpe/red-black-trees
-        - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JV7KI/rotations-advanced-optional
-        - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/jPL2x/insertion-in-a-red-black-tree-advanced
 
 - ### N-ary (K-ary, M-ary) trees
     - note: the N or K is the branching factor (max branches)
@@ -755,7 +753,6 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
     - [ ] [K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
  
 
-- ### Extras
      - C/C++:
              - [ ] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
              - [ ] [BST implementation - memory allocation in stack and heap (video)](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)
@@ -768,49 +765,14 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
              - [ ] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
              - [ ] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
              
-             - [ ] [MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through)](https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+             - [ ] [MIT, Advanced Data Structures, Strings](https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
              
              - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
              - [MIT (video)](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
-             - BFS (breadth-first search)
-                  - level order (BFS, using queue)
-                      time complexity: O(n)
-                      space complexity: best: O(1), worst: O(n/2)=O(n)
-             - DFS (depth-first search)
-                  - notes:
-                      time complexity: O(n)
-                      space complexity:
-                          best: O(log n) - avg. height of tree
-                          worst: O(n)
-                  - inorder (DFS: left, self, right)
-                  - postorder (DFS: left, right, self)
-                  - preorder (DFS: self, left, right)  
+
               - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
               - [ ] [MIT: Heaps and Heap Sort (video)](https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 
-     ## Session 2 - Dynamic Programming
-
-     Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-           2) write my talk
-
-
-- https://www.coursera.org/learn/algorithms-greedy/lecture/WENc1/introduction-weighted-independent-sets-in-path-graphs
-- https://www.coursera.org/learn/algorithms-greedy/lecture/t9XAF/wis-in-path-graphs-optimal-substructure
-- https://www.coursera.org/learn/algorithms-greedy/lecture/w040v/wis-in-path-graphs-a-linear-time-algorithm
-- https://www.coursera.org/learn/algorithms-greedy/lecture/TZgJM/wis-in-path-graphs-a-reconstruction-algorithm
-- https://www.coursera.org/learn/algorithms-greedy/lecture/VEc7L/principles-of-dynamic-programming
-
-More: 
-  Dynamic programming is quite simple. It takes advantages of two things seen previously: data structures and recursion.
-    - [ ] Videos:
-- [ ] List of individual DP problems (each is short): [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-- [ ] [The RNA secondary structure problem (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/80RrW/the-rna-secondary-structure-problem)
-- [ ] [A dynamic programming algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/PSonq/a-dynamic-programming-algorithm)
-- [ ] [Illustrating the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/oUEK2/illustrating-the-dp-algorithm)
-- [ ] [Running time of the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/nfK2r/running-time-of-the-dp-algorithm)
-- [ ] [DP vs. recursive implementation (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
-- [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
-- [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
 
 - ### Treap
     - Combination of a binary search tree and a heap
@@ -818,28 +780,15 @@ More:
     - [ ] [Data Structures: Treaps explained (video)](https://www.youtube.com/watch?v=6podLUYinH8)
     - [ ] [Applications in set operations](https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf)
         
-        
-- [ ] **More Dynamic Programming** (videos)
-    - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
-    - [ ] [6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
-    - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
-    - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-    - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-    - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
-    - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
-
 
 # Week 6
 Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
       2) write my talk
 
 
-## Session 1 & 2 - Graph Search, Shortest Paths, and Data Structures
+## Session 1 - Graph Properties and Graph Search
 
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
 
-### Graphs
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/NX0BI/graph-search-overview
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/JZRXz/breadth-first-search-bfs-the-basics
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/ZAaJA/bfs-and-shortest-paths
@@ -849,13 +798,19 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
 
-### Dijkstra Graph Search Algorihtm
+
+Dijkstra Graph Search Algorihtm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
 
-More: 
+
+### Session 2 - Solving Problems Using Graphs
+
+todo - get skiena content slides, and here https://www.coursera.org/learn/algorithms-on-graphs
+
+Home: 
 
 
 Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
@@ -885,7 +840,13 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
 
 # Week 7
 
-## Session 1 - Knapsack problem and More Dynamic Programming
+### Session 1 - Dynamic Programming 
+
+
+     Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
+           2) write my talk
+
+
 Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff  
       2) write my talk
 
@@ -901,19 +862,50 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
 - https://www.coursera.org/learn/algorithms-greedy/lecture/0qjbs/proof-of-optimal-substructure
 - https://www.coursera.org/learn/algorithms-greedy/lecture/3wrTN/a-dynamic-programming-algorithm-i
 - https://www.coursera.org/learn/algorithms-greedy/lecture/5ERYG/a-dynamic-programming-algorithm-ii
+
+- https://www.coursera.org/learn/algorithms-greedy/lecture/WENc1/introduction-weighted-independent-sets-in-path-graphs
+- https://www.coursera.org/learn/algorithms-greedy/lecture/t9XAF/wis-in-path-graphs-optimal-substructure
+- https://www.coursera.org/learn/algorithms-greedy/lecture/w040v/wis-in-path-graphs-a-linear-time-algorithm
+- https://www.coursera.org/learn/algorithms-greedy/lecture/TZgJM/wis-in-path-graphs-a-reconstruction-algorithm
+- https://www.coursera.org/learn/algorithms-greedy/lecture/VEc7L/principles-of-dynamic-programming
+
+More: 
+  Dynamic programming is quite simple. It takes advantages of two things seen previously: data structures and recursion.
+    - [ ] Videos:
+- [ ] List of individual DP problems (each is short): [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+- [ ] [The RNA secondary structure problem (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/80RrW/the-rna-secondary-structure-problem)
+- [ ] [A dynamic programming algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/PSonq/a-dynamic-programming-algorithm)
+- [ ] [Illustrating the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/oUEK2/illustrating-the-dp-algorithm)
+- [ ] [Running time of the DP algorithm (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/nfK2r/running-time-of-the-dp-algorithm)
+- [ ] [DP vs. recursive implementation (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
+- [ ] [Global pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
+- [ ] [Local pairwise sequence alignment (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
+
+
+        
+- [ ] **More Dynamic Programming** (videos)
+    - [ ] [6.006: Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=19)
+    - [ ] [6.006: Dynamic Programming II: Text Justification, Blackjack](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)Du
+    - [ ] [6.006: DP III: Parenthesization, Edit Distance, Knapsack](https://www.youtube.com/watch?v=ocZMDMZwhCY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21)
+    - [ ] [6.006: DP IV: Guitar Fingering, Tetris, Super Mario Bros.](https://www.youtube.com/watch?v=tp4_UXaVyx8&index=22&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+    - [ ] [6.046: Dynamic Programming & Advanced DP](https://www.youtube.com/watch?v=Tw1k46ywN6E&index=14&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+    - [ ] [6.046: Dynamic Programming: All-Pairs Shortest Paths](https://www.youtube.com/watch?v=NzgFUwOaoIw&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15)
+    - [ ] [6.046: Dynamic Programming (student recitation)](https://www.youtube.com/watch?v=krZI60lKPek&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=12)
+
+
      
-## Session 2 - Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
+## Session 2 - Solving Problems with Dynamic Programming 
 
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
+See from skiena's slides, and within the extra content here in the guide and: 
 
-- https://www.coursera.org/learn/algorithms-npcomplete/lecture/8HT5O/polynomial-time-solvable-problems
-- https://www.coursera.org/learn/algorithms-npcomplete/lecture/o1CGE/reductions-and-completeness
-- https://www.coursera.org/learn/algorithms-npcomplete/lecture/vZ9Bc/definition-and-interpretation-of-np-completeness-i
-- https://www.coursera.org/learn/algorithms-npcomplete/lecture/3JqiX/definition-and-interpretation-of-np-completeness-ii
-- https://www.coursera.org/learn/algorithms-npcomplete/lecture/VZY2Z/the-p-vs-np-question
-- https://www.coursera.org/learn/algorithms-npcomplete/lecture/jugfP/algorithmic-approaches-to-np-complete-problems
-      
+https://www.coursera.org/learn/dna-sequencing/lecture/ZDDOH/practical-implementing-dynamic-programming-for-edit-distance
+https://www.coursera.org/learn/advanced-algorithms-and-complexity/lecture/71PHI/tsp-dynamic-programming
+https://www.coursera.org/learn/algorithms-npcomplete/lecture/gXaGS/a-dynamic-programming-heuristic-for-knapsack
+https://www.coursera.org/learn/algorithms-npcomplete/lecture/qtdIZ/knapsack-via-dynamic-programming-revisited
+https://www.coursera.org/learn/algorithms-npcomplete/lecture/ApF82/ananysis-of-dynamic-programming-heuristic
+https://www.coursera.org/learn/comparing-genomes/lecture/TDKlW/dynamic-programming-and-backtracking-pointers
+https://www.coursera.org/learn/algorithms-greedy
+
 
  
 
@@ -940,7 +932,15 @@ Todo: 1) organize this section, clean up unecessary stuff, and maybe add more st
 - [ ] [MIT 6.042J - Large Deviations](https://www.youtube.com/watch?v=q4mwO2qS2z4&index=24&list=PLB7540DEDD482705B)
 - [ ] [MIT 6.042J - Random Walks](https://www.youtube.com/watch?v=56iFMY8QW2k&list=PLB7540DEDD482705B&index=25)
     
-### NP, NP-Complete and Approximation Algorithms
+### Shortest Paths and NP, NP-Complete, and Approximation Algorithms
+
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/8HT5O/polynomial-time-solvable-problems
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/o1CGE/reductions-and-completeness
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/vZ9Bc/definition-and-interpretation-of-np-completeness-i
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/3JqiX/definition-and-interpretation-of-np-completeness-ii
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/VZY2Z/the-p-vs-np-question
+- https://www.coursera.org/learn/algorithms-npcomplete/lecture/jugfP/algorithmic-approaches-to-np-complete-problems
+      
 - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
         and be able to recognize them when an interviewer asks you them in disguise.
 - Know what NP-complete means.
