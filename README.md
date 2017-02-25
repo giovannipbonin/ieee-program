@@ -17,6 +17,8 @@ I was initially going to use a Slack channel for this, but then I realized that 
 
 ## Table of Contents
 - [Week 0](#week-0)
+     1. Announcement
+     2. Tech Talk
 - [Week 1](#week-1)
      1. About Silicon Valley, Google, Facebook, and Startups - Motivation
      2. Interview Process & General Interview Prep
