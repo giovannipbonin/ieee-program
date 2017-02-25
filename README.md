@@ -91,9 +91,7 @@ Success leads to confidence (conversely from what people believe), so the more y
 - [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 - [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
- 
-#### What Silicon Valley looks like
-![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
+
 
 
 #### It also look a lot like this
@@ -149,17 +147,11 @@ but with the right discipline and passion they became really good at it by stick
 - Check the home assigned readings and videos for "The Myth of the Genius Programmer" 
 
 
-### Silicon Valley
-
-#### History and the Future
-todo
-#### The Personality, Values, and Culture of Silicon Valley
-todo
-#### It's not about Silicon Valley as a Location, it's about the values it has inspired
-todo
+### What Silicon Valley looks like
+![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
 
 
-Play in lecture:
+Inspiration for these technical challenges we will tackle:
 - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
 - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 - [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
@@ -211,7 +203,6 @@ Talk points:
  - Be confident, but not arrogant
 
 ### Talk while you think, and code, explain everything that might be ambiguous
-
 
 ### If running out of time and need shortcuts, explain how you would not do the shortcut in a real scenario
 
@@ -301,7 +292,6 @@ whether he expects you to use the standard library or implement it yourself. Whe
 ### Starting with basics
 
 - ### Emacs and vi(m)
-    - suggested by Yegge, from an old Amazon recruiting post: Familiarize yourself with a unix-based code editor
     - vi(m):
         - [Editing With vim 01 - Installation, Setup, and The Modes (video)](https://www.youtube.com/watch?v=5givLEMcINQ&index=1&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr)
         - [VIM Adventures](http://vim-adventures.com/)
@@ -320,24 +310,6 @@ whether he expects you to use the standard library or implement it yourself. Whe
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
         - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
-
-- ### Unix command line tools
-    - suggested by Yegge, from an old Amazon recruiting post. I filled in the list below from good tools.
-    - [ ] bash
-    - [ ] cat
-    - [ ] grep
-    - [ ] sed
-    - [ ] awk
-    - [ ] curl or wget
-    - [ ] sort
-    - [ ] tr
-    - [ ] uniq
-    - [ ] [strace](https://en.wikipedia.org/wiki/Strace)
-    - [ ] [tcpdump](https://danielmiessler.com/study/tcpdump/)
-
-
-
-
 
 # Week 2
 
@@ -845,12 +817,6 @@ https://www.coursera.org/learn/algorithms-graphs-data-structures
 ### Session 1 - Dynamic Programming 
 
 
-     Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-           2) write my talk
-
-
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff  
-      2) write my talk
 
 - https://www.coursera.org/learn/algorithms-greedy/lecture/LIgLJ/the-knapsack-problem
 - https://www.coursera.org/learn/algorithms-greedy/lecture/0n68L/a-dynamic-programming-algorithm
@@ -993,8 +959,6 @@ More:
 
   
 ## Session 2 - Caches, Processes and Threads, and other topics (edit)
- Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
  
  
   ### Bitwise operations
@@ -1074,9 +1038,8 @@ More:
     Scalability and System Design are very large topics with many topics and resources, since there is a lot to consider
     when designing a software/hardware system that can scale. Expect to spend quite a bit of time on this.
 
-More: 
 
-
+#### More: 
 
 - ### Computer Security
     - [MIT (23 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
@@ -1113,20 +1076,9 @@ More:
 
 # Week 9
 
-## Session 1 - Testing and System Design 
-
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-
-
-
-  Talk points:
-        - how unit testing works
-        - what are mock objects
-        - what is integration testing
-        - what is dependency injection
+## Session 1 - Testing and System Design
        
-    - [ ] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
+   - [ ] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
     - [ ] [Open Lecture by James Bach on Software Testing (video)](https://www.youtube.com/watch?v=ILkT_HV9DVU)
     - [ ] [Steve Freeman - Test-Driven Development (that’s not what we meant) (video)](https://vimeo.com/83960706)
         - [slides](http://gotocon.com/dl/goto-berlin-2013/slides/SteveFreeman_TestDrivenDevelopmentThatsNotWhatWeMeant.pdf)
