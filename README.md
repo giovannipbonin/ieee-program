@@ -591,7 +591,7 @@ More:
 
 
 Home:
-  - **Splay trees**
+- **Splay trees**
         - In practice:
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
             data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
@@ -624,7 +624,7 @@ Home:
         - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/jPL2x/insertion-in-a-red-black-tree-advanced
 
  
-    -  **2-3-4 Trees (aka 2-4 trees)**
+- **2-3-4 Trees (aka 2-4 trees)**
         - In practice:
             For every 2-4 tree, there are corresponding red–black trees with data elements in the same order. The insertion and deletion
             operations on 2-4 trees are also equivalent to color-flipping and rotations in red–black trees. This makes 2-4 trees an
@@ -634,7 +634,7 @@ Home:
         - [ ] [Bottom Up 234-Trees (video)](https://www.youtube.com/watch?v=DQdMYevEyE4&index=4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
         - [ ] [Top Down 234-Trees (video)](https://www.youtube.com/watch?v=2679VQ26Fp4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=5)
 
-    -  **B-Trees**
+-  **B-Trees**
         - fun fact: it's a mystery, but the B could stand for Boeing, Balanced, or Bayer (co-inventor)
         - In Practice:
             B-Trees are widely used in databases. Most modern filesystems use B-trees (or Variants). In addition to
