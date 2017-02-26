@@ -94,7 +94,6 @@ Success leads to confidence (conversely from what people believe), so the more y
 
 
 
-#### It also look a lot like this
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
 ### The Purpose of This Guide - Everything I'd wish I was taught earlier on
@@ -288,9 +287,7 @@ whether he expects you to use the standard library or implement it yourself. Whe
 
 ### Starting with basics: What IDE Should I use? Vim? Emacs? Eclipse?
 
-The right answer is: the one that makes you the best. Period. Every artist and craftsman has the tools that make them the best as they can be. If that's Vim (which is for me) or Emacs, or Eclipse it's up to you. But try new stuff out.
-
-
+The right answer is: the one that makes you the best. Period. Every artist and craftsman has the tools that make them the best as they can be. If that's Vim (which is for me) or Emacs, or Eclipse it's up to you. But try new stuff out. Check out some stuff about vim and emacs and you will understand how many different useful things editors can do beyond the basics:
 
 - ### Emacs and vi(m)
     - vi(m):
@@ -325,22 +322,18 @@ The right answer is: the one that makes you the best. Period. Every artist and c
 
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+
+
+Home reading
+- [ ] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena: [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
-- [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
+- [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [UC Berkeley Big O (video)](https://youtu.be/VIS4YDpuP98)
 - [ ] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
-
-
-Home reading:
-- [ ] TopCoder (includes recurrence relations and master theorem):
-- [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
-- [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
 
 ## Session 2 - An Overview of Data Structures and Algorithms
 
@@ -370,7 +363,7 @@ Video:
 - [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
 - [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
 - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-- [why you should avoid linked lists (video)](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+
 
 ### Queue
 - We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
@@ -381,8 +374,6 @@ Video:
     search looks into factors such as the cost of moving to the node and the estimated distance reduction to the goal.
     Video:
     - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
-    - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
-    - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
     
 ### Hash Tables
@@ -395,7 +386,7 @@ Video:
        Videos:
         - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
-        - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem
+        - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
        
 ### Trees
  - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do. Most think of it as an upside down tree.  For example:
@@ -419,19 +410,22 @@ Videos:
 - [ ] [Series: Core Trees (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees)
 - [ ] [Series: Trees (video)](https://www.coursera.org/learn/data-structures/lecture/95qda/trees)
 - [ ] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
-- [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-- [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)    
-Overview video: 
-- [ ] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-    
+
     
 ### Graphs
    - Graphs, just like trees, are another way to represent data. A tree is actually just a specific form of a graph. Graphs are very important when we want to model items that have a relationship with one another, like trees. Every tree is a graph, but not every graph is a tree because some graphs can contain cycles (loops) and trees cannot. 
  
  Videos: 
+ - [BFS](https://www.youtube.com/watch?v=QRq6p9s8NVg)
+ - [DFS](https://www.youtube.com/watch?v=QRq6p9s8NVg)
+ - [Graph representation](https://www.youtube.com/watch?v=WQ2Tzlxl_Xo)
+ 
+ 
+Home reading:
+- [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
+- [Priority Queues] (https://www.youtube.com/watch?v=-WEku8ZnynU)
  - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
  - [ ] [CSE373 2012 - Lecture 12 - Breadth-First Search (video)](https://www.youtube.com/watch?v=g5vF8jscteo&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=12)
- 
 
 ## Week 3
 
@@ -453,9 +447,7 @@ Example Application:
 Binary search
 https://www.coursera.org/learn/object-oriented-java/lecture/Zmla4/core-binary-search
 
-Counting inversions
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
-- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
+
    
 Quicksort
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/Zt0Ti/quicksort-overview
@@ -464,7 +456,12 @@ Quicksort
 
 More:
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
-
+- [ ] TopCoder (includes recurrence relations and master theorem):
+- [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
+- [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
+Counting inversions
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/GFmmJ/o-n-log-n-algorithm-for-counting-inversions-i
+- https://www.coursera.org/learn/algorithms-divide-conquer/lecture/IUiUk/o-n-log-n-algorithm-for-counting-inversions-ii
 
 ### Session 2 - Basic Algorithms examples
 
