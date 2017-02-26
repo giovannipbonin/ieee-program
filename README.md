@@ -422,7 +422,7 @@ Videos:
  - [Graph representation](https://www.youtube.com/watch?v=WQ2Tzlxl_Xo)
  
  
-Home reading:
+### Home reading:
 - [MIT (video)](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
 - [Priority Queues] (https://www.youtube.com/watch?v=-WEku8ZnynU)
  - [ ] [CSE373 2012 - Lecture 11 - Graph Data Structures (video)](https://www.youtube.com/watch?v=OiXxhDrFruw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=11)
@@ -455,7 +455,7 @@ Quicksort
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/xUd8B/partitioning-around-a-pivot
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/QCLVL/choosing-a-good-pivot
 
-More:
+### Home Reading:
 - https://www.coursera.org/learn/algorithms-divide-conquer/lecture/KMyzr/correctness-of-quicksort-review-optional
 - [ ] TopCoder (includes recurrence relations and master theorem):
 - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
@@ -550,7 +550,7 @@ Applications:
  - https://www.coursera.org/learn/machine-learning/lecture/2WoBV/collaborative-filtering
  
 
-More:
+### Home Reading:
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 - [How Google Is Remaking Itself As A Machine Learning First Company](https://backchannel.com/how-google-is-remaking-itself-as-a-machine-learning-first-company-ada63defcb70)
 - [Large-Scale Deep Learning for Intelligent Computer Systems (video)](https://www.youtube.com/watch?v=QSaZGT4-6EY)
@@ -590,7 +590,7 @@ More:
     
 
 
-Home:
+### Home Reading:
 
 - **Splay trees**
         - In practice:
@@ -681,8 +681,7 @@ Some Applications of Trees:
 
 
 
-
-Home:
+### Home Reading
    - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
       - [ ] [Sedgewick - Tries (3 videos)](https://www.youtube.com/playlist?list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
         - [ ] [1. R Way Tries](https://www.youtube.com/watch?v=buq2bn8x3Vo&index=3&list=PLe-ggMe31CTe9IyG9MB8vt5xUJeYgOYRQ)
@@ -752,7 +751,7 @@ Dijkstra Graph Search Algorihtm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rxrPa/dijkstras-shortest-path-algorithm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Jfvmn/dijkstras-algorithm-examples
 
-Home:
+### Home Reading
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/VCHYw/correctness-of-dijkstras-algorithm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/Pbpp9/dijkstras-algorithm-implementation-and-running-time
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort
@@ -765,8 +764,7 @@ Home:
 
 Use this: https://www.coursera.org/learn/algorithms-on-graphs
 
-Home: 
-
+### Home Reading
 
 Graphs are a huge subject in computer science, there are many applications in which they are powerful. From modeling the relationships between people in social networks, to representing connections of genomic data in trying to understand patterns of diseases, they are very useful. There are many ways to represent them and we will understand them below: 
 
@@ -808,8 +806,7 @@ Optimal Substructure:
 - https://www.coursera.org/learn/algorithms-greedy/lecture/tNmae/a-dynamic-programming-algorithm 
      
 
-
-More: 
+### Home Reading
   Dynamic programming is quite simple. It takes advantages of two things seen previously: data structures and recursion.
 - [ ] Videos:
 - Weighted independent sets:
@@ -863,7 +860,7 @@ https://www.coursera.org/learn/advanced-algorithms-and-complexity/lecture/71PHI/
 Backtracking 
 https://www.coursera.org/learn/comparing-genomes/lecture/TDKlW/dynamic-programming-and-backtracking-pointers
 
-Home:
+### Home Reading
 https://www.coursera.org/learn/algorithms-greedy
 
 
@@ -890,8 +887,7 @@ https://www.coursera.org/learn/algorithms-greedy
       
 
 
-
-Home: 
+### Home Reading
 
 Probability:
 - [ ] [Basic Theoretical Probability](https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic)  
@@ -1002,8 +998,7 @@ Very Basics first:
 - [ ] [Python Threads](https://www.youtube.com/watch?v=Bs7vPNbB9JM)
 - [ ] [Mutex in Python](https://www.youtube.com/watch?v=0zaPs8OtyKY)
 
-
-Home: 
+### Home Reading
 - [Operating Systems and System Programming (video)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
 - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread
 -  [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
@@ -1052,7 +1047,7 @@ Home:
 
 Give talk on design and testing
 
-Home:
+### Home Reading
 
 - ### Testing:
    - [ ] [Agile Software Testing with James Bach (video)](https://www.youtube.com/watch?v=SAhJf36_u5U)
@@ -1109,6 +1104,9 @@ Home:
 
   This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
   It's nice if you want a refresher often.
+  - Wrap up
+  
+### Home Reading (for your own, on your own time, don't do all this in a week otherwise you will be wasting your time since you won't remember any of it by cramming it)
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
