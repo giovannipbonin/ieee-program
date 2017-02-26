@@ -214,8 +214,7 @@ Talk points:
 - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 - [ ] ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-- [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
-- [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+
 
 Reading at home:
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
@@ -247,14 +246,12 @@ is a subconscious feeling we get by looking at the flow of someone working with 
 
 
 2. You won't remember it all
-As the author of the original guide said:
-    "I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-    through my notes and making flashcards so I could review.
 
-    Read please so you won't make my mistakes:
+Use methods that will improve your memory for leaning, like spaced repetition, diffusive and focus modes of thinking, and etc (the learning how to learn course on Coursera was the most helpful resource on learning I used, but I continue to learn about this). But here's some basics stuff for you to get started:
 
-    [Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)"
+- [Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)"
 
+I personally don't use flash cards because I just scan my notes and upload to Drive so they are always accessible from my phone.
 
 
  2. Review, review, review
@@ -289,7 +286,11 @@ Note: you should use standard libraries of python when practicing. Unless, for e
 whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
 
 
-### Starting with basics
+### Starting with basics: What IDE Should I use? Vim? Emacs? Eclipse?
+
+The right answer is: the one that makes you the best. Period. Every artist and craftsman has the tools that make them the best as they can be. If that's Vim (which is for me) or Emacs, or Eclipse it's up to you. But try new stuff out.
+
+
 
 - ### Emacs and vi(m)
     - vi(m):
@@ -881,9 +882,6 @@ https://www.coursera.org/learn/algorithms-greedy
  
 ## Session 1 - Bitwise operations, Discrete Mathematics, and NP Completeness and Computability
 
-Todo: 1) organize this section, clean up unecessary stuff, and maybe add more stuff 
-      2) write my talk
-
 ### Combinatorics (n choose k) & Probability
 - [ ] [Math Skills: How to find Factorial, Permutation and Combination (Choose) (video)](https://www.youtube.com/watch?v=8RRo6Ti9d0U)
 - [ ] [Make School: Probability (video)](https://www.youtube.com/watch?v=sZkAAk9Wwa4)
@@ -963,6 +961,7 @@ More:
  
   ### Bitwise operations
  
+ 
  [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
  [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
  [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
@@ -1001,6 +1000,13 @@ More:
         - [ ] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 
 ### Processes and Threads
+
+Very Basics first: 
+
+- [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+- [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
+
+
    - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
         - [Operating Systems and System Programming (video)](https://www.youtube.com/playlist?list=PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
