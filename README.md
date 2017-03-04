@@ -179,6 +179,7 @@ Inspiration for these technical challenges we will tackle:
 Reading at home:
 
 - [ ] A list of resources that was created by Google: [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+- [ ] Cassidoo's getting a gig guide https://github.com/cassidoo/getting-a-gig
 - [ ] Conference, you should definitely watch this [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
 - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
 - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
