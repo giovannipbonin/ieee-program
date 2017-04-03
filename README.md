@@ -571,10 +571,10 @@ Applications:
 
 ## Session 1 - Search Trees,  and Balanced Trees
 
+For interviews, definitely know the properties and implementation of binary search trees. For balanced trees, know the general advantages of each, but you will probably not be asked to straight up implement an AVL Tree. You might have to do something that uses that idea where you would more or less end up inventing it on the fly.
+
 - ### Binary search trees: BSTs
     - [ ] [Series](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-    
-    
 
 - ### Balanced search trees
  - AVL trees
