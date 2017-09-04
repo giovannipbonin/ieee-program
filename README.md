@@ -14,40 +14,43 @@ This course will help you with 2 things:
 Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the course! As the semester gets going and if there's interest, we can work on a Software Engineering Class specific communication method.
 
 ## Table of Contents
-- [Week 0](#week-0)
-     1. Announcement
-     2. Tech Talk
-- [Week 1](#week-1)
-     1. About Silicon Valley, Google, Facebook, and Startups - Motivation
-     2. Interview Process & General Interview Prep
-         * Emacs and vi(m)
-         * Unix and Command Line Tools 
-- [Week 2](#week-2)
-     1. Algorithmic complexity / Big-O / Asymptotic analysis
-     2. An Overview of Data Structures and Algorithms
-- [Week 3](#week-3)
-     2. Basic Algorithms: Binary Search and Sorting
-     3. Recursion 
-- [Week 4](#week-4)
-     1. Machine Learning - Supervised Learning
-     2. Machine Learning - Unsupervised Learning
-- [Week 5](#week-5)
-     1. Heaps and Balanced Trees
-     2. Dynamic Programming
-- [Week 6](#week-6)
-     1 & 2: Graphs and Search
-- [Week 7](#week-7)
-     1. Knapsack problem and More Dynamic Programming
-     2. Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-- [Week 8](#week-8)
-     1. Bitwise operations, Discrete Mathematics, and NP Completeness and Computability
-     2. Caches, Processes and Threads, and other topics
-- [Week 9](#week-9)
-     1. Testing and System Design
-     2. Putting it all together and Review
-- [Week 10](#week-10)
-     1. Practice
-
+- [Week 0](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2000): September 4th, 2017
+     1. How to Get a Job in Silicon Valley
+     2. Algorithmic Complexity & Basic Data Structures
+- [Week 1](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2001): September 11th, 2017
+     1. Linked Lists
+     2. Machine Learning 101
+- [Week 2](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2002): September 18th, 2017
+     1. Stacks and Queues
+     2. TBD
+- [Week 3](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2003): September 25th, 2017
+     1. Trees and Graphs
+     2. Functional Programming
+- [Week 4](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2004): October 2nd, 2017
+     1. Bit Manipulation
+     2. Operating Systems 101
+- [Week 5](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2005): October 9th, 2017
+     1. Math and Logic Puzzles
+     2. Linear Algebra Review
+- [Week 6](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2006): October 16th, 2017
+     1. Object-Oriented Design
+     2. BigData and MapReduce
+- [Week 7](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2007): October 23rd, 2017
+     1. Recursion and Dynamic Programming
+     2. Concurrency: Threads and Locks
+- [Week 8](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2008): November 6th, 2017
+     1. System Design and Scalability
+     2. Security
+- [Week 9](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2009): November 13th, 2017
+     1. Sorting and Searching
+     2. Parallel Programming
+- [Week 10](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2010): November 27th, 2017
+     1. Testing
+     2. NP-Completeness and Theory of Computing
+- [Week 11](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2011): December 4th, 2017
+     1. Review
+     
+     
 #### Acknowledgements:
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide and prior development by @giovannibonin. 
 
@@ -56,6 +59,7 @@ Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the
 
 ## Books (if you are thirsty for success please be thirsty for knowledge, reading, and learning).
 - [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)
+- [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=sr_1_1?ie=UTF8&qid=1504564208&sr=8-1&keywords=algorithms+to+live+by)
 - [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 - [Write Great Code: Volume 1: Understanding the Machine](https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038)
 - [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
