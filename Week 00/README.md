@@ -63,14 +63,14 @@ but with the right discipline and passion they became really good at it by stick
 
 1.Interview Confidence
 
-⋅⋅ * Be confident, but not arrogant
+* Be confident, but not arrogant
 
 2.Talk while you think, and code, explain everything that might be ambiguous
 
 3.If running out of time and need shortcuts, explain how you would not do the shortcut in a real scenario
 
 4.The interviewer is there because they want to hire someone, they are your friend not your enemy
-⋅⋅ * If they give you a hint, take it, don't be cocky
+* If they give you a hint, take it, don't be cocky
 
 
 - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
@@ -90,34 +90,24 @@ Reading at home:
 
 ### Important advice: Pick One Language for the Interview
 
-1.You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
+- You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
+  --> C++
+  --> Java
+  --> Python
 
-- C++
-- Java
-- Python
-
-You need to be very comfortable in the language, and be knowledgeable, so pick one, and do all the practice problems in that language. The more you practice
-the more natural it will look like you feel at developing with the language, and that's important even though knowing the syntax itself isn't. But there
-is a subconscious feeling we get by looking at the flow of someone working with something, and it's important to give interviewers that feeling
+You need to be very comfortable in the language, and be knowledgeable, so pick one, and do all the practice problems in that language. The more you practice the more natural it will look like you feel at developing with the language, and that's important even though knowing the syntax itself isn't. But there is a subconscious feeling we get by looking at the flow of someone working with something, and it's important to give interviewers that feeling
 
 
 
-
-2. You won't remember it all, but try to remember more of it
+### Advice on Studying for the Technical interview
+1. You won't remember it all, but try to remember more of it
 
 - [Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)"
 
-2. Review, review, review
-4. Focus
+2. **Focus**
+3. **Studying strategy: Implement it!** For each subject covered, read and watch the content covering it, and then **implement** it. Please, don't skip the implementation part, this is the most important one. Do not look at AVL trees and think "Oh we covered that in my algorithms class", the interviewer will never care what your class covered, he or she will ask you to implement it.
 
-3. Studying strategy:
-
-For each subject covered, read and watch the content covering it, and then **implement** it. Please, don't skip the implementation part, this is the most
-important one. Do not look at AVL trees and think "Oh we covered that in my algorithms class", the interviewer will never care what your class covered, 
-he or she will ask you to implement it.
-
-Also, write tests to make sure the code works. Most interviewers also ask you to do that. (Or at least run through test cases, but run them on paper, not 
-simply by plugging the input in, because on the whiteboard they want to see if you can think through the code you just wrote.
+4. **Testing: ** Write tests to make sure the code works. Most interviewers also ask you to do that. (Or at least run through test cases, but run them on paper, not  simply by plugging the input in, because on the whiteboard they want to see if you can think through the code you just wrote.
 
 So basically the process is: 
 - understand an algorithm or subject
@@ -125,8 +115,7 @@ So basically the process is:
 - test it by running through examples by hand and thinking through it
 - Implement on a computer and test with real inputs
 
-Note: you should use standard libraries of python when practicing. Unless, for example, the question is sorting an array, then you should ask the interviewer
-whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
+Note: you should use standard libraries of python when practicing. Unless, for example, the question is sorting an array, then you should ask the interviewer whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
 
 
 ## Some Basics
@@ -136,20 +125,10 @@ whether he expects you to use the standard library or implement it yourself. Whe
 Not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
 Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
 
-- [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-- [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
-
-- [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
-- [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-
 
 ### Algorithmic complexity / Big-O / Asymptotic analysis
 
-
-### Talk points:
-
-- You should be so comfortable (afte preparing and going through this) with algorithm complexity and Big-O notation that it is a natural process for you.
+- You should be so comfortable (after preparing and going through this) with algorithm complexity and Big-O notation that it is a natural process for you.
 - You should be able to look at algorithms and spit out what the algorithm complexity is, and as the name might suggest otherwise, it is not complex at all. In fact it is a method for quickly managing complexity while getting a good evaluation on how the algorithm will run for large-scale applications.
 - Imagine if you could do math, and simply get rid of all constants and lower order terms, and just say how the given function grows as the input grows, this is basically it.
 
@@ -184,10 +163,10 @@ The key parts about arrays:
        -> That's the power of "hashing", where we take the key which is the value that maps to another, and process it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
        - Know how hash tables are implemented, but more importantly know how to use them to build new systems.
        
-       Videos:
-        - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
-        - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
-        - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
+Videos:
+- [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
+- [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
+- [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
        
 ### String Builders
 - In java, how many Strings are created in this line of code?
