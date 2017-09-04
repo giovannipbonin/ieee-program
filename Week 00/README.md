@@ -1,7 +1,12 @@
-# On The Self-Taught Software Engineer
+## On The Self-Taught Software Engineer
 
 Welcome! We're glad you could join us. You're in for a treat. 
 
+### Our Goals
+We have two goals in this course: To provide you with a base that will make you a top-notch software engineer and prepare you for *getting* a job in Silicon Valley.
+
+
+### The Structure
 We plan to structure this course as follows: We will meet on Mondays and Thursdays. 
 - On Mondays, we will review (or learn if it is new for you!) key concepts on algorithms and data structures. We will also dive deep into an interesting Software Engineering topic. These will include Machine Learning, Big Data, System Design, Operating Systems, Parallel Programming, etc. 
 - The goal of Mondays is to prepare you for interview questions and expose you to interesting areas of Software Engineering, which will guide your understanding of how software works and maybe inspire you to dive deep into one of these subjects.
@@ -9,12 +14,17 @@ We plan to structure this course as follows: We will meet on Mondays and Thursda
 [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 but will also include questions from the ICPC programming competition.
 
+## How to get the most out of the course
 
+- The way most of the veteran members of Software Engineering Club improved their skills is by **teaching yourself**. Coming to these classes is great: We'll teach you and provide you with a group of like-minded learners. However, you have to put in the time yourself.
 
 
 I actually learned a lot about learning in this Coursera class I took in my last semester in college: 
 
 - https://www.coursera.org/learn/learning-how-to-learn
+- A [couple](https://pastebin.com/JNbGxvp) [summaries](https://workflowy.com/s/E9HW.jGUYboLrGj) of the course.
+
+## How to get a job in Silicon Valley
 
 To practice, get one of the recommended books with a list of exercises and hammer through it! Do all these problems, do one per day, or do two, or three, depending on how much time you have. There's no excuse to not do at least one of them a day until you feel comfortable enough to go to an interview feeling that you will make it. 
 
@@ -28,67 +38,29 @@ Success leads to confidence (conversely from what people believe), so the more y
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-### The Purpose of This Guide - Everything I'd wish I was taught earlier on
-
-This program will help you understand computer systems, algorithm efficiency, data structure performance, 
-low-level languages, and how it all works together. These subjects are extremely important, and the hiring process for Google (and Silicon Valley companies in
-general) places a huge importance on them. There is no shortage of studying, the more you know about these subjects, the better.
-
-### Logistics
-
-Not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
-Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-
-
 ### It's All About Discipline
 - People put too much emphasis on IQ as opposed to emotional intelligence. After a certain level of IQ what really matters is dedication, passion,
 and good discipline toward your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
 but with the right discipline and passion they became really good at it by sticking to it. So never be discouraged!
 
 
-### What Silicon Valley looks like
-![Silicon Valley](https://sethsphd.files.wordpress.com/2014/03/in-the-heart-of-silicon-valley.jpg)
+## More on the topic
 
-
-Inspiration for these technical challenges we will tackle:
-- [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
-- [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-- [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
 - [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
 - [ ] [Google Recruiters Share Technical Interview Tips (video)](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
 - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
-
-## Resources that helped my career
-- Google: Seriously, use it. If you have a question, instead of beating your head against the wall, just Google it, 
-  unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
-  know what a Turing Machine is without first learning it. So if you feel discouraged, just remember that it's never 
-  too late to pick up on something. There are so many resources out there for free.
-- Coursera (www.coursera.org): With the above in mind, Coursera made a huge impact in my career. 
-  When I realized I could learn anything I wanted from the best professors in the world, and for free. And that if I wanted to impress recruiters
-  I could also get a certificate from Stanford. It really pays off to show you are investing in your skills.
-
-
-Reading at home:
-
 - [ ] A list of resources that was created by Google: [Google Careers: Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 - [ ] Cassidoo's getting a gig guide https://github.com/cassidoo/getting-a-gig
 - [ ] Conference, you should definitely watch this [Made by Google announcement - Oct 2016 (video)](https://www.youtube.com/watch?v=q4y0KOeXViI)
-- [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
-- [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-- [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
 - [ ] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - [ ] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-- [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-- [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
-- [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
-- [ ] The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-
-[ ] Start reading 20 minutes a day (or whatever fits your learning style/routine): 
-[Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 
 
-## Session 2 - Interview Process & General Interview Prep
+## Interview Process & General Interview Prep
+
+
+
 
 Talk points: 
 
@@ -103,7 +75,6 @@ Talk points:
 ### The interviewer is there because they want to hire someone, they are your friend not your enemy
 - If they give you a hint, take it, don't be cocky
 
-- Discuss last session's coverage, and home readings. Very encouraged for students to share their insights with each other and motivations (20 minutes of discussion)
 
 - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -180,29 +151,25 @@ Note: you should use standard libraries of python when practicing. Unless, for e
 whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
 
 
-### Starting with basics: What IDE Should I use? Vim? Emacs? Eclipse?
+### Logistics
 
-The right answer is: the one that makes you the best. Period. Every artist and craftsman has the tools that make them the best as they can be. If that's Vim (which is for me) or Emacs, or Eclipse it's up to you. But try new stuff out. Check out some stuff about vim and emacs and you will understand how many different useful things editors can do beyond the basics:
+Not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
+Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
 
-- ### Emacs and vi(m)
-    - vi(m):
-        - [Editing With vim 01 - Installation, Setup, and The Modes (video)](https://www.youtube.com/watch?v=5givLEMcINQ&index=1&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr)
-        - [VIM Adventures](http://vim-adventures.com/)
-        - set of 4 videos:
-            - [The vi/vim editor - Lesson 1](https://www.youtube.com/watch?v=SI8TeVMX8pk)
-            - [The vi/vim editor - Lesson 2](https://www.youtube.com/watch?v=F3OO7ZIOaJE)
-            - [The vi/vim editor - Lesson 3](https://www.youtube.com/watch?v=ZYEccA_nMaI)
-            - [The vi/vim editor - Lesson 4](https://www.youtube.com/watch?v=1lYD5gwgZIA)
-        - [Using Vi Instead of Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Using_Vi_instead_of_Emacs)
-    - emacs:
-        - [Basics Emacs Tutorial (video)](https://www.youtube.com/watch?v=hbmV1bnQ-i0)
-        - set of 3 (videos):
-            - [Emacs Tutorial (Beginners) -Part 1- File commands, cut/copy/paste, cursor commands](https://www.youtube.com/watch?v=ujODL7MD04Q)
-            - [Emacs Tutorial (Beginners) -Part 2- Buffer management, search, M-x grep and rgrep modes](https://www.youtube.com/watch?v=XWpsRupJ4II)
-            - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
-        - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
-        - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
+- [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+- [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+- [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+
+[ ] Start reading 20 minutes a day (or whatever fits your learning style/routine): 
+[Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
+- [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
+- [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
+- [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+- [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
+- [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
+- [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
+- [ ] The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+
 
 
 # Week 2
