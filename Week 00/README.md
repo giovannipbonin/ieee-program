@@ -3,7 +3,9 @@
 Welcome! We're glad you could join us. You're in for a treat. 
 
 ### Our Goals
-We have two goals in this course: To provide you with a base that will make you a top-notch software engineer and prepare you for *getting* a job in Silicon Valley.
+We have two goals in this course: 
+1. To provide you with a base that will make you a top-notch software engineer.
+2. To prepare you for *getting* a job in Silicon Valley.
 
 
 ### The Structure
@@ -16,13 +18,13 @@ but will also include questions from the ICPC programming competition.
 
 ## How to get the most out of the course
 
-- The way most of the veteran members of Software Engineering Club improved their skills is by **teaching yourself**. Coming to these classes is great: We'll teach you and provide you with a group of like-minded learners. However, you have to put in the time yourself.
+The way most of the veteran members of Software Engineering Club improved their skills is by **teaching yourself**. Coming to these classes is great: We'll teach you and provide you with a group of like-minded learners. However, you have to put in the time yourself.
 
 
 I actually learned a lot about learning in this Coursera class I took in my last semester in college: 
 
 - https://www.coursera.org/learn/learning-how-to-learn
-- A [couple](https://pastebin.com/JNbGxvp) [summaries](https://workflowy.com/s/E9HW.jGUYboLrGj) of the course.
+- A [couple](https://pastebin.com/JNbGxvp) of [summaries](https://workflowy.com/s/E9HW.jGUYboLrGj) of the course.
 
 ## How to get a job in Silicon Valley
 
@@ -44,7 +46,7 @@ and good discipline toward your work. Most of the famous genius engineers that w
 but with the right discipline and passion they became really good at it by sticking to it. So never be discouraged!
 
 
-## More on the topic
+### More on the topic
 
 - [ ] [How to Work at Google: Prepare for an Engineering Interview (video)](https://www.youtube.com/watch?v=ko-KkSmp-Lk)
 - [ ] [How to Work at Google - Candidate Coaching Session (video)](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
@@ -59,21 +61,16 @@ but with the right discipline and passion they became really good at it by stick
 
 ## Interview Process & General Interview Prep
 
+1.Interview Confidence
 
+⋅⋅ * Be confident, but not arrogant
 
+2.Talk while you think, and code, explain everything that might be ambiguous
 
-Talk points: 
+3.If running out of time and need shortcuts, explain how you would not do the shortcut in a real scenario
 
-### Interview Confidence
-
- - Be confident, but not arrogant
-
-### Talk while you think, and code, explain everything that might be ambiguous
-
-### If running out of time and need shortcuts, explain how you would not do the shortcut in a real scenario
-
-### The interviewer is there because they want to hire someone, they are your friend not your enemy
-- If they give you a hint, take it, don't be cocky
+4.The interviewer is there because they want to hire someone, they are your friend not your enemy
+⋅⋅ * If they give you a hint, take it, don't be cocky
 
 
 - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
@@ -83,21 +80,17 @@ Talk points:
 
 Reading at home:
 - [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Four Steps To Google Without A Degree](https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [How Google Thinks About Hiring, Management And Culture](http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture)
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Failing at Google Interviews](http://alexbowe.com/failing-at-google-interviews/)
-- [_] http://www.byte-by-byte.com/choose-the-right-language-for-your-coding-interview/
 - [ ] http://blog.codingforinterviews.com/best-programming-language-jobs/
 - [ ] https://www.quora.com/What-is-the-best-language-to-program-in-for-an-in-person-Google-interview
-[See language resources here](programming-language-resources.md)
 
 
-### Talk points -  Important advice: Pick One Language for the Interview
+### Important advice: Pick One Language for the Interview
 
-1:
-You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
+1.You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
 - C++
 - Java
@@ -110,27 +103,12 @@ is a subconscious feeling we get by looking at the flow of someone working with 
 
 
 
-2. You won't remember it all
-
-Use methods that will improve your memory for leaning, like spaced repetition, diffusive and focus modes of thinking, and etc (the learning how to learn course on Coursera was the most helpful resource on learning I used, but I continue to learn about this). But here's some basics stuff for you to get started:
+2. You won't remember it all, but try to remember more of it
 
 - [Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)"
 
-I personally don't use flash cards because I just scan my notes and upload to Drive so they are always accessible from my phone.
-
-
- 2. Review, review, review
-
-Again, though interviewers say they don't care about you memorizing details, they do want to see that you're really good at what you do, 
-so if you easily recall the details, you will look much better. 
-
-
- 4. Focus
-
-One of my struggles was trying to do too much at the same time. I not only wanted to get a job at my favorite companies, despite not going to a school where those companies would recruit, I also wanted to take a bunch of online classes on things that wouldn't help me with the interview or school, but would benefit my personal learning goals and career (such as machine learning and even stuff like philosophy and history and business). It is indeed 
-possible to be good at all these things, but you can't do them all at once. ****Forget multi-tasking. ***** just schedule time in your calendar and focus on
-one thing at each time.  If you can dedicate 2 hours of focused time to this guide every day, you will go a long way.
-
+2. Review, review, review
+4. Focus
 
 3. Studying strategy:
 
@@ -151,30 +129,22 @@ Note: you should use standard libraries of python when practicing. Unless, for e
 whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
 
 
-### Logistics
+## Some Basics
+
+### Get familiar with Git
 
 Not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
 Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
 
-- [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
 - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 - [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 
-[ ] Start reading 20 minutes a day (or whatever fits your learning style/routine): 
-[Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
-- [ ] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-- [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
-- [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
-- [ ] [Google Search Will Be Your Next Brain](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
 - [ ] [The Deep Mind Of Demis Hassabis](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 
-
-# Week 2
-
-## Session 1 -  Algorithmic complexity / Big-O / Asymptotic analysis
+### Algorithmic complexity / Big-O / Asymptotic analysis
 
 
 ### Talk points:
@@ -183,11 +153,10 @@ Or, if you are a University of Miami student, you have a free subcription to Lyn
 - You should be able to look at algorithms and spit out what the algorithm complexity is, and as the name might suggest otherwise, it is not complex at all. In fact it is a method for quickly managing complexity while getting a good evaluation on how the algorithm will run for large-scale applications.
 - Imagine if you could do math, and simply get rid of all constants and lower order terms, and just say how the given function grows as the input grows, this is basically it.
 
+
+#### More on the topic
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-
-
-Home reading
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena: [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -198,56 +167,33 @@ Home reading
 - [ ] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 
-## Session 2 - An Overview of Data Structures and Algorithms
+### Data Structures
 
-### Talk points - Data structures
-   - Here I will give a lecture on how data structures and algorithms relate to Big-O, why choosing the appropriate data structures and algorithms
-   - can have a significant impact on asymptoptic complexity (Big-O). Furthermore I will make a clear distinction between algorithms and data structures, 
-   - and show that at the same time they work together, and that efficient algorithms make use of efficient data structures to boost performance. 
-
-  - I will focus on the big picture, giving an overview of popular and extremely useful data structures and algorithms, and in the future sessions we  will dive into understanding the list of algorithms and data structures that students are expected to know.
-    
-
-### What is a data structure - With Examples
-   - A data structure is exactly what it sounds like: a structure in a computer used to store and organize data in a form that will be useful.
-    - As you begin to think about them, you can draw on a paper to come up with a picture of how the data is organized. When doing this, don't worry about the lower levels of how computer might handle memory, or physically store it, just worry about how the data is organized. For example: an array is a data structure, and you could represent it as [3, 2, 3, 4, 5], or (4, 5, 1, 2), it doesn't matter. As you progress in computer science, you will learn that we use notations such as [] to represent data structure of certain behaviors and () for another, but when the notation is introduced then you learn about it.
-    - We have data structures in the real world, a bookshelf is a data structure, except that the data are books. A line in front of your favorite Disney ride is a queue, where the data is people. Queues are useful to preserve the order in which the elements arrived, in computing that's a very useful concept, for many systems, ranging from simple design of systems where users might be placed on a queue to chat with an agent, or even search algorithms which we will cover later, such as breadth-first search.
+What are they? Well what are our primitives? Data structures create new ways to group primitives.
 
 ### Arrays
-- So why do we need anything beyond arrays? Well, if you simply want to access or update an element in the array, they are very efficient for the job and it takes constant time to do so. But imagine if you wanted to insert an element in the beginning of the array. It would take O(n) operations to do so, since we have to shift all the elements to the end by one.
-Video
+The key parts about arrays:
+1. **Instant insertion, deletion, andl ookup:** You can find the Nth element in *constant time*. Why is this? 
+2. **Fixed size:** Arrays don't grow in size. If we want an array to grow, we need to create a new array and copy each element into that array 1 by 1.
 - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
 
 
-### List
-- If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
-
-Video: 
-- [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
-- [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
-- [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
-
-
-### Queue
-- We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
-    - But there are also variations, such as priority queues, which take into consideration a series of factors. For example, in medical organ donation, we might consider the risk of death and urgency for the patient to receive a transplant (very complex system with some simplifications here, and in fact could be optimized with software). 
-    - The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search, and priority queues for A* search.
-    
-    Breadth-first search basically starts with an element and considers all the elements connected to it, before going to the next level. Whereas A*
-    search looks into factors such as the cost of moving to the node and the estimated distance reduction to the goal.
-    Video:
-    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
-    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
-    
 ### Hash Tables
  - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
       - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
        -> That's the power of "hashing", where we take the key which is the value that maps to another, and process it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
        - Know how hash tables are implemented, but more importantly know how to use them to build new systems.
        
-       
        Videos:
         - [ ] [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [ ] [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
         - [ ] [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
        
+### String Builders
+- In java, how many Strings are created in this line of code?
+```
+String s = "h" + "e" + "l" + "l" + "o"
+```
+- With StringBuilder, use `append(String)`
+- [StringBuilder Example Use](https://docs.oracle.com/javase/tutorial/java/data/buffers.html)
+- What's the meta-point? --> Implementation matters.
