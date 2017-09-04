@@ -1,38 +1,16 @@
+# On The Self-Taught Software Engineer
 
-- I am more than willing, and would be happy to mentor anyone - who is highly motivated - in any stage and give advice based on my experiences. I am also just in the start of my career, but I've had to overcome all kinds of obstacles and there is plenty of advice I can give for people looking for jobs in the Bay Area. Feel free to email me: pbonin.giovanni@gmail.com
+Welcome! We're glad you could join us. You're in for a treat. 
 
-- I decided to create this class to teach while I am the president of IEEE at the University of Miami to supplement the school's curriculum, open doors for students to engage in discussions and interactions on the subject, as well as create a foundational framework for our organization on campus for future semesters. 
-
-- If someone else decides to run something similar to this on their campus, I am also running guest speakers (in addition to each of these sessions), and that's a really good way to engage professional experience in your organization, as well as have experienced engineers potentially help you with the program. 
-
-
-# Week 0
-
-## Session 1 
-
-First meeting and announcement:
-
-Here the plan is to announce the program to the general body meeting, get input from the students on final things they might be interested in learning on top of the program, as well as finding out times that will work for most people.
+We plan to structure this course as follows: We will meet on Mondays and Thursdays. 
+- On Mondays, we will review (or learn if it is new for you!) key concepts on algorithms and data structures. We will also dive deep into an interesting Software Engineering topic. These will include Machine Learning, Big Data, System Design, Operating Systems, Parallel Programming, etc. 
+- The goal of Mondays is to prepare you for interview questions and expose you to interesting areas of Software Engineering, which will guide your understanding of how software works and maybe inspire you to dive deep into one of these subjects.
+- On Thursdays, we will do programming challenges. These will mostly be Interview Questions taken from 
+[Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+but will also include questions from the ICPC programming competition.
 
 
-## Session 2
 
-Guest Speaker (CEO of Kairos Analytics): Feb 23rd 6:30 pm at MEA 202
-
-
-# Week 1 
-
-## Session 1 - About Silicon Valley, Google, Facebook, and Startups - Motivation
-
-## Talk
-
-
-#### Major interview tip 
-
-Before anything else: 
-- Few people would reference professional athletes when talking about software engineering tips, but by having an attitude toward your career similar to that of an athlete toward his, there is a lot I've learned. One of my favorite athletes, Muhammad Ali, was asked how many sit-ups he would do and his reply was: "I don't count my sit-ups, I only count when it starts hurting, because that's when it really counts."
-
-There is nothing like working your hardest in the road to achieving your dreams. This lecture series is just a compilation of advice both from various amazing people I have met, and some I observed on my own. I am passing this advice along, but keep in mind the only way for you to be able to solve new problems is to develop the foundation through discovery yourself. Practicing to solve these problems on your own is the only way to create those neural pathways. 
 
 I actually learned a lot about learning in this Coursera class I took in my last semester in college: 
 
@@ -42,8 +20,8 @@ To practice, get one of the recommended books with a list of exercises and hamme
 
 Success leads to confidence (conversely from what people believe), so the more you successfully solve problems the more confident you will be. Start small, build your skills, and you will make it. It's hard to properly emphasize just how helpful these books are.
 
-- [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html)
 - [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 
 
@@ -56,39 +34,9 @@ This program will help you understand computer systems, algorithm efficiency, da
 low-level languages, and how it all works together. These subjects are extremely important, and the hiring process for Google (and Silicon Valley companies in
 general) places a huge importance on them. There is no shortage of studying, the more you know about these subjects, the better.
 
-Before I started college I started learning computer science on my own, although I'd wish I had started even earlier given I was already 17. But due to
-some obstacles in my career choices I didn't dive in until that point, but when I did I committed as if I was born to do this. Before college, I had a gap year.
-During that period, when I found websites such as Coursera, MIT OpenCourseware, and a multitude of other content on the internet such
-as free textbooks and all that, I realized there is nothing short of motivation that can stop any of us from becoming one of the best at any field we want to excel in.
-
-When I started college, I realized that I could actually learn better on my own than I could learn in class, so if that's the case for you, embrace it and pursue your passion
-in the way you know works best. The goal of this is to be a list of resources that can be followed and give you a good coverage on what's important, specifically filling in the gaps left by a typical computer science or software engineering curriculum.
-It turned out for me that by the end of my college career I wanted to work for a startup, as that way I can have a bigger impact in something that is
-in its early stages and really needs to be pushed forward. These experiences with learning told me to go work for a startup fixing education with 
-technology.
-
-This is a long plan, and some interviewers will even tell you that some of this stuff is more advanced than you need. In fact, I found this guide
-after accepting my full-time offer with my favorite startup in the world (Coursera), and I am going through it now (for fun) since practice is never too much,
-and some of this stuff I haven't had time to cover before, but it is well worth it to be good at what we do.
-
-So yes, it might be true that some of these things don't often show up in an interview. But that's until it does, and you
-start thinking to yourself DAMN this is my favorite company, I should really have spent that weekend learning about this, now I have to wait a year to reapply.
-
-This is not the SAT or MCAT. The reason why software companies want us to know these subjects is because it is important
-for our jobs, and the more we know about it the more we can build, the faster we can create, and innovate. Although you might not be designing algorithms
-on a daily basis as a software engineer (although some engineers do exactly that), becoming good at this will develop the right way of thinking that you need
-to solve problems of all sorts in systematic and efficient ways.
-
 ### Logistics
 
-I remodeled the guide as a curriculum to be conducted on a weekly basis, as well as adding a lot to it. Again, it's a work in progress that I am doing in my free time,
-and I plan on properly breaking down the outline so that it evenly fits across weeks. We will try to meet twice a week and have extra content for
-the ambitious who want to do more at home, but the idea is that during the sessions we will cover one or two pieces of content for each subject and
-have extra to be done at home.
-
-For those wanting to track their progress at home, just fork the repo and mark an [x] on the items you have done, commit and push it.
-
-Instructions: not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
+Not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
 Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
 
 
@@ -96,8 +44,6 @@ Or, if you are a University of Miami student, you have a free subcription to Lyn
 - People put too much emphasis on IQ as opposed to emotional intelligence. After a certain level of IQ what really matters is dedication, passion,
 and good discipline toward your work. Most of the famous genius engineers that we all know and heard of struggled with these topics too at one point,
 but with the right discipline and passion they became really good at it by sticking to it. So never be discouraged!
-
-- Check the home assigned readings and videos for "The Myth of the Genius Programmer" 
 
 
 ### What Silicon Valley looks like
@@ -114,10 +60,6 @@ Inspiration for these technical challenges we will tackle:
 - [ ] [How to Work at Google: Tech Resume Preparation (video)](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
 ## Resources that helped my career
-- Code2040: a wonderful fellowship program for Latinos and African-American students who want to work in Silicon Valley.
-  It made a huge impact in my career by exposing me to the industry, and I spent a whole 
-  summer meeting extremely talented people working in companies across Silicon Valley 
-  who are also motivated to fix the world's greatest problems:  www.code2040.org
 - Google: Seriously, use it. If you have a question, instead of beating your head against the wall, just Google it, 
   unless you are doing an exercise and you are not supposed to Google the answer. But no one is supposed to 
   know what a Turing Machine is without first learning it. So if you feel discouraged, just remember that it's never 
@@ -125,9 +67,6 @@ Inspiration for these technical challenges we will tackle:
 - Coursera (www.coursera.org): With the above in mind, Coursera made a huge impact in my career. 
   When I realized I could learn anything I wanted from the best professors in the world, and for free. And that if I wanted to impress recruiters
   I could also get a certificate from Stanford. It really pays off to show you are investing in your skills.
-  Disclaimer: the favorite startup in the world I mentioned I will be joining is Coursera, 
-  but that's the reason why I will be joining them, because it made a huge impact in my life. www.coursera.org
-- Pramp: I used this a couple times, it's a cool platform where you can schedule mock interviews with strangers
 
 
 Reading at home:
