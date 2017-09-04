@@ -1,4 +1,4 @@
-## On The Self-Taught Software Engineer
+# On The Self-Taught Software Engineer
 
 Welcome! We're glad you could join us. You're in for a treat. 
 
@@ -61,17 +61,13 @@ but with the right discipline and passion they became really good at it by stick
 
 ## Interview Process & General Interview Prep
 
-1.Interview Confidence
-
-* Be confident, but not arrogant
+1.Interview Confidence: Be confident, but not arrogant
 
 2.Talk while you think, and code, explain everything that might be ambiguous
 
 3.If running out of time and need shortcuts, explain how you would not do the shortcut in a real scenario
 
 4.The interviewer is there because they want to hire someone, they are your friend not your enemy
-* If they give you a hint, take it, don't be cocky
-
 
 - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
@@ -91,8 +87,11 @@ Reading at home:
 ### Important advice: Pick One Language for the Interview
 
 - You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
+
   --> C++
+  
   --> Java
+  
   --> Python
 
 You need to be very comfortable in the language, and be knowledgeable, so pick one, and do all the practice problems in that language. The more you practice the more natural it will look like you feel at developing with the language, and that's important even though knowing the syntax itself isn't. But there is a subconscious feeling we get by looking at the flow of someone working with something, and it's important to give interviewers that feeling
@@ -100,9 +99,8 @@ You need to be very comfortable in the language, and be knowledgeable, so pick o
 
 
 ### Advice on Studying for the Technical interview
-1. You won't remember it all, but try to remember more of it
 
-- [Retaining Computer Science Knowledge](https://googleyasheck.com/retaining-computer-science-knowledge/)"
+1. You won't remember it all, but try to remember more of it. Here's how to[Retain Computer Science Knowledge](https://web.archive.org/web/20170308043107/https://googleyasheck.com/retaining-computer-science-knowledge/)
 
 2. **Focus**
 3. **Studying strategy: Implement it!** For each subject covered, read and watch the content covering it, and then **implement** it. Please, don't skip the implementation part, this is the most important one. Do not look at AVL trees and think "Oh we covered that in my algorithms class", the interviewer will never care what your class covered, he or she will ask you to implement it.
@@ -110,20 +108,22 @@ You need to be very comfortable in the language, and be knowledgeable, so pick o
 4. **Testing: ** Write tests to make sure the code works. Most interviewers also ask you to do that. (Or at least run through test cases, but run them on paper, not  simply by plugging the input in, because on the whiteboard they want to see if you can think through the code you just wrote.
 
 So basically the process is: 
-- understand an algorithm or subject
-- implement it on paper (preferably whiteboard while talking through it as an interview)
-- test it by running through examples by hand and thinking through it
-- Implement on a computer and test with real inputs
+1. understand an algorithm or subject
+2. implement it on paper (preferably whiteboard while talking through it as an interview)
+3. test it by running through examples by hand and thinking through it
+4. Implement on a computer and test with real inputs
 
 Note: you should use standard libraries of python when practicing. Unless, for example, the question is sorting an array, then you should ask the interviewer whether he expects you to use the standard library or implement it yourself. When in doubt, always ask for clarification! Don't make assumptions, and don't be afraid to ask questions, it's a good thing.
 
 
-## Some Basics
+# Let's Get to It! 
+
+It's time to get to the knowledge.
 
 ### Get familiar with Git
 
 Not familiar with git yet? No worries http://rogerdudler.github.io/git-guide/ 
-Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
+Or, if you are a University of Miami student, you have a free subcription to Lynda.com and you can take this quick start Git and GitHub course: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html. Git is key to know if you plan to work on any software project that includes more than 1 person.
 
 
 ### Algorithmic complexity / Big-O / Asymptotic analysis
@@ -138,15 +138,13 @@ Or, if you are a University of Miami student, you have a free subcription to Lyn
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] Skiena: [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 - [ ] [Orders of Growth (video)](https://class.coursera.org/algorithmicthink1-004/lecture/59)
 - [ ] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [ ] [UC Berkeley Big O (video)](https://youtu.be/VIS4YDpuP98)
-- [ ] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 
-### Data Structures
+## Data Structures
 
 What are they? Well what are our primitives? Data structures create new ways to group primitives.
 
