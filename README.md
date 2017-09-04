@@ -6,8 +6,8 @@ Class Author: David Grossman
 This is the time to take control of educating yourself. If your goal is to get a job in Silicon Valley, become a top-notch researcher, or start a startup, learning to teah yourself new things is key. As part of the Software Engineering Club, you are joining a group of self-motivated students interested in understanding the ins and outs of computers and software systems. 
 
 This course will help you with 2 things: 
-1. *Prepare for technical interview questions.* A key part in becoming a quality software engineer is getting your first internship or job. We will learn and practice the key knowledge that you will need in the general software technical interview.
-2. *Expose you to interesting software engineering topics.* As Software Engineers, we develop good understanding of how computers work and how they will work in the near future. We will touch on interesting topics that you might not be exposed to in your courses and give you new concepts to explore on your own.
+1. **Prepare for technical interview questions.** A key part in becoming a quality software engineer is getting your first internship or job. We will learn and practice the key knowledge that you will need in the general software technical interview.
+2. **Expose you to interesting software engineering topics.** As Software Engineers, we develop good understanding of how computers work and how they will work in the near future. We will touch on interesting topics that you might not be exposed to in your courses and give you new concepts to explore on your own.
 
 
 ### Communication
@@ -51,6 +51,28 @@ Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the
 #### Acknowledgements:
 - There are many other sources I have used to create this guide and I am very thankful for all the people that have put them together. I have heavily used resources and structure from @jwasham's Google Interview University guide and prior development by @giovannibonin. 
 
+
+
+### List
+- If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
+
+Video: 
+- [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
+- [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
+- [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
+
+
+### Queue
+- We use queues in our daily lives everywhere, in front of lines in our rollercoaster rides, medical systems, banking, finance, everywhere. And they come in all sorts of forms. The most basic takes only time in consideration, namely the first elements will be the first to be attended.
+    - But there are also variations, such as priority queues, which take into consideration a series of factors. For example, in medical organ donation, we might consider the risk of death and urgency for the patient to receive a transplant (very complex system with some simplifications here, and in fact could be optimized with software). 
+    - The same applies to computer science, where these queues are useful for designing these systems as well as supporting algorithms such as breadth-first search, and priority queues for A* search.
+    
+    Breadth-first search basically starts with an element and considers all the elements connected to it, before going to the next level. Whereas A*
+    search looks into factors such as the cost of moving to the node and the estimated distance reduction to the goal.
+    Video:
+    - [ ] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
+    - [ ] [A* Pathfinding Tutorial (video)](https://www.youtube.com/watch?v=KNXfSOx4eEE)
+    
 
 ### Trees
  - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do. Most think of it as an upside down tree.  For example:
