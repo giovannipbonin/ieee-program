@@ -758,6 +758,7 @@ Dijkstra Graph Search Algorihtm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/yeKm7/topological-sort till 10:00
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/rng2S/computing-strong-components-the-algorithm
 - https://www.coursera.org/learn/algorithms-graphs-data-structures/lecture/f11at/structure-of-the-web-optional
+- Iterative Deepening Depth-First Search (IDDFS): the best of both BFS and DFS and has a much better time and space complexity. (https://www.youtube.com/watch?v=7QcoJjSVT38)
 
 
 
