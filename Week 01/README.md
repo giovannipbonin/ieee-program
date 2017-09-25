@@ -53,25 +53,21 @@ Video:
 *“A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.”* -- Tom Mitchell, Carnegie Mellon University
 
 ### Concepts
-1.  No encounters
-2.  Encounters
 1.  Types of learning
-    1. First kind
-    2. Second kind
-    a.  Supervised Learning
-        i.  Regression - linear and non-linear
-        ii.  Classification
-    b.  Unsupervised Learning
-        i.  Clustering
-        ii.  Anomaly detection
-    c.  Reinforcement Learning
+    1.  Supervised Learning
+        1.  Regression - linear and non-linear
+        2.  Classification
+    2.  Unsupervised Learning
+        1.  Clustering
+        2.  Anomaly detection
+    3.  Reinforcement Learning
 2.  How Learning Works
-    a.  Cost functions
-    b.   Gradient Descent
-2.  Overfitting
-    a.  Bias vs. Variance
-    b.  Regularization
-    c.  Splitting up your data: Training, Validation, Testing
+    1.  Cost functions
+    2.   Gradient Descent
+3.  Overfitting
+    1.  Bias vs. Variance
+    2.  Regularization
+    3.  Splitting up your data: Training, Validation, Testing
 
 Applications:
  - https://www.coursera.org/learn/machine-learning/lecture/0EJ6A/motivation-i-data-compression
