@@ -17,37 +17,37 @@ Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the
 - [Week 0](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2000): September 4th, 2017
      1. How to Get a Job in Silicon Valley
      2. Algorithmic Complexity & Basic Data Structures
-- [Week 1](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2001): September 11th, 2017
-     1. Linked Lists
+- [Week 1](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2001): September 25th, 2017
+     1. Hash Tables & Linked Lists
      2. Machine Learning 101
-- [Week 2](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2002): September 18th, 2017
+- [Week 2](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2002): October 2nd, 2017
      1. Stacks and Queues
      2. TBD
-- [Week 3](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2003): September 25th, 2017
+- [Week 3](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2003): 
      1. Trees and Graphs
      2. Functional Programming
-- [Week 4](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2004): October 2nd, 2017
+- [Week 4](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2004): 
      1. Bit Manipulation
      2. Operating Systems 101
-- [Week 5](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2005): October 9th, 2017
+- [Week 5](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2005): 
      1. Math and Logic Puzzles
      2. Linear Algebra Review
-- [Week 6](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2006): October 16th, 2017
+- [Week 6](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2006): 
      1. Object-Oriented Design
      2. BigData and MapReduce
-- [Week 7](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2007): October 23rd, 2017
+- [Week 7](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2007): 
      1. Recursion and Dynamic Programming
      2. Concurrency: Threads and Locks
-- [Week 8](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2008): November 6th, 2017
+- [Week 8](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2008): 
      1. System Design and Scalability
      2. Security
-- [Week 9](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2009): November 13th, 2017
+- [Week 9](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2009): 
      1. Sorting and Searching
      2. Parallel Programming
-- [Week 10](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2010): November 27th, 2017
+- [Week 10](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2010): 
      1. Testing
      2. NP-Completeness and Theory of Computing
-- [Week 11](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2011): December 4th, 2017
+- [Week 11](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2011): 
      1. Review
      
      
