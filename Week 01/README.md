@@ -1,3 +1,5 @@
+# Data Structures!
+
 ### Hash Tables
  - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
       - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
@@ -29,40 +31,48 @@ String s = "h" + "e" + "l" + "l" + "o"
 ### Linked List
 - If we use a list however, which is a series of items (call them nodes) connected by links, all we have to do is make the new element point to the first element of the array. If we want to insert elsewhere, it's similar, we just need to get the preceeding element and have its link point to the new element, and have the new element point to the one after the original element. And it follows that this takes O(1), whereas retrieving the Nth element takes O(N)
 
+
+#### The API for a Node
+- Data: `value` and `Node`
+
+#### Java's Implementation of the Linked List
+(https://docs.oracle.com/javase/7/docs/api/java/util/LinkedList.html)
+
 Video: 
 - [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
-- [Core Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
 - [In The Real World Linked Lists Vs Arrays (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays)
 
 
 
-# Week 4 
+# Machine Learning 
 
+
+![alt text](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
+
+## What is Machine Learning?
+*“A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.”* -- Tom Mitchell, Carnegie Mellon University
+
+### Concepts
+1. Types of learning
+    a. Supervised Learning
+        i. Regression - linear and non-linear
+        ii. Classification
+    b. Unsupervised Learning
+        i. Clustering
+        ii. Anomaly detection
+    c. Reinforcement Learning
+2. How Learning Works
+    a. Cost functions
+    b. Gradient Descent
+2. Overfitting
+    a. Bias vs. Variance
+    b. Regularization
+    c. Splitting up your data: Training, Validation, Testing
 
 ### Session 1 - Machine Learning - Supervised Learning
-Intro:
-- https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
- - https://www.coursera.org/learn/machine-learning/lecture/1VkCb/supervised-learning
-Regression:
- - https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation
- - https://www.coursera.org/learn/machine-learning/lecture/rkTp3/cost-function
- - https://www.coursera.org/learn/machine-learning/lecture/N09c6/cost-function-intuition-i
- 
-Classification:
-- https://www.coursera.org/learn/machine-learning/lecture/wlPeP/classification
- - https://www.coursera.org/learn/machine-learning/lecture/RJXfB/hypothesis-representation
- - https://www.coursera.org/learn/machine-learning/lecture/OAOhO/non-linear-hypotheses
- - https://www.coursera.org/learn/machine-learning/lecture/4h5X4/prioritizing-what-to-work-on
 
 ### Session 2 - Machine Learning - Unsupervised Learning
-Intro:
- - https://www.coursera.org/learn/machine-learning/lecture/olRZo/unsupervised-learning
- - https://www.coursera.org/learn/machine-learning/lecture/czmip/unsupervised-learning-introduction
 
-K-Means:
- - https://www.coursera.org/learn/machine-learning/lecture/93VPG/k-means-algorithm
- - https://www.coursera.org/learn/machine-learning/lecture/G6QWt/optimization-objective
- 
 Applications:
  - https://www.coursera.org/learn/machine-learning/lecture/0EJ6A/motivation-i-data-compression
  - https://www.coursera.org/learn/machine-learning/lecture/t6pYD/motivation-ii-visualization
