@@ -6,8 +6,12 @@
        
 Videos:
 -  [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
+- [Dealing with Collisions] (https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ozYZh/core-collisions-in-hash-tables)
 -  [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
 -  [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
+
+![alt text](http://slideplayer.com/slide/1649208/7/images/32/Double+Hashing+h(+k,+i+)+=+(+h1(k)+++i+*+h2(k)+)+mod+m.jpg)
+       
        
 ### String Builders
 - In java, how many Strings are created in this line of code?
