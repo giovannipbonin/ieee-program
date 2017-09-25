@@ -161,24 +161,3 @@ The key parts about arrays:
 1. **Instant insertion, deletion, andl ookup:** You can find the Nth element in *constant time*. Why is this? 
 2. **Fixed size:** Arrays don't grow in size. If we want an array to grow, we need to create a new array and copy each element into that array 1 by 1.
 - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-
-
-### Hash Tables
- - Hash Tables are beautiful things and extremely useful in a very large and diverse domain of applications. If you have seen them before, and you are under the impression that they are complicated, just forget anything you know about them. They are quite straightforward:
-      - Starting with the easy part, "table", we have a data structure that represents a table mapping a value generally represented as a string, to another value of any type. That's what a table is, and if hash tables were just the running time to find a value in the table would be O(n), and it wouldn't be very useful.
-       -> That's the power of "hashing", where we take the key which is the value that maps to another, and process it with a function (for example adding the ascii characters modulo the number of entries in the table, which works but we will later see can be optimized substantially), and finds where in the table it belongs
-       - Know how hash tables are implemented, but more importantly know how to use them to build new systems.
-       
-Videos:
--  [Core Hash Tables (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
--  [Data Structures (video)](https://www.coursera.org/learn/data-structures/home/week/3)
--  [Phone Book Problem (video)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
-       
-### String Builders
-- In java, how many Strings are created in this line of code?
-```
-String s = "h" + "e" + "l" + "l" + "o"
-```
-- With StringBuilder, use `append(String)`
-- [StringBuilder Example Use](https://docs.oracle.com/javase/tutorial/java/data/buffers.html)
-- What's the meta-point? --> Implementation matters.
