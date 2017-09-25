@@ -53,7 +53,11 @@ Video:
 *“A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.”* -- Tom Mitchell, Carnegie Mellon University
 
 ### Concepts
+1.  No encounters
+2.  Encounters
 1.  Types of learning
+    1. First kind
+    2. Second kind
     a.  Supervised Learning
         i.  Regression - linear and non-linear
         ii.  Classification
@@ -88,7 +92,4 @@ Applications:
 - [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
 - [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
 
-1.  No encounters
-2.  Encounters
-    1. First kind
-    2. Second kind
+
