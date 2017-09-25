@@ -87,3 +87,8 @@ Applications:
 - [Tensorflow (video)](https://www.youtube.com/watch?v=oZikw5k_2FM)
 - [Tensorflow Tutorials](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
 - [Practical Guide to implementing Neural Networks in Python (using Theano)](http://www.analyticsvidhya.com/blog/2016/04/neural-networks-python-theano/)
+
+1.  No encounters
+2.  Encounters
+    1. First kind
+    2. Second kind
