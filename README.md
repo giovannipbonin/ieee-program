@@ -22,10 +22,10 @@ Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the
      2. Machine Learning 101
 - [Week 2](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2002): October 2nd, 2017
      1. Stacks and Queues
-     2. TBD
+     2. Functional Programming
 - [Week 3](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2003): 
      1. Trees and Graphs
-     2. Functional Programming
+     2. TBD
 - [Week 4](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2004): 
      1. Bit Manipulation
      2. Operating Systems 101
