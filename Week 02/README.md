@@ -88,8 +88,6 @@ At first, functional programming may seem quite foreign. Some programming langua
     
 ### Pair that Functional Programming concept with that Meme!
 
-![alt text](http://thenorthcode.net/presentations/functional-programming-for-functioning-developers/images/fp-fat.jpg)
-
 ![alt text](https://camo.githubusercontent.com/8d5b9bbc29baaf9f32dc54a3063ac9cfb3cf06f7/687474703a2f2f696d6775722e636f6d2f304f6c45594e642e706e67)
 
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*DzPyfi7TxA6ZS6EsQb5lxg.jpeg)
