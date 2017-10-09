@@ -1,12 +1,6 @@
 
 ## Trees
- - Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do. Most think of it as an upside down tree.  For example:
-    3
-   / \
-  5  1
- / \
-0   2
-
+Trees are again just another form of organizing data in a way that provides benefits for certain applications. It is called a Tree because it has branches, like real life trees do. Most think of it as an upside down tree. 
 In general:
 ```
 class Node {
