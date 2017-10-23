@@ -25,18 +25,17 @@ Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the
      2. Functional Programming
 - [Week 3](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2003): 
      1. Trees and Graphs
-     2. TBD
 - [Week 4](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2004): 
      1. Bit Manipulation
      2. Operating Systems 101
 - [Week 5](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2005): 
-     1. Math and Logic Puzzles
+     1. Recursion and Dynamic Programming
      2. Linear Algebra Review
 - [Week 6](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2006): 
      1. Object-Oriented Design
      2. BigData and MapReduce
 - [Week 7](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2007): 
-     1. Recursion and Dynamic Programming
+     1. Math and Logic Puzzles
      2. Concurrency: Threads and Locks
 - [Week 8](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2008): 
      1. System Design and Scalability
