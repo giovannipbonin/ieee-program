@@ -2,7 +2,7 @@ A problem is generally a DP problem if it can be broken down into smaller and si
 
 # Dynamic Programming
 1. Overlapping Subproblems
-2. 
+2. Optimal Substructure 
 
 ### Fantastic Source: 
 http://www.geeksforgeeks.org/dynamic-programming/
