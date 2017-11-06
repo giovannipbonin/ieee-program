@@ -47,6 +47,9 @@ We expect things to happen quickly when we interact with the internet. When desi
 * Vertical Scaling is easier, but limited
 * Map-Reduce
 
+### Load Balancers
+[Peecture](https://camo.githubusercontent.com/21caea3d7f67f451630012f657ae59a56709365c/687474703a2f2f692e696d6775722e636f6d2f6838316e39694b2e706e67)
+
 ### Design for failure: Redundancy
 1. Databases that have multiple replicas
 2. Master / Master vs. Master / Slave
@@ -55,6 +58,8 @@ We expect things to happen quickly when we interact with the internet. When desi
 1. Read-heavy vs. Write-heavy tasks
 2. Ensure your design works if scale changes by 10X or 20X, but the right solution for X often not optimal for 100X.
 
-[Numbers everyone should know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
+[Numbers everyone should know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)'
+
+[The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 
