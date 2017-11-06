@@ -32,16 +32,15 @@ Join our Facebook page https://www.facebook.com/groups/UMACM/ for updates on the
      1. Recursion and Dynamic Programming
      2. Linear Algebra Review
 - [Week 6](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2006): 
-     1. Object-Oriented Design
-     2. BigData and MapReduce
+     1. Sorting and Searching
 - [Week 7](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2007): 
      1. Math and Logic Puzzles
-     2. Concurrency: Threads and Locks
+     2. System Desing and Scalability
 - [Week 8](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2008): 
-     1. System Design and Scalability
-     2. Security
+     1. Object-Oriented Design
+     2. Concurrency: Threads and Locks
 - [Week 9](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2009): 
-     1. Sorting and Searching
+     1. BigData and MapReduce
      2. Parallel Programming
 - [Week 10](https://github.com/2gotgrossman/ieee-program/tree/master/Week%2010): 
      1. Testing
