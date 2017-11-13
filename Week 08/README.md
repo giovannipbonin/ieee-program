@@ -55,7 +55,7 @@ The point of hyperthreading is that many times when you are executing code in th
 
 # Concurrency
 [Intro to Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
-Granularity
+
 ## Scheduling
 1. Need to be aware of how your operating system and programming language deal with concurrency
 ## Communication
