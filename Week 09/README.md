@@ -37,6 +37,9 @@ If you're just starting, head for the world of Python3.
 2. Iterators
 3. `while` loops
 4. `if`, `else`, `elif`
+5. `break`
+6. `continue`
+7. `else`
 
 ## Basic functions
 1. For lists: `append`, `del`
@@ -50,6 +53,9 @@ def func(param1, param2):
    return value
 ```
 
+1. keyword arguments
+2. `*arguments`, `**keywords`
+
 ## module mania
 ```
 from god import universe as uni
@@ -60,10 +66,15 @@ uni.create_python()
 assert uni.is_perfect() == True
 ```
 
-1. pandas
+1. pandas, numpy, and scipy
 2. requests
 3. sys
-4. 
+4. math, random, statistics
+5. timeit
+6. matplotlib.pyplot as plt
+7. collections - cool data structures
+8. There are modules for threading and multi-processing
+9. https://docs.python.org/3/tutorial/stdlib.html
 
 ## Looping techniques: for loops and beyond
 1. `map` and `filter`
@@ -83,6 +94,8 @@ class MyClass(SuperClass):
    __init__(self, my_name):
       self.name = my_name
 ```
+
+What do you do when there's no private variables?
 
 ## Functions as first-class data
 ```
