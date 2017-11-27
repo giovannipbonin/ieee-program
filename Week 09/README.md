@@ -36,6 +36,7 @@ If you're just starting, head for the world of Python3.
 1. `for` loops
 2. Iterators
 3. `while` loops
+4. `if`, `else`, `elif`
 
 ## Basic functions
 1. For lists: `append`, `del`
@@ -49,7 +50,7 @@ def func(param1, param2):
    return value
 ```
 
-## Module mania
+## module mania
 ```
 from god import universe as uni
 
@@ -58,3 +59,48 @@ uni.create_python()
 
 assert uni.is_perfect() == True
 ```
+
+1. pandas
+2. requests
+3. sys
+4. 
+
+## Looping techniques: for loops and beyond
+1. `map` and `filter`
+2. List comprehensions
+3. Dictionary Comprehensions
+4. Set comprehensions
+
+## Tuple Packing and unpacking
+1. `a, b = b, a`
+
+## Classes
+https://docs.python.org/3/tutorial/classes.html
+```
+class MyClass(SuperClass):
+   static_var = 5
+
+   __init__(self, my_name):
+      self.name = my_name
+```
+
+## Functions as first-class data
+```
+def a_plus_b(a, b):
+   return a + b
+
+def apply_function_to_list_of_pairs(list_of_pairs, function):
+   new_list = []
+   for (a, b) in list_of_pairs:
+      new_list.append( function(a, b) ) 
+   return new_list
+
+l = zip( range(5,10), range(15,25, 2) )
+new_list = apply_function_to_list_of_pairs(l, a_plus_b)
+
+print(new_list)
+```
+   
+## Scope in Python
+https://www.python-course.eu/python3_global_vs_local_variables.php
+
