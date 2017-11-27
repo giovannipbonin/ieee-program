@@ -82,6 +82,8 @@ assert uni.is_perfect() == True
 3. Dictionary Comprehensions
 4. Set comprehensions
 
+![alt-text](https://camo.githubusercontent.com/cc322ab992728d1beae31f4567b3505eca5c7ce4/68747470733a2f2f63646e2e6d656d652e616d2f696e7374616e6365732f343030782f34313837373535392f692d6b6e6f772d6c6973742d636f6d70726568656e73696f6e732e6a7067)
+
 ## Tuple Packing and unpacking
 1. `a, b = b, a`
 
