@@ -93,7 +93,7 @@ https://docs.python.org/3/tutorial/classes.html
 class MyClass(SuperClass):
    static_var = 5
 
-   __init__(self, my_name):
+   def __init__(self, my_name):
       self.name = my_name
 ```
 
@@ -118,4 +118,9 @@ print(new_list)
    
 ## Scope in Python
 https://www.python-course.eu/python3_global_vs_local_variables.php
+
+## String Formatting
+https://docs.python.org/2/library/string.html#format-examples
+
+
 
