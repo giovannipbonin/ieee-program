@@ -1,7 +1,7 @@
 # PYTHON!!!
 
 ## Why use Python
-1. A quick scripting language
+1. Not just a scripting language
 2. Back-End development
 3. Data Science and Machine Learning
 4. Internet of Things
