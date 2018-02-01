@@ -13,7 +13,8 @@
 7. Work experience 
     - This goes high up
 8. GPA and Objective Statements
-[Microsoft Example Resume] (https://drive.google.com/file/d/0B9mnCZOWAm-2b1YwamxUa3oyR1M1X2dTSkROcFB6anRmSDJN/view?usp=sharing)
+
+[Microsoft Example Resume](https://drive.google.com/file/d/0B9mnCZOWAm-2b1YwamxUa3oyR1M1X2dTSkROcFB6anRmSDJN/view?usp=sharing)
 
 # Header
 1. No address
