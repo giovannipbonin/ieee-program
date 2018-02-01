@@ -13,7 +13,6 @@
 7. Work experience 
     - This goes high up
 8. GPA and Objective Statements
-
 [Microsoft Example Resume] (https://drive.google.com/file/d/0B9mnCZOWAm-2b1YwamxUa3oyR1M1X2dTSkROcFB6anRmSDJN/view?usp=sharing)
 
 # Header
@@ -40,8 +39,8 @@
     - Create one
     - Add all your friends
     - Reach out to recruiters
-5. GitHub Game
-    - [Showcasing projects](https://techbeacon.com/what-do-job-seeking-developers-need-their-github)
+5. GitHub Game:
+[Showcasing projects](https://techbeacon.com/what-do-job-seeking-developers-need-their-github)
     - Completeness, Functionality, Readability, Documentation
 
 "A good resume is like a movie trailer, short enough to be interesting yet gets someone excited for the full feature. If you are anything like a great script combined with an ensemble cast ready for a summer release then it should be fitting that the trailer serves judicially to your experience and your character. With that being said, the font Times New Roman says nothing good about your character." 
