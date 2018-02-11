@@ -14,7 +14,8 @@ https://www.google.com/search?q=python3+repl&btnI=
 Python: `if`, `elif`, and `else`
 
 ### Example: write your own divider
-```> 10 3
+```
+> 10 3
 False
 > 10 2
 True
@@ -27,7 +28,8 @@ print(o)
 ```
 
 ### Loop D Loop!
-Python: ```
+Python: 
+```
 for i in range(10):
   print(i**2)
 ```
