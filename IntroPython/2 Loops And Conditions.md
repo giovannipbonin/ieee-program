@@ -44,7 +44,7 @@ Step 1: "This becomes that" becomes "histay ecomesbay hattay"
 Step 2: "isthey ecomesbay atthey".
 Step 3: Translate back!"
 
-# 'Coding'
+# Ciphers and Encodings
 Add a shift to each letter in a message
 'abc' + 1 = 'bcd'
 'aaa' + 2 = 'ccc'
