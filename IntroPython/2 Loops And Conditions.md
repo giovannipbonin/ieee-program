@@ -7,8 +7,7 @@
 
 
 ### Code Online
-      - Python3 Online: https://repl.it/repls/InternationalCylindricalWeaverbird
-      - Javascript Online: https://repl.it/repls/DeeppinkGrowlingAmoeba
+https://www.google.com/search?q=python3+repl&oq=python3+repl
 
 ### There are no `if`s or buts about it!
 Python: `if`, `elif`, and `else`
