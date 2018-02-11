@@ -7,7 +7,7 @@
 
 
 ### Code Online
-https://www.google.com/search?q=python3+repl&oq=python3+repl
+https://www.google.com/search?q=python3+repl&btnI=
 
 ### There are no `if`s or buts about it!
 Python: `if`, `elif`, and `else`
