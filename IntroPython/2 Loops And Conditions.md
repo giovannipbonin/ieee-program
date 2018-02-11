@@ -1,8 +1,9 @@
 # Week 2
 
 ## Some Updates
-1. Join our Slack! https://umiami-orgs.slack.com/messages/C98DU69QF/
-2. HackerRank is a great resource
+1. The link to me: www.tinyurl.com/swe-python1
+2. Join our Slack! https://umiami-orgs.slack.com/messages/C98DU69QF/
+3. HackerRank is a great resource
       - [30 Days of Code](https://www.hackerrank.com/challenges/30-hello-world/problem)
 
 
