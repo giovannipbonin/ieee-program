@@ -3,12 +3,12 @@
 ## Some Updates
 1. Join our Slack! https://umiami-orgs.slack.com/messages/C98DU69QF/
 2. HackerRank is a great resource
-      - (30 Days of Code)[https://www.hackerrank.com/challenges/30-hello-world/problem]
+      - [30 Days of Code](https://www.hackerrank.com/challenges/30-hello-world/problem)
 
 
-### Example: Using JS and Python as a Formula Calculator!
-Python3 Online: https://repl.it/repls/InternationalCylindricalWeaverbird
-Javascript Online: https://repl.it/repls/DeeppinkGrowlingAmoeba
+### Code Online
+      - Python3 Online: https://repl.it/repls/InternationalCylindricalWeaverbird
+      - Javascript Online: https://repl.it/repls/DeeppinkGrowlingAmoeba
 
 ### There are no `if`s or buts about it!
 Python: `if`, `elif`, and `else`
