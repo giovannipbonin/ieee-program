@@ -1,130 +1,128 @@
 # Week 4
 
 ## Some Updates
-1. The link to me: www.tinyurl.com/swe-python4
+1. The link to me: www.tinyurl.com/swe-python5
 2. Join our Slack! https://umiami-orgs.slack.com/messages/C98DU69QF/
 
 ### Code Online
 https://www.google.com/search?q=python3+repl&btnI=
 
-### Review: Functions and Dictionaries
-```
-def function_name(argument1, argument2):
-    # The body of the function
-    return some_value
-```
-
-```
-students = dict()
-students['dxm11'] = 'Devin Michaels'
-students['dwg11'] = 'David Grossman'
-
-devin = students['dxm11']
-print(devin)
-```
-
-# Functions
-
-## Default Arguments
-
-1. You can use them if you'd like! But by default, they have a specified value.
-2. Don't set `list`s, `dict`s as default values!
-```
-def ask_ok(prompt, retries=4, reminder='Please try again!'):
-    while True:
-        ok = input(prompt)
-        if ok in ('y', 'ye', 'yes'):
-            return True
-        if ok in ('n', 'no', 'nop', 'nope'):
-            return False
-        retries = retries - 1
-        if retries < 0:
-            raise ValueError('invalid user response')
-        print(reminder)
-```
-
-## Miscellaneous Notes
-1. Nameyour parameters when you call them! It can make code easier to read
-Meh...
-```
-twitter_search('@obama', False, 20, True)
-```
-Better!
-```
-twitter_search('@obama', retweets=False, numtweets=20, popular=True)
-```
-
-# Creating simple sequences: Tuples
-```
-person = 'Raymond', 'Hettinger', 30, 'python@example.com'
-fname, lname, age, email = p
-print(lname)
-```
-
-# Setting up your own Environment
-1. First, head to https://www.python.org/downloads/ and download Python 3.6.X
-2. We will need to have Python installed locally to do some of the next work
-3. I personally prefer writing Python code in PyCharm. [Check it out!] (https://www.jetbrains.com/pycharm/)
-4. If you are adventurous, check out [Python Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
-
-
-# The Command Line
-What is "The Command Line"?
-
-## Some command line basics on Unix/Linux systems
-1. `ls` - List files
-2. `cd` - Change "directory" or folders
-3. `cd ~` - Go to your home directory
-4. `cd ~/code` - Go to your home directory and then into the folder "code"
-5. I would recommend learning `vim` or `emacs` if you're planning to code for a long time. It makes life a lot easier
-6. `vim` and `emacs` are ways to edit text files from the command line.
-
-# Reading and writing files
-
-```
-file = open("file.txt")
-data = file.read()
-print(data)
-file.close()
-
-```
-## Some Useful Functions and Shortcuts
-```
-# Iterates over each line in the file
-for line in file:
-  print(line)
-```
-
-```
-# Returns a list with each line being a line from the file
-list_of_lines = file.readlines()
-```
-
-
+# Review: Files
 ```
 with open("file.txt") as f:
     data = f.read()
     print(data)
 ```
 
-# Let's Play with Some Files!
-1. Download this file [here]()
-2. Or, go for the full sized file [here](https://github.com/dwyl/english-words/blob/master/words_alpha.txt). Note: It is 4MB.
-
-3. What our task is for the rest of the day: Figure out if the user inputs a word, is it in our dictionary.
-      - AND: Write our responses to a new file.
-4. Some useful functions: "string1 string2".split(" ")
-
-# Something fun
-```
-import os
-os.system('say "your program has finished"')
-```
-
-# Some practice for home
+# Projects from last week
 1. If you have done the String Compression problem from last week, try compressing `words.txt`. Does it get smaller?
 2. If you did the Pig Latin program, try converting every word in `words.txt` into Pig Latin and then write it to file.
 3. Do the same as above except for your cipher program!
 
-# Survey
-https://docs.google.com/forms/d/e/1FAIpQLScl4sS6iKYGkyBnfTisGtaeuYDfyzpTEVzdxwQIZ1XgPEQ2QQ/viewform?usp=sf_link
+# Python Modules 
+
+## A Great Companion Resource
+
+# What is a REST API?
+1. How most applications get information from the internet
+2. Use cases
+    - Communicating between websites: Amazon talks to your PayPal account
+    - Programming a website without interacting with the graphical user interface
+        - Useful if you want a LOT of data. GUIs make things slower
+3. Good resource for more in depth info: https://restful.io/an-introduction-to-api-s-cee90581ca1b
+
+## REST Request Process
+![alt text](https://cdn-images-1.medium.com/max/1600/0*bYF8loGdnpHklSKS.gif)
+
+## Types of REST Requests: Methods
+1. GET - Ask a server to retrieve content
+2. POST - Ask a server to create a 'resource' on the server
+3. PUT - Ask the server to edit/update an existing 'resource'
+4. DELETE - Ask the server to delete a resource
+
+## Parts of a REST Request
+1. URL 
+    - who knew it stood for "Uniform Resource Locator"???
+2. Method
+3. List of Headers 
+    - For example: Communicating what types of data we can accept
+4. Body 
+    - Information about the REST request
+
+## REST Response
+![](https://cdn-images-1.medium.com/max/1600/0*EEhV9BlXgsTFnBW8.gif)
+1. Classic Status Codes
+    - `200` - All clear!
+    - `401` - You don't have API credentials. You aren't authenticated
+    - `400` - You made a bad request! The server doesn't understand what you asked for
+    - `404` - The server couldn't find the item you are trying to access
+
+## Let's Try It Out!
+### Things We Will Use
+1. Open API From Space: http://open-notify.org/
+2. The `requests` module from Python
+    - Documentation here: http://docs.python-requests.org/en/master/
+
+### The Open API From Space 
+1. Current Location of the ISS
+    - `GET` from URL: http://api.open-notify.org/iss-now.json
+2. Next time ISS will pass overhead
+    - `GET` from same URL with parameters
+    - `latitude` and `longitude`
+
+### Using `requests`
+1. `requests` library has `get`, `post`, `put`, and `delete` methods
+2. For example: `requests.get("google.com")` would get a request from Google.com
+3. Depending on the function, we can see what parameters it takes.
+    - Let's try it: http://docs.python-requests.org/en/master/api/#requests.get
+4. Returns `Response` object
+
+### Let's Try It Out!
+
+```
+import requests
+
+space_url = 'http://api.open-notify.org/iss-now.json'
+
+response = requests.get(space_url)
+
+print("Printing 'response':", response)
+
+print("Status Code:", response.status_code)
+
+print("Content:", response.content)
+
+```
+
+### JSON...Merp
+1. For now, we'll just figure out how to print it prettily
+2. "Magic" Code to make the output of Content to look pretty
+```
+import json
+your_json = your_json = '["foo", {"bar":["baz", null, 1.0, 2]}]'
+parsed = json.loads(your_json)
+print json.dumps(parsed, indent=4, sort_keys=True)
+```
+
+### Finishing up our example
+1. Include the JSON code as a new function 
+2. Pass `response.content` to it and print it out
+3. But what if we want to just get the latitude and longitude from the response, not the whole text?
+
+### Understanding JSON: JavaScript Object Notation
+https://www.digitalocean.com/community/tutorials/an-introduction-to-json
+1. JSON is a way to store lists and dictionaries.
+2. Very convenient to pass around data
+3. When we have a JSON file, we can think of it as just a bunch of text, or  we can use something that will parse it into lists and dictionaries
+4. Dictionaries of dictionaries of dictionaries of ...
+5. `json` library documentation: https://docs.python.org/2/library/json.html
+
+# Thoughts for Projects to Work On
+1. Read through the links on REST APIs. They will help you understand more how REST works.
+2. Find an API and figure out how to use it. Some thoughts on APIs to try: 
+    - https://automatetheboringstuff.com/list-of-json-apis.html
+    - Google Maps
+    - Reddit
+    - Twitter
+    - [NYTimes](https://developer.nytimes.com/)
+
