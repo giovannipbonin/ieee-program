@@ -16,18 +16,19 @@ params = {'lat' : 25.717396, 'lon':-80.278130}
 response = requests.get(space_url, params)
 
 print("Status Code:", response.status_code)
-if response.ok:
-    
 
+if response.ok:
+    # Make that content pretty!
     print("Content:", pretty_print(response.content))
 
     # Get date of next time we will see the ISS
-
     parsed = json.loads(response.content)
 
     if type(parsed) is dict and 'response' in parsed:
+        # Since we get back multiple times when the ISS will be overhead,
+        # we only want the first one
         next_rise_time = parsed['response'][0]['risetime']
-        # Converts Unix Time to readable date
+        # Converts Unix Time to readable date. Another module!
         date_of_risetime = time.ctime(int(next_rise_time))
         print("Next time we will see the ISS is", date_of_risetime)
 else:
