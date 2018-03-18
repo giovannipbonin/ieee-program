@@ -11,7 +11,7 @@ def pretty_print(string):
 space_url = 'http://api.open-notify.org/iss-pass.json'
 
 # Parameters for the body of the REST API call
-params = {'lat' : 25.717396, 'lon':-80.278130}
+params = {'lon' : -80.27813, 'lat':25.717396}
 
 response = requests.get(space_url, params)
 
