@@ -3,21 +3,19 @@
 ## Some Updates
 1. The link to me: www.tinyurl.com/swe-python5
 2. Join our Slack! https://umiami-orgs.slack.com/messages/C98DU69QF/
+3. Check out [Coursera's Python Sequence](https://www.coursera.org/specializations/python)
+    - It's great to learn a language from a couple of different perspectives
 
 ### Code Online
 https://www.google.com/search?q=python3+repl&btnI=
 
-# Review: Files
-```
-with open("file.txt") as f:
-    data = f.read()
-    print(data)
-```
-
-# Projects from last week
-1. If you have done the String Compression problem from last week, try compressing `words.txt`. Does it get smaller?
-2. If you did the Pig Latin program, try converting every word in `words.txt` into Pig Latin and then write it to file.
-3. Do the same as above except for your cipher program!
+# Version Control: Git
+1. First, it's super practical to run programs on your own computer.
+2. `Repl.it` is fantastic, but over the long term, use Python on your computer
+3. Saving code matters. Sharing code matters! Use Git.
+    - [90% of developers](https://insights.stackoverflow.com/survey/2018/#work-version-control) use Git
+4. For now, just use a [GitHub account](github.com/)
+5. But at home, definitely [download Git](https://git-scm.com/downloads)
 
 # Python Modules 
 
@@ -83,13 +81,10 @@ with open("file.txt") as f:
 import requests
 
 space_url = 'http://api.open-notify.org/iss-now.json'
-
 response = requests.get(space_url)
 
 print("Printing 'response':", response)
-
 print("Status Code:", response.status_code)
-
 print("Content:", response.content)
 
 ```
