@@ -5,10 +5,19 @@
 2. Join our Slack! https://umiami-orgs.slack.com/messages/C98DU69QF/
 3. Check out [Coursera's Python Sequence](https://www.coursera.org/specializations/python)
     - It's great to learn a language from a couple of different perspectives
+4. Fun stuff: Go read some of Paul Graham's Essays
+    - http://www.paulgraham.com/love.html
 
-### Code Online
-https://www.google.com/search?q=python3+repl&btnI=
+## Python Exercises to Get Things Rolling
+1. [Google Python Exercises](https://developers.google.com/edu/python/exercises/basic)
+    - Start with the `basic` folder. Lots of good stuff!
+    - Solutions are provided. Try to go as far as you can yourself, but don't be afraid to get help
+    - Reading other people's code is super useful.
+2. Don't underestimate the importance of grinding through exercises and practice!
+    - Coding is a craft. Loving it makes it super easy to do it well
+3. What are you looking to work on?
 
+    
 # Version Control: Git
 1. First, it's super practical to run programs on your own computer.
 2. `Repl.it` is fantastic, but over the long term, use Python on your computer
