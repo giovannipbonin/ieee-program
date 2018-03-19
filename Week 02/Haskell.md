@@ -168,6 +168,8 @@ myNickname = "suppi"
 - Similar to enums in other languages
 - We use `|` to say "alternatively"
 - Each option must start with an uppercase letter
+- We can also use `data` to define compound data of existing types
+- Similar to structs in other languages
 
 ```hs
 data KnownColor -- the new type's name
@@ -178,8 +180,6 @@ data KnownColor -- the new type's name
 redColor :: KnownColor
 redColor = Red
 
-- We can also use `data` to define compound data of existing types
-- Similar to structs in other languages
 
 data RGB
   = MkRGB Int Int Int
@@ -471,4 +471,34 @@ main = do
 - [A simple JSON EDSL](https://gist.github.com/soupi/c7c94a45d006bc70f3b896f327ea47a3)
 - [Try it in repl.it](https://repl.it/repls/IntrepidVacantGraywolf) to see the result
 
+# Let's Create Lists!
+```hs
+data List a
+  = Nil
+  | a :. (List a)
 
+```
+- Let's build up from here!
+    1. Length of List
+    2. Infinite lists
+    3. Head and tail
+    4. Product of list of ints
+    5. Sum of list of ints
+    6. Map
+    7. Concat two lists
+    8. Reverse
+    9. Filter
+    10. Fold Left, Fold Right
+
+- Some necessary helper code
+```hs
+infixr 5 :. 
+
+instance Show t => Show (List t) where
+  show = show . foldRight (:) []
+
+-- functions over List that you may consider using
+foldRight :: (a -> b -> b) -> b -> List a -> b
+foldRight _ b Nil      = b
+foldRight f b (h :. t) = f h (foldRight f b t)
+```
