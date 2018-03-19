@@ -322,81 +322,8 @@ list123 = ValAndNext 1 (ValAndNext 2 (ValAndNext 3 EndOfList))
 
 ---
 
-## Recursive Types and Data Structures
-
-- A recursive data type is a data definition that refers to itself
-- This lets us define even more interesting data structures such as linked lists and trees
-
-```hs
-data IntTree
-  = Leaf
-  | Node
-      IntTree      -- Left subtree
-      Int          -- Node value
-      IntTree      -- Right subtree
-
---     2
---    / \
---   1   3
---  /
--- 1
-tree1123 :: IntTree
-tree1123 =
-  Node
-    (Node (Node Leaf 1 Leaf) 1 Leaf)
-    2
-    (Node Leaf 3 Leaf)
-
-```
-
----
-
-## Defining Types - Type variables
-
-- We can use type variables when defining types
-- We can define generic structures
-- This way we don't have to restrict our structure to a specific type such as `Int` or `Bool` like in the previous slide
-
-```hs
--- a value of type a or nothing
-data Maybe a
-  = Just a
-  | Nothing
-
--- a value of type a or a value of type b
-data Either a b
-  = Left a
-  | Right b
-
--- A linked list of `a`s
-
--- Note: there's also a built in syntax in Haskell for linked lists
-
-data List a          -- [a]    -- special syntax for a linked list of a generic type `a`
-  = Nil              -- []     -- special syntax for the empty list
-  | Cons a (List a)  -- x : xs -- special operator for constructing a list
-```
-
----
-
 ## Case Expression (Pattern Matching)
 
-- Allows us to write control flows on data types
-- Matches from top to bottom
-
-```hs
-case <expr> of
-  <pattern1> -> <result1>
-  <pattern2> -> <result2>
-  ...
-  <patternN> -> <resultN>
-```
-
----
-
-## Case Expression (Pattern Matching)
-
-- Allows us to write control flows on data types
 - Matches from top to bottom
 
 ```hs
@@ -411,7 +338,6 @@ myIf test trueBranch falseBranch =
 
 ## Case Expression (Pattern Matching)
 
-- Allows us to write control flows on data types
 - Matches from top to bottom
 
 ```hs
@@ -426,7 +352,6 @@ factorial num =
 
 ## Case Expression (Pattern Matching)
 
-- Allows us to write control flows on data types
 - Matches from top to bottom
 - The pattern `_` means match anything
 
@@ -444,31 +369,8 @@ colorName color =
 
 ---
 
-## Do notation
-
-- Do notation is special syntax for writing IO actions in a way that looks imperative
-- `<-` is used to bind the result of an IO action to a variable when using do notation
-- `let` is used to bind an expression to a name
-
-```hs
-main :: IO ()
-main = do
-  putStrLn "Hello!"
-  putStrLn "What is your name?"
-  result <- getLine
-  putStrLn ("Nice to meet you, " ++ result)
-  putStrLn "Here is the result of 1+1: "
-  let calculation = factorial 100 -- note that when using do notation we don't need to use `in`
-  putStrLn (show (factorial 100))
-  putStrLn "Bye!"
-
-```
-
----
-
 ## Example
 
-- [A simple JSON EDSL](https://gist.github.com/soupi/c7c94a45d006bc70f3b896f327ea47a3)
 - [Try it in repl.it](https://repl.it/repls/IntrepidVacantGraywolf) to see the result
 
 # Let's Create Lists!
