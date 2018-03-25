@@ -43,7 +43,7 @@ We've got 5 classes left. Here are some ideas of what we can cover:
 
 
 #### Some Examples
-- `n^2 - 5n + 1000 = O(N^2)
+- `n^2 - 5n + 1000 = O(N^2)`
 
 ```python
 N = 100
