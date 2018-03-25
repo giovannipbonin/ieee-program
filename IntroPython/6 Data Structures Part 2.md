@@ -59,7 +59,8 @@ for i in range(N):
 1. O(n^2) - quadratic
 
 #### Big-O Notation
-- Mathematically, if we have a function `f(x)` and if we can find a number `C` and a number `N` for which all `x>N`, `|f(x) ≤ C|g(x)|`
+- Mathematically, if we have a function `f(x)`, we say `O(f(x)) = g(x)` if we can find a number `C` and a number `N` for which all `x>N`
+    - Then `|f(x)| ≤ C|g(x)|`
 
 ### How Lists Work
 1. A chunk of memory that is all next to each other
