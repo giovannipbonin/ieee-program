@@ -45,7 +45,7 @@ We've got 5 classes left. Here are some ideas of what we can cover:
 #### Some Examples
 - `n^2 - 5n + 1000 = O(N^2)
 
-- ```python
+```python
 N = 100
 for i in range(N):
   for j in range(N):
