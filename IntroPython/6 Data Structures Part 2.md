@@ -8,7 +8,7 @@
     - It's great to learn a language from a couple of different perspectives
 1. Fun stuff: Go read some of Paul Graham's Essays
     - http://www.paulgraham.com/love.html
-1. A bug on my computer
+1. A [bug](https://github.com/will8211/unimatrix) on my computer
 
 ## The Rest of the Semester
 We've got 5 classes left. Here are some ideas of what we can cover:
@@ -57,10 +57,15 @@ for i in range(N):
 1. O(log(n)) - logarithmic
 1. O(N) - linear 
 1. O(n^2) - quadratic
+![](https://cdn-images-1.medium.com/max/1500/1*_nsMVEEkIr1CH8aHjTNbzA.jpeg)
 
 #### Big-O Notation
-- Mathematically, if we have a function `f(x)`, we say `O(f(x)) = g(x)` if we can find a number `C` and a number `N` for which all `x>N`
+- Mathematically, if we have a function `f(x)`, we say `O(f(x)) = g(x)` if we can find a number `C` and a number `N` for which all `x > N`
     - Then `|f(x)| ≤ C|g(x)|`
+- Intuitively, for a mathematical function, it's the component that will have the biggest impact on the run time
+    - Not worrying about constants
+- `O(1)` - The algorithm's performance will be the same no matter how big the input is
+- `O(N)` -  The algorithm's performance will be directly proportional to the size of the input
 
 ### How Lists Work
 1. A chunk of memory that is all next to each other
@@ -150,5 +155,6 @@ False
     - Reading other people's code is super useful.
 2. Don't underestimate the importance of grinding through exercises and practice!
     - Coding is a craft. Loving it makes it super easy to do it well
+3. Using git, `git clone https://github.com/2gotgrossman/google-python-exercises.git` or `git clone git@github.com:2gotgrossman/google-python-exercises.git`
     
 
