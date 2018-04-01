@@ -4,6 +4,9 @@
 1. Dealing with what happens when your code goes bad
     - Errors and what to do about them
 
+# Nielsen Tech Talk
+![](https://raw.githubusercontent.com/2gotgrossman/ieee-program/master/IntroPython/Nielsen%20Tech%20Talk.jpg)
+
 ## Some Updates
 1. Check out [Coursera's Python Sequence](https://www.coursera.org/specializations/python)
     - It's great to learn a language from a couple of different perspectives
