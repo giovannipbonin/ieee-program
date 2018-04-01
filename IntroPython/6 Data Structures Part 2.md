@@ -1,4 +1,4 @@
-# Week 5: Data Structures Part 2
+# Week 6: Data Structures Part 2
 1. Thinking about runtime
 1. Runtime of list and dictionary operations
 1. Tuples and sets
