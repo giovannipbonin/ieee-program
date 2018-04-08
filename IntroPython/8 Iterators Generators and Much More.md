@@ -1,8 +1,5 @@
 # Week 8: Iterators and Generators
-1. 
 1. Thinking about creating new _types_
-1. Dealing with what happens when your code goes bad
-    - Errors and what to do about them
 
 # Sensentia Talk on Semantic Networks
 1. Natural Language Processing, AI, etc
