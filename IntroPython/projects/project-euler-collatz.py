@@ -28,7 +28,7 @@ def get_collatz_chain_length(starting_number: int) -> int:
 
 def find_longest_chain(max_number):
     longest_chain = 0
-    for i in range(max_number):
+    for i in range(1, max_number):
         curr_chain = get_collatz_chain_length(i)
         if curr_chain > longest_chain:
             longest_chain = curr_chain
